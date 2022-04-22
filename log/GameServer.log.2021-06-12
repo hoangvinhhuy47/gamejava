@@ -1,0 +1,4 @@
+12-06-2021 19:29:52 INFO  [main] - Start init server...
+12-06-2021 19:29:53 INFO  [main] - Init Redis done!
+12-06-2021 19:29:54 INFO  [main] - Init Mongo done!
+12-06-2021 19:29:54 INFO  [main] - Init ServerConfig(load from server_config.json) done!

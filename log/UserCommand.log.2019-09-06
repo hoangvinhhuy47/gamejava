@@ -1,0 +1,22 @@
+06-09-2019 09:19:57 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"08fdd99437972ded0112146b253f055e96a2c2c3","platform":"UNKNOWN"}
+06-09-2019 09:20:11 INFO  [nioEventLoopGroup-7-1] - User offline - 79660
+06-09-2019 13:05:50 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"08fdd99437972ded0112146b253f055e96a2c2c3","platform":"UNKNOWN"}
+06-09-2019 13:18:11 INFO  [nioEventLoopGroup-7-1] - User offline - 79660
+06-09-2019 13:18:16 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"08fdd99437972ded0112146b253f055e96a2c2c3","platform":"UNKNOWN"}
+06-09-2019 13:20:57 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 79660
+06-09-2019 15:59:38 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 16:03:00 INFO  [nioEventLoopGroup-7-1] - User offline - 79660
+06-09-2019 16:03:14 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 16:09:11 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 16:13:30 INFO  [nioEventLoopGroup-7-1] - User offline - 79660
+06-09-2019 16:23:13 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 16:24:09 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 79660
+06-09-2019 16:24:37 INFO  [nioEventLoopGroup-7-2] - User offline - 79660
+06-09-2019 16:48:33 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 16:56:39 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 17:00:00 INFO  [nioEventLoopGroup-7-1] - User offline - 79660
+06-09-2019 17:03:33 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 17:03:45 INFO  [nioEventLoopGroup-7-1] - User offline - 79660
+06-09-2019 17:03:51 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 17:03:58 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+06-09-2019 17:04:58 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}

@@ -1,0 +1,22 @@
+//syntax = "proto2";
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "JackpotGameProto";
+
+message JoinRoomRequest{
+    optional int32 roomId = 1;
+}
+
+message RoomStakeInfo{
+    optional int64 stepMoney = 2;
+    optional int64 defaultStep = 3;
+    optional int64 maxStep = 4;
+    optional int64 minStep = 5;
+}
+
+message RoomPotResponse{
+    optional int32 roomId = 2;
+    optional int64 pot = 3;
+}

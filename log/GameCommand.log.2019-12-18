@@ -1,0 +1,108 @@
+18-12-2019 10:05:21 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 10:06:06 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 10:09:34 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 10:19:30 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+18-12-2019 11:01:30 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+18-12-2019 11:03:23 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+18-12-2019 11:04:10 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+18-12-2019 11:07:13 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+18-12-2019 11:07:41 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[214567] hit Fish[1016] by Bullet[12]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:138)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:528)
+	at games.shootingfish.GameCommand.process(GameCommand.java:69)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:168)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:88)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:34)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+18-12-2019 11:07:46 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 11:09:12 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 11:09:55 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 11:17:02 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+18-12-2019 11:17:44 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+18-12-2019 11:17:56 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+18-12-2019 11:21:37 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+18-12-2019 11:53:00 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+18-12-2019 15:18:00 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 15:22:36 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 15:24:36 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 15:25:47 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+18-12-2019 15:27:52 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+18-12-2019 15:30:17 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+18-12-2019 15:35:43 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+18-12-2019 15:36:53 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+18-12-2019 15:39:18 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 15:53:15 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 15:53:30 INFO  [pool-1-thread-5] - Leave table error, get player null
+18-12-2019 16:06:50 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 16:08:35 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 16:17:13 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 16:32:49 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:09:46 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:15:30 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:16:14 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 17:17:08 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:17:29 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 17:18:27 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:18:41 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 17:19:12 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 17:22:00 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+18-12-2019 17:25:20 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+18-12-2019 17:26:46 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+18-12-2019 17:27:38 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+18-12-2019 17:31:15 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+18-12-2019 17:33:50 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:34:05 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 17:38:01 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:55:36 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 17:58:22 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 17:58:51 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 17:59:53 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+18-12-2019 18:00:20 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+18-12-2019 18:00:52 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+18-12-2019 18:02:46 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 18:04:13 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 18:14:06 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 18:17:21 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 18:23:17 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+18-12-2019 18:23:48 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+18-12-2019 18:28:10 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+18-12-2019 18:32:44 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+18-12-2019 18:33:31 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+18-12-2019 18:56:36 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 18:58:25 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:02:22 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:07:26 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:08:20 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:09:16 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:12:19 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:17:18 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:19:53 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:23:15 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+18-12-2019 19:28:49 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:32:58 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+18-12-2019 19:33:11 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null

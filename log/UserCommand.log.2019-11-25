@@ -1,0 +1,2 @@
+25-11-2019 08:52:57 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+25-11-2019 08:54:09 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"WINDOW_PHONE"}

@@ -1,0 +1,107 @@
+package com.nope.fishing;
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "ThreeCardProto";
+
+message TCGameInfo
+{
+    repeated TCRoomInfo rooms = 1;
+    repeated int32 iDOfDeletedRooms = 2;
+    optional int64 money = 3;
+    optional int32 avatar = 4;
+}
+
+message TCRoomInfo
+{
+    optional int32 roomId = 1;
+    optional int32 errorCode = 2;
+    repeated TCUserInfo users = 3;
+    optional int64 betLevel = 4;
+
+    optional string tableOwner = 5;
+    optional int32 maxPlayersOfRoom = 6;
+    optional int32 playersJoinedRoom = 7;
+    optional int32 masterID = 8;
+    optional bool isRoomActive = 9;
+}
+
+message TCUserInfo
+{
+    optional string nickName = 1;
+    optional int64 money = 2;
+    optional int32 posUser = 3;
+    optional int32 userId = 4;
+    optional bool isMasterClient = 5;
+    optional int64 winGold = 6;
+    optional bool isLostFour = 7;
+    optional int32 idAvatar = 8;
+    optional int32 roomID = 9;
+    optional int64 betAmount = 10;
+    optional int32 scoreCard = 11;
+ }
+
+message TCNewRoom
+{
+    optional string tableOwner = 1;
+    optional int64 betLevel = 2;
+    optional int32 numberPlayers = 3;
+}
+
+message TCCountdown
+{
+    optional bool isStartCountdown = 1;
+    optional float time = 2;
+    optional int32 roomId = 3;
+    optional int32 userId = 4;
+}
+
+message TCCards
+{
+    optional int32 roomId = 1;
+    optional int32 userId = 2;
+    optional int32 errorCode = 3;
+    optional int32 idCard = 4;
+    optional int32 ordinalCard = 5;
+    repeated int32 listCard = 6;
+}
+
+message TCCardInfo
+{
+    optional int32 cardId = 1;
+    optional TCVector2 anchoredPosition = 2;
+    optional TCVector2 anchorMin = 3;
+    optional TCVector2 anchorMax = 4;
+}
+
+message TCVector2
+{
+    optional float x = 1;
+    optional float y = 2;
+}
+
+message TCUserGoFirst
+{
+    optional int32 userId = 1;
+    optional int32 cardId = 2;
+    optional bool isNewGame = 3;
+}
+
+message TCUserPass
+{
+    optional int32 roomId = 1;
+    optional int32 userId = 2;
+    optional bool isPass = 3;
+}
+
+message TCUserPenalty
+{
+    optional int32 roomId = 1;
+    optional bool isLoser = 3;
+}
+
+message TCUserBetInfo
+{
+    optional int32 roomId = 1;
+    optional TCUserInfo master = 2;
+    repeated TCUserInfo users = 3;
+}

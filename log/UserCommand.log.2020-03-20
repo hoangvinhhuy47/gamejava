@@ -1,0 +1,2 @@
+20-03-2020 14:38:31 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+20-03-2020 14:41:45 INFO  [nioEventLoopGroup-7-1] - User offline - 54320

@@ -1,0 +1,2 @@
+precompile.exe Foo\FishShooting.dll -o:FishShootingSerializer.dll -t:FishShootingSerializer Foo\protobuf-net.dll
+

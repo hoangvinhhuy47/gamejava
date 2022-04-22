@@ -1,0 +1,2 @@
+23-09-2019 12:46:30 INFO  [pool-1-thread-3] - Close channel because over time HARD_TIME_OUT - time disactive = 185 - user id = 13027
+23-09-2019 18:19:07 INFO  [nioEventLoopGroup-7-5] - Duplicate login - 13027 - force quit

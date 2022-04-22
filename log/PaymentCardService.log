@@ -1,0 +1,72 @@
+23-07-2020 15:05:24 INFO  [nioEventLoopGroup-7-8] - REQUEST CARD TransId: 32037-1595491524
+23-07-2020 15:08:27 INFO  [nioEventLoopGroup-7-8] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:11:03 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 32037-1595491863
+23-07-2020 15:11:34 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:12:24 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 32037-1595491944
+23-07-2020 15:12:31 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:12:50 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 32037-1595491970
+23-07-2020 15:12:55 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:13:17 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 32037-1595491997
+23-07-2020 15:13:28 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:13:56 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 32037-1595492036
+23-07-2020 15:15:24 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 32037-1595492124
+23-07-2020 15:15:52 INFO  [nioEventLoopGroup-7-1] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:18:12 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 32037-1595492292
+23-07-2020 15:19:09 INFO  [nioEventLoopGroup-7-1] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:22:32 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 32037-1595492552
+23-07-2020 15:22:37 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"Giao dá»‹ch bá»‹ tá»« chá»‘i. Tháº» nÃ y Ä‘Ã£ tá»“n táº¡i trÃªn há»‡ thá»‘ng xem láº¡i cÃ¡c trÆ°á»�ng Ä‘Ã£ nháº­p!","Result":{"Id":0,"Serial":"089361000011468","Code":"414366260957","CreatedAt":"2020-07-23T15:22:35.5722044+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"32037-1595492552"}}
+23-07-2020 15:23:09 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD: Code = 404 Status: 0
+23-07-2020 15:39:42 INFO  [nioEventLoopGroup-7-4] - REQUEST CARD TransId: 32037-1595493582
+23-07-2020 15:39:47 INFO  [nioEventLoopGroup-7-4] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+23-07-2020 15:40:13 INFO  [nioEventLoopGroup-7-4] - REQUEST CARD TransId: 32037-1595493613
+23-07-2020 15:40:16 INFO  [nioEventLoopGroup-7-4] - The247 requestCard response:{"Version":"1.0","Code":200,"Message":"Successfully","Result":{"Id":0,"Serial":"089381000002427","Code":"453450228437","CreatedAt":"2020-07-23T15:40:14.4783773+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"32037-1595493613"}}
+23-07-2020 15:40:23 INFO  [nioEventLoopGroup-7-4] - REQUEST CARD: Code = 200 Status: 0
+23-07-2020 15:40:25 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:40:26 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:40:26 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:40:26 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 1, status:7
+23-07-2020 15:40:26 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:40:36 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:40:37 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:40:37 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:40:37 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 2, status:7
+23-07-2020 15:40:37 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:40:47 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:40:49 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:40:49 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:40:49 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 3, status:7
+23-07-2020 15:40:49 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:40:59 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:41:00 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:41:00 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:41:00 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 4, status:7
+23-07-2020 15:41:00 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:41:10 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:41:11 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:41:11 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:41:11 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 5, status:7
+23-07-2020 15:41:11 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:41:21 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:41:22 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:41:22 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:41:22 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 6, status:7
+23-07-2020 15:41:22 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:41:32 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:41:34 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:41:34 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:41:34 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 7, status:7
+23-07-2020 15:41:34 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:41:44 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:41:45 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:41:45 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:41:45 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 8, status:7
+23-07-2020 15:41:45 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:41:55 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:41:56 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":7,"amount":10000.0}}
+23-07-2020 15:41:56 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:41:56 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 9, status:7
+23-07-2020 15:41:56 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 wait 10 second for next check
+23-07-2020 15:42:06 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613
+23-07-2020 15:42:07 INFO  [nioEventLoopGroup-7-4] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"32037-1595493613","status":1,"amount":10000.0}}
+23-07-2020 15:42:07 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 httpCode = 200
+23-07-2020 15:42:07 INFO  [nioEventLoopGroup-7-4] - VERIFY CARD trans_id=32037-1595493613 => Verify time: 10, status:1

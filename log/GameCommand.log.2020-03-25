@@ -1,0 +1,6 @@
+25-03-2020 09:25:00 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+25-03-2020 10:22:46 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+25-03-2020 10:30:47 ERROR [nioEventLoopGroup-7-2] - [processGenerateBullet] - Can't generate Bullet, Player[256548]
+25-03-2020 10:48:15 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+25-03-2020 10:55:18 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+25-03-2020 11:23:51 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null

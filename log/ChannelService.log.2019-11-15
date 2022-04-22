@@ -1,0 +1,2 @@
+15-11-2019 16:20:00 INFO  [pool-1-thread-5] - Close channel because over time HARD_TIME_OUT - time disactive = 184 - user id = 13027
+15-11-2019 16:27:15 INFO  [pool-1-thread-2] - Close channel because over time HARD_TIME_OUT - time disactive = 185 - user id = 13027

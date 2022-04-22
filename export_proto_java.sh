@@ -1,0 +1,1 @@
+for f in Proto/*.proto; do ./protoc -I=Proto --java_out=src/main/java $f; done

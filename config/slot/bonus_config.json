@@ -1,0 +1,18 @@
+{
+  "base_number": 10,
+  "big_win_number": 3,
+  "empty_number": 2,
+  "base_3_multiple": 4,
+  "base_3_multiple_2": 8,
+  "base_3_multiple_3": 12,
+  "percent_base_3_multiple": 60,
+  "percent_base_3_multiple_2": 30,
+  "percent_base_3_multiple_3": 10,
+  "base_4_multiple": 20,
+  "base_5_multiple": 8000,
+  "big_win_multiple_padding_min": 8,
+  "big_win_multiple_padding_max": 16,
+  "rate_3_bonus": 100, // 100 / 10000
+  "rate_4_bonus": 10, // 10 / 10000
+  "rate_5_bonus": 1 // 1 / 10000
+}

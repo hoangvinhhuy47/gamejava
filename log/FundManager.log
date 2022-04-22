@@ -1,0 +1,24 @@
+06-05-2020 09:25:03 INFO  [main] - Not found Basefund in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found fund in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found fund dealer in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found jackpot in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found Basefund in redis. Init this NORMAL Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found fund in redis. Init this NORMAL Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found fund dealer in redis. Init this NORMAL Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found jackpot in redis. Init this NORMAL Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found Basefund in redis. Init this VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found fund in redis. Init this VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found fund dealer in redis. Init this VIP Ok!
+06-05-2020 09:25:03 INFO  [main] - Not found jackpot in redis. Init this VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found Basefund in redis. Init this VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found fund in redis. Init this VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found fund dealer in redis. Init this VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found jackpot in redis. Init this VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found Basefund in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found fund in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found fund dealer in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found jackpot in redis. Init this SUPER_VIP Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found Basefund in redis. Init this NORMAL Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found fund in redis. Init this NORMAL Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found fund dealer in redis. Init this NORMAL Ok!
+06-05-2020 09:32:13 INFO  [main] - Not found jackpot in redis. Init this NORMAL Ok!

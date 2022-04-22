@@ -1,0 +1,722 @@
+28-03-2020 09:42:01 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 09:49:30 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 09:50:39 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 09:50:46 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 09:52:59 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+28-03-2020 09:57:16 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+28-03-2020 10:10:07 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 10:10:07 INFO  [pool-1-thread-5] - Leave table error, get player null
+28-03-2020 10:22:24 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 11:29:45 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 11:32:52 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 15:53:59 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 15:56:10 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 15:56:23 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 17:32:56 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 17:44:14 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 17:45:36 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 17:49:24 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 17:50:00 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+28-03-2020 20:45:44 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 20:54:11 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 20:58:58 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 21:01:04 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 21:02:04 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+28-03-2020 21:03:12 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+28-03-2020 21:10:26 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 21:33:41 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 21:34:56 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 21:36:04 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 21:43:54 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 21:44:15 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 21:44:47 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 21:45:24 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 21:45:36 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 21:47:15 ERROR [nioEventLoopGroup-7-5] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 21:47:15 ERROR [nioEventLoopGroup-7-5] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[603] by Bullet[22]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 21:47:15 ERROR [nioEventLoopGroup-7-5] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[603] by Bullet[26]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:275)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:391)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:243)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 21:47:15 ERROR [nioEventLoopGroup-7-5] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 21:47:15 ERROR [nioEventLoopGroup-7-5] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 21:47:32 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+28-03-2020 21:48:00 ERROR [nioEventLoopGroup-7-6] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[744] by Bullet[8]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 21:56:17 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 21:57:06 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 21:57:54 ERROR [nioEventLoopGroup-7-3] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 21:57:54 ERROR [nioEventLoopGroup-7-3] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[310] by Bullet[39]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 21:58:36 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:06 ERROR [nioEventLoopGroup-7-4] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:01:33 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 22:02:45 ERROR [nioEventLoopGroup-7-5] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[1043] by Bullet[18]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:275)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:391)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:243)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 22:02:45 ERROR [nioEventLoopGroup-7-5] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:02:55 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+28-03-2020 22:04:59 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+28-03-2020 22:29:05 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:29:05 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:30:43 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 22:31:29 ERROR [nioEventLoopGroup-7-2] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:40:58 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 22:41:33 ERROR [nioEventLoopGroup-7-2] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 22:42:02 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 23:05:08 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 23:06:24 ERROR [nioEventLoopGroup-7-2] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[413] by Bullet[31]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 23:06:24 ERROR [nioEventLoopGroup-7-2] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 23:06:53 ERROR [nioEventLoopGroup-7-2] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[522] by Bullet[8]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 23:07:24 ERROR [nioEventLoopGroup-7-2] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[565] by Bullet[15]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 23:09:26 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 23:17:58 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[141] by Bullet[17]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 23:17:58 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 23:18:48 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[305] by Bullet[27]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 23:18:54 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 23:22:46 ERROR [nioEventLoopGroup-7-2] - [processGenerateBullet] - Can't generate Bullet, Player[28436]
+28-03-2020 23:23:08 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 23:23:45 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 23:24:24 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+28-03-2020 23:24:46 ERROR [nioEventLoopGroup-7-5] - [processHitFish in GameCommand] - error when Player[28436] hit Fish[4] by Bullet[1]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:606)
+	at games.shootingfish.GameCommand.process(GameCommand.java:73)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+28-03-2020 23:27:44 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+28-03-2020 23:39:00 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+28-03-2020 23:42:28 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+28-03-2020 23:47:15 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+28-03-2020 23:49:58 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+28-03-2020 23:51:00 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+28-03-2020 23:51:23 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+28-03-2020 23:51:53 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null

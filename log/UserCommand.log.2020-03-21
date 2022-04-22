@@ -1,0 +1,3 @@
+21-03-2020 15:00:39 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":1000,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+21-03-2020 15:01:36 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":1000,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+21-03-2020 15:02:08 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":1000,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}

@@ -1,0 +1,14 @@
+package games.slot;
+
+public interface SlotConst
+{
+    int SLOT_OCEAN_ID = 20;
+    int SLOT_OCEAN_NORMAL_ROOM_ID = 20001;
+    int SLOT_OCEAN_RICH_ROOM_ID = 20002;
+    int SLOT_OCEAN_VIP_ROOM_ID = 20003;
+
+    int SLOT_THREE_KINGDOMS_ID = 21;
+    int SLOT_THREE_KINGDOMS_NORMAL_ROOM_ID = 21001;
+    int SLOT_THREE_KINGDOMS_RICH_ROOM_ID = 21002;
+    int SLOT_THREE_KINGDOMS_VIP_ROOM_ID = 21003;
+}

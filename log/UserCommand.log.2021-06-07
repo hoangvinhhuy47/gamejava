@@ -1,0 +1,2 @@
+07-06-2021 11:02:56 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+07-06-2021 11:24:40 INFO  [nioEventLoopGroup-7-1] - User offline - 23218

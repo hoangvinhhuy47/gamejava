@@ -1,0 +1,101 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "MiniGameProtos";
+
+
+// Wheel
+
+message WheelRequestInfo {
+
+}
+
+message WheelItemInfoBean {
+    required int32 		item_id = 1;
+    required int32     	wheel_id = 2;
+    required string		name = 3;
+    optional string		item_productId = 4;
+    optional int64    	item_reward = 5;
+    optional int32     	currency = 6;
+    optional int64     	rate = 7;
+    optional int32		index = 8;
+}
+
+message WheelResponseInfo {
+    optional int32 ticket_wheel = 1;
+    optional int32 error_code = 2;
+    repeated WheelItemInfoBean	list_item = 3;
+}
+
+message WheelRequestSpin {
+
+}
+
+message WheelResponseResultSpin {
+    optional int64 session_id = 1;
+    optional int32 id_wheel1 = 2;
+    optional string message = 3;
+    optional int32 error_code = 4;
+}
+
+message WheelUserHistoryResponse {
+    repeated WheelUserHistoryData list_wheel_history = 1;
+}
+
+message WheelUserHistoryData {
+    required int64 session_id = 1;
+    optional int32 time = 2;
+    optional int32 	id_wheel1 = 3;
+}
+
+message CardTypeRequest {
+    required int32 card_type = 1;
+    optional int32 	id_wheel1 = 2;
+}
+
+message CardTypeResponseBean {
+    required int32 error_code = 1;
+    optional string message = 2;
+}
+
+// End Wheel
+
+
+
+//Gift code
+
+message GiftCodeRequestUse {
+    required string code = 1;
+}
+
+message GiftCodeResponseUse {
+    required int32 error_code = 1; //1: sucess, -1: Code sai; -2: code da su dung
+    optional string message = 2;
+    optional int64 gold_reward = 3;
+    optional int64 silver_reward = 4;
+    optional int32 ticketWheel = 5;
+}
+
+//End gift code
+
+//nhập mã giới thiệu của bạn để trả thưởng cho thằng kia
+message PromoteCodeRequestBean {
+    required string promote_code = 1;
+}
+
+//
+message PromoteCodeResponseBean {
+    required int32 error_code = 1;
+}
+
+message RewardPromoteCodeFromOtherFriend {
+    required int32 error_code = 1;
+    optional string message = 2;
+    optional int64 gold_reward = 3;
+    optional int64 silver_reward = 4;
+    optional int32 ticketWheel = 5;
+}
+
+
+

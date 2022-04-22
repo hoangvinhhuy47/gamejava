@@ -1,0 +1,19 @@
+02-03-2020 14:26:51 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+02-03-2020 14:30:00 INFO  [nioEventLoopGroup-7-1] - User offline - 54320
+02-03-2020 14:35:56 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:35:58 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:36:04 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:36:05 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:36:08 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:36:11 INFO  [nioEventLoopGroup-7-7] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:36:14 INFO  [nioEventLoopGroup-7-8] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:36:17 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+02-03-2020 14:39:15 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 28436
+02-03-2020 14:39:44 INFO  [nioEventLoopGroup-7-2] - User offline - 54320
+02-03-2020 14:39:44 INFO  [nioEventLoopGroup-7-5] - User offline - 76411
+02-03-2020 14:39:44 INFO  [nioEventLoopGroup-7-6] - User offline - 86222
+02-03-2020 14:39:45 INFO  [nioEventLoopGroup-7-3] - User offline - 45816
+02-03-2020 14:39:45 INFO  [nioEventLoopGroup-7-4] - User offline - 67375
+02-03-2020 14:39:45 INFO  [nioEventLoopGroup-7-1] - User offline - 28436
+02-03-2020 14:39:45 INFO  [nioEventLoopGroup-7-8] - User offline - 109461
+02-03-2020 14:39:45 INFO  [nioEventLoopGroup-7-7] - User offline - 91733

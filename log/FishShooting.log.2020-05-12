@@ -1,0 +1,522 @@
+12-05-2020 10:31:31 INFO  [pool-1-thread-2] - next state 1000002 BOSS5 1000002
+12-05-2020 10:31:44 INFO  [pool-1-thread-4] - next state 1000003 BOSS1 1000003
+12-05-2020 10:31:48 INFO  [pool-1-thread-5] - next state 2000002 BOSS1_2 2000002
+12-05-2020 10:32:10 INFO  [pool-1-thread-4] - next state 2000003 BOSS4_2 2000003
+12-05-2020 10:32:49 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+12-05-2020 10:32:51 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+12-05-2020 10:32:52 INFO  [pool-1-thread-5] - next state 3000001 BOSS17 3000001
+12-05-2020 10:32:55 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+12-05-2020 10:33:17 INFO  [pool-1-thread-2] - next state 2000003 NORMAL 2000003
+12-05-2020 10:33:22 INFO  [pool-1-thread-1] - next state 2000001 BOSS11 2000001
+12-05-2020 10:33:35 INFO  [pool-1-thread-3] - next state 1000001 BOSS4 1000001
+12-05-2020 10:33:35 INFO  [pool-1-thread-4] - next state 3000002 BOSS18_2 3000002
+12-05-2020 10:34:03 INFO  [pool-1-thread-3] - next state 3000003 BOSS13 3000003
+12-05-2020 10:34:13 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+12-05-2020 10:34:30 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+12-05-2020 10:34:32 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+12-05-2020 10:34:42 INFO  [pool-1-thread-4] - next state 1000001 NORMAL 1000001
+12-05-2020 10:35:08 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+12-05-2020 10:38:01 INFO  [pool-1-thread-5] - next state 1000002 BOSS4 1000002
+12-05-2020 10:38:10 INFO  [pool-1-thread-2] - next state 2000002 BOSS11 2000002
+12-05-2020 10:39:08 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+12-05-2020 10:51:23 INFO  [pool-1-thread-3] - next state 3000001 BOSS18_2 3000001
+12-05-2020 10:51:25 INFO  [pool-1-thread-5] - next state 1000001 BOSS4 1000001
+12-05-2020 10:51:34 INFO  [pool-1-thread-5] - next state 2000003 BOSS5_2 2000003
+12-05-2020 10:51:34 INFO  [pool-1-thread-1] - next state 3000003 BOSS15 3000003
+12-05-2020 10:51:45 INFO  [pool-1-thread-4] - next state 3000002 BOSS14 3000002
+12-05-2020 10:51:54 INFO  [pool-1-thread-5] - next state 2000002 BOSS11 2000002
+12-05-2020 10:52:01 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+12-05-2020 10:52:09 INFO  [pool-1-thread-4] - next state 2000001 BOSS11 2000001
+12-05-2020 10:52:13 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+12-05-2020 10:52:32 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+12-05-2020 10:52:44 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+12-05-2020 10:52:48 INFO  [pool-1-thread-1] - next state 1000003 BOSS5 1000003
+12-05-2020 10:52:51 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+12-05-2020 10:52:55 INFO  [pool-1-thread-4] - next state 1000002 BOSS4 1000002
+12-05-2020 10:53:04 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+12-05-2020 10:53:20 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+12-05-2020 10:54:03 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+12-05-2020 10:54:05 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+12-05-2020 10:58:03 INFO  [pool-1-thread-5] - next state 1000001 BOSS3 1000001
+12-05-2020 10:58:07 INFO  [pool-1-thread-2] - next state 3000003 BOSS14 3000003
+12-05-2020 10:58:09 INFO  [pool-1-thread-5] - next state 3000001 BOSS15 3000001
+12-05-2020 10:58:47 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+12-05-2020 10:59:06 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 10:59:14 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+12-05-2020 10:59:22 INFO  [pool-1-thread-3] - next state 2000002 BOSS5_2 2000002
+12-05-2020 10:59:35 INFO  [pool-1-thread-5] - next state 2000003 BOSS11 2000003
+12-05-2020 10:59:38 INFO  [pool-1-thread-3] - next state 3000002 BOSS12 3000002
+12-05-2020 11:00:34 INFO  [pool-1-thread-3] - next state 2000001 BOSS1_2 2000001
+12-05-2020 11:00:39 INFO  [pool-1-thread-5] - next state 2000002 NORMAL 2000002
+12-05-2020 11:00:43 INFO  [pool-1-thread-2] - next state 1000002 BOSS4 1000002
+12-05-2020 11:00:45 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+12-05-2020 11:00:45 INFO  [pool-1-thread-3] - next state 1000003 BOSS1 1000003
+12-05-2020 11:01:41 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+12-05-2020 11:01:43 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+12-05-2020 11:01:50 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+12-05-2020 11:01:52 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+12-05-2020 11:04:41 INFO  [pool-1-thread-1] - next state 3000001 BOSS18_1 3000001
+12-05-2020 11:05:04 INFO  [pool-1-thread-4] - next state 3000003 BOSS18_2 3000003
+12-05-2020 11:05:19 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+12-05-2020 11:05:42 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 11:05:49 INFO  [pool-1-thread-1] - next state 2000002 BOSS1_2 2000002
+12-05-2020 11:06:29 INFO  [pool-1-thread-5] - next state 1000001 BOSS3 1000001
+12-05-2020 11:06:56 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+12-05-2020 11:07:07 INFO  [pool-1-thread-5] - next state 1000003 BOSS1 1000003
+12-05-2020 11:07:11 INFO  [pool-1-thread-2] - next state 2000003 BOSS4_2 2000003
+12-05-2020 11:07:40 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+12-05-2020 11:08:15 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 11:08:18 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+12-05-2020 14:59:14 INFO  [pool-1-thread-2] - next state 2000003 BOSS11 2000003
+12-05-2020 14:59:36 INFO  [pool-1-thread-3] - next state 1000003 BOSS3 1000003
+12-05-2020 15:00:00 INFO  [pool-1-thread-1] - next state 3000002 BOSS18_2 3000002
+12-05-2020 15:00:24 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+12-05-2020 15:00:38 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+12-05-2020 15:00:47 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+12-05-2020 15:00:54 INFO  [pool-1-thread-1] - next state 3000001 BOSS18 3000001
+12-05-2020 15:00:54 INFO  [pool-1-thread-1] - next state 3000003 BOSS17 3000003
+12-05-2020 15:01:13 INFO  [pool-1-thread-1] - next state 2000002 BOSS5_2 2000002
+12-05-2020 15:01:31 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+12-05-2020 15:01:32 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 15:01:39 INFO  [pool-1-thread-1] - next state 1000001 BOSS5 1000001
+12-05-2020 15:01:40 INFO  [pool-1-thread-5] - next state 1000002 BOSS4 1000002
+12-05-2020 15:02:30 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+12-05-2020 15:02:32 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+12-05-2020 15:02:38 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+12-05-2020 15:02:47 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+12-05-2020 15:02:56 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+12-05-2020 15:05:27 INFO  [pool-1-thread-5] - next state 2000003 BOSS1_2 2000003
+12-05-2020 15:06:05 INFO  [pool-1-thread-1] - next state 3000002 BOSS18 3000002
+12-05-2020 15:06:34 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+12-05-2020 15:06:44 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 15:06:49 INFO  [pool-1-thread-4] - next state 1000003 BOSS1 1000003
+12-05-2020 15:06:50 INFO  [pool-1-thread-5] - next state 3000001 BOSS14 3000001
+12-05-2020 15:07:43 INFO  [pool-1-thread-4] - next state 2000001 BOSS5_2 2000001
+12-05-2020 15:07:49 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+12-05-2020 15:07:56 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+12-05-2020 15:08:28 INFO  [pool-1-thread-3] - next state 3000003 BOSS17 3000003
+12-05-2020 15:08:30 INFO  [pool-1-thread-5] - next state 2000002 BOSS1_2 2000002
+12-05-2020 15:09:00 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 15:09:37 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+12-05-2020 15:09:45 INFO  [pool-1-thread-4] - next state 1000001 BOSS5 1000001
+12-05-2020 15:10:07 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+12-05-2020 15:10:28 INFO  [pool-1-thread-2] - next state 1000002 BOSS1 1000002
+12-05-2020 15:11:02 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+12-05-2020 15:11:35 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+12-05-2020 15:12:45 INFO  [pool-1-thread-3] - next state 3000002 BOSS18_1 3000002
+12-05-2020 15:13:12 INFO  [pool-1-thread-5] - next state 2000003 BOSS1_2 2000003
+12-05-2020 15:13:23 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+12-05-2020 15:13:59 INFO  [pool-1-thread-3] - next state 3000001 BOSS17 3000001
+12-05-2020 15:14:19 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 15:14:39 INFO  [pool-1-thread-2] - next state 1000003 BOSS4 1000003
+12-05-2020 15:15:37 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 15:15:47 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+12-05-2020 15:16:35 INFO  [pool-1-thread-5] - next state 1000001 BOSS1 1000001
+12-05-2020 15:16:46 INFO  [pool-1-thread-4] - next state 2000002 BOSS4_2 2000002
+12-05-2020 15:16:58 INFO  [pool-1-thread-3] - next state 2000001 BOSS3_2 2000001
+12-05-2020 15:17:30 INFO  [pool-1-thread-4] - next state 3000003 BOSS13 3000003
+12-05-2020 15:17:42 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+12-05-2020 15:17:53 INFO  [pool-1-thread-5] - next state 2000002 NORMAL 2000002
+12-05-2020 15:18:08 INFO  [pool-1-thread-4] - next state 1000002 BOSS1 1000002
+12-05-2020 15:18:09 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+12-05-2020 15:18:35 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+12-05-2020 15:19:15 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+12-05-2020 15:20:25 INFO  [pool-1-thread-1] - next state 3000002 BOSS18_2 3000002
+12-05-2020 15:21:03 INFO  [pool-1-thread-1] - next state 3000002 NORMAL 3000002
+12-05-2020 15:21:18 INFO  [pool-1-thread-4] - next state 2000003 BOSS5_2 2000003
+12-05-2020 15:22:35 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 15:22:37 INFO  [pool-1-thread-3] - next state 3000001 BOSS17 3000001
+12-05-2020 15:23:29 INFO  [pool-1-thread-5] - next state 1000003 BOSS5 1000003
+12-05-2020 15:23:53 INFO  [pool-1-thread-1] - next state 2000001 BOSS4_2 2000001
+12-05-2020 15:23:57 INFO  [pool-1-thread-4] - next state 3000003 BOSS13 3000003
+12-05-2020 15:24:14 INFO  [pool-1-thread-1] - next state 1000001 BOSS3 1000001
+12-05-2020 15:24:15 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+12-05-2020 15:24:46 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+12-05-2020 15:24:49 INFO  [pool-1-thread-4] - next state 1000002 BOSS4 1000002
+12-05-2020 15:24:52 INFO  [pool-1-thread-5] - next state 2000002 BOSS11 2000002
+12-05-2020 15:25:00 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+12-05-2020 15:25:02 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 15:25:25 INFO  [pool-1-thread-4] - next state 1000001 NORMAL 1000001
+12-05-2020 15:25:56 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+12-05-2020 15:26:02 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+12-05-2020 15:28:14 INFO  [pool-1-thread-4] - next state 3000002 BOSS13 3000002
+12-05-2020 15:29:20 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 15:29:24 INFO  [pool-1-thread-1] - next state 2000003 BOSS11 2000003
+12-05-2020 15:30:15 INFO  [pool-1-thread-3] - next state 3000001 BOSS12 3000001
+12-05-2020 15:30:34 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+12-05-2020 15:31:48 INFO  [pool-1-thread-1] - next state 1000002 BOSS5 1000002
+12-05-2020 15:31:51 INFO  [pool-1-thread-4] - next state 1000003 BOSS5 1000003
+12-05-2020 15:31:57 INFO  [pool-1-thread-3] - next state 2000001 BOSS11 2000001
+12-05-2020 15:31:58 INFO  [pool-1-thread-1] - next state 3000003 BOSS13 3000003
+12-05-2020 15:32:20 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+12-05-2020 15:32:24 INFO  [pool-1-thread-4] - next state 2000002 BOSS5_2 2000002
+12-05-2020 15:32:55 INFO  [pool-1-thread-5] - next state 1000001 BOSS5 1000001
+12-05-2020 15:33:03 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+12-05-2020 15:33:05 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+12-05-2020 15:33:07 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 15:33:08 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+12-05-2020 15:33:41 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+12-05-2020 15:34:12 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+12-05-2020 15:35:19 INFO  [pool-1-thread-3] - next state 3000002 BOSS14 3000002
+12-05-2020 15:36:18 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+12-05-2020 15:36:52 INFO  [pool-1-thread-1] - next state 2000003 BOSS4_2 2000003
+12-05-2020 15:37:59 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 15:38:08 INFO  [pool-1-thread-5] - next state 2000001 BOSS4_2 2000001
+12-05-2020 15:38:29 INFO  [pool-1-thread-2] - next state 1000003 BOSS1 1000003
+12-05-2020 15:38:49 INFO  [pool-1-thread-5] - next state 3000001 BOSS18_1 3000001
+12-05-2020 15:39:15 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 15:39:24 INFO  [pool-1-thread-3] - next state 2000002 BOSS11 2000002
+12-05-2020 15:39:27 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 15:39:36 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 15:39:37 INFO  [pool-1-thread-3] - next state 1000001 BOSS5 1000001
+12-05-2020 15:40:16 INFO  [pool-1-thread-3] - next state 3000003 BOSS18 3000003
+12-05-2020 15:40:26 INFO  [pool-1-thread-2] - next state 1000002 BOSS4 1000002
+12-05-2020 15:40:34 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+12-05-2020 15:40:54 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+12-05-2020 15:40:54 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 15:41:33 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+12-05-2020 15:44:03 INFO  [pool-1-thread-3] - next state 3000002 BOSS18_1 3000002
+12-05-2020 15:44:26 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+12-05-2020 15:44:42 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+12-05-2020 15:44:56 INFO  [pool-1-thread-3] - next state 2000003 BOSS4_2 2000003
+12-05-2020 15:45:33 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+12-05-2020 15:46:03 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+12-05-2020 15:46:29 INFO  [pool-1-thread-4] - next state 2000002 BOSS5_2 2000002
+12-05-2020 15:46:39 INFO  [pool-1-thread-1] - next state 3000001 BOSS17 3000001
+12-05-2020 15:46:54 INFO  [pool-1-thread-2] - next state 1000003 BOSS5 1000003
+12-05-2020 15:47:46 INFO  [pool-1-thread-5] - next state 2000002 NORMAL 2000002
+12-05-2020 15:47:57 INFO  [pool-1-thread-2] - next state 1000001 BOSS1 1000001
+12-05-2020 15:48:11 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+12-05-2020 15:48:18 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+12-05-2020 15:49:03 INFO  [pool-1-thread-4] - next state 3000003 BOSS18_2 3000003
+12-05-2020 15:49:04 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+12-05-2020 15:49:40 INFO  [pool-1-thread-1] - next state 1000002 BOSS3 1000002
+12-05-2020 15:49:42 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 15:49:59 INFO  [pool-1-thread-2] - next state 3000002 BOSS18_2 3000002
+12-05-2020 15:50:37 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 15:50:51 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+12-05-2020 15:52:09 INFO  [pool-1-thread-4] - next state 2000003 BOSS11 2000003
+12-05-2020 15:52:48 INFO  [pool-1-thread-5] - next state 2000001 BOSS11 2000001
+12-05-2020 15:53:20 INFO  [pool-1-thread-2] - next state 2000003 NORMAL 2000003
+12-05-2020 15:53:58 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+12-05-2020 15:55:04 INFO  [pool-1-thread-3] - next state 1000001 BOSS3 1000001
+12-05-2020 15:55:32 INFO  [pool-1-thread-3] - next state 2000002 BOSS4_2 2000002
+12-05-2020 15:56:00 INFO  [pool-1-thread-3] - next state 3000002 BOSS14 3000002
+12-05-2020 15:56:01 INFO  [pool-1-thread-2] - next state 1000003 BOSS5 1000003
+12-05-2020 15:56:14 INFO  [pool-1-thread-2] - next state 3000001 BOSS18_1 3000001
+12-05-2020 15:56:16 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+12-05-2020 15:56:22 INFO  [pool-1-thread-2] - next state 1000002 BOSS5 1000002
+12-05-2020 15:56:40 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+12-05-2020 15:56:52 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 15:56:59 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 15:57:18 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 15:57:39 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+12-05-2020 15:57:40 INFO  [pool-1-thread-1] - next state 3000003 BOSS12 3000003
+12-05-2020 15:59:17 INFO  [pool-1-thread-4] - next state 2000001 BOSS3_2 2000001
+12-05-2020 15:59:24 INFO  [pool-1-thread-5] - next state 2000003 BOSS4_2 2000003
+12-05-2020 15:59:45 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+12-05-2020 16:00:28 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+12-05-2020 16:00:31 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 16:01:56 INFO  [pool-1-thread-5] - next state 3000001 BOSS17 3000001
+12-05-2020 16:02:13 INFO  [pool-1-thread-5] - next state 1000001 BOSS4 1000001
+12-05-2020 16:03:09 INFO  [pool-1-thread-2] - next state 2000002 BOSS3_2 2000002
+12-05-2020 16:03:11 INFO  [pool-1-thread-2] - next state 1000003 BOSS5 1000003
+12-05-2020 16:03:20 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+12-05-2020 16:03:34 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+12-05-2020 16:04:20 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+12-05-2020 16:04:28 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+12-05-2020 16:04:54 INFO  [pool-1-thread-3] - next state 3000002 BOSS13 3000002
+12-05-2020 16:05:49 INFO  [pool-1-thread-2] - next state 2000001 BOSS11 2000001
+12-05-2020 16:05:54 INFO  [pool-1-thread-1] - next state 1000002 BOSS3 1000002
+12-05-2020 16:05:59 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 16:06:45 INFO  [pool-1-thread-2] - next state 3000003 BOSS15 3000003
+12-05-2020 16:07:00 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+12-05-2020 16:07:03 INFO  [pool-1-thread-4] - next state 2000003 BOSS5_2 2000003
+12-05-2020 16:07:05 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+12-05-2020 16:07:23 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+12-05-2020 16:08:20 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+12-05-2020 16:10:41 INFO  [pool-1-thread-4] - next state 3000001 BOSS13 3000001
+12-05-2020 16:10:43 INFO  [pool-1-thread-1] - next state 1000001 BOSS5 1000001
+12-05-2020 16:11:14 INFO  [pool-1-thread-1] - next state 3000002 BOSS15 3000002
+12-05-2020 16:11:26 INFO  [pool-1-thread-4] - next state 1000003 BOSS5 1000003
+12-05-2020 16:11:46 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+12-05-2020 16:11:53 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 16:12:00 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+12-05-2020 16:12:06 INFO  [pool-1-thread-5] - next state 2000002 BOSS5_2 2000002
+12-05-2020 16:12:43 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+12-05-2020 16:13:18 INFO  [pool-1-thread-3] - next state 3000003 BOSS15 3000003
+12-05-2020 16:13:23 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+12-05-2020 16:13:53 INFO  [pool-1-thread-4] - next state 2000001 BOSS5_2 2000001
+12-05-2020 16:13:56 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+12-05-2020 16:14:57 INFO  [pool-1-thread-4] - next state 1000002 BOSS3 1000002
+12-05-2020 16:15:10 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 16:16:06 INFO  [pool-1-thread-2] - next state 2000003 BOSS3_2 2000003
+12-05-2020 16:16:08 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+12-05-2020 16:17:17 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 16:17:31 INFO  [pool-1-thread-2] - next state 3000001 BOSS18 3000001
+12-05-2020 16:18:09 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+12-05-2020 16:18:37 INFO  [pool-1-thread-1] - next state 2000002 BOSS5_2 2000002
+12-05-2020 16:18:43 INFO  [pool-1-thread-1] - next state 1000001 BOSS4 1000001
+12-05-2020 16:19:07 INFO  [pool-1-thread-1] - next state 3000002 BOSS12 3000002
+12-05-2020 16:19:50 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+12-05-2020 16:19:55 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+12-05-2020 16:19:55 INFO  [pool-1-thread-5] - next state 1000003 BOSS3 1000003
+12-05-2020 16:20:40 INFO  [pool-1-thread-2] - next state 3000003 BOSS13 3000003
+12-05-2020 16:21:06 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+12-05-2020 16:21:12 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+12-05-2020 16:21:33 INFO  [pool-1-thread-4] - next state 2000001 BOSS11 2000001
+12-05-2020 16:21:45 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+12-05-2020 16:21:50 INFO  [pool-1-thread-1] - next state 1000002 BOSS1 1000002
+12-05-2020 16:22:43 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 16:22:57 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+12-05-2020 16:23:26 INFO  [pool-1-thread-3] - next state 3000001 BOSS15 3000001
+12-05-2020 16:24:04 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 16:25:17 INFO  [pool-1-thread-2] - next state 2000003 BOSS5_2 2000003
+12-05-2020 16:26:04 INFO  [pool-1-thread-5] - next state 1000001 BOSS4 1000001
+12-05-2020 16:26:35 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+12-05-2020 16:26:51 INFO  [pool-1-thread-1] - next state 3000003 BOSS18 3000003
+12-05-2020 16:27:11 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+12-05-2020 16:27:29 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+12-05-2020 16:28:03 INFO  [pool-1-thread-4] - next state 3000002 BOSS18 3000002
+12-05-2020 16:28:09 INFO  [pool-1-thread-2] - next state 2000002 BOSS4_2 2000002
+12-05-2020 16:28:19 INFO  [pool-1-thread-3] - next state 2000001 BOSS5_2 2000001
+12-05-2020 16:28:41 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 16:29:07 INFO  [pool-1-thread-4] - next state 1000003 BOSS3 1000003
+12-05-2020 16:29:16 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+12-05-2020 16:29:36 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+12-05-2020 16:29:46 INFO  [pool-1-thread-1] - next state 3000001 BOSS14 3000001
+12-05-2020 16:29:53 INFO  [pool-1-thread-1] - next state 1000002 BOSS3 1000002
+12-05-2020 16:30:18 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+12-05-2020 16:30:45 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 16:31:04 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+12-05-2020 16:32:25 INFO  [pool-1-thread-5] - next state 2000003 BOSS5_2 2000003
+12-05-2020 16:33:28 INFO  [pool-1-thread-1] - next state 1000001 BOSS4 1000001
+12-05-2020 16:33:42 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+12-05-2020 16:34:35 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+12-05-2020 16:35:16 INFO  [pool-1-thread-1] - next state 2000002 BOSS5_2 2000002
+12-05-2020 16:35:33 INFO  [pool-1-thread-5] - next state 3000003 BOSS15 3000003
+12-05-2020 16:36:11 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+12-05-2020 16:36:33 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+12-05-2020 16:36:52 INFO  [pool-1-thread-5] - next state 3000002 BOSS18 3000002
+12-05-2020 16:37:00 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+12-05-2020 16:37:30 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+12-05-2020 16:37:33 INFO  [pool-1-thread-5] - next state 1000003 BOSS1 1000003
+12-05-2020 16:37:46 INFO  [pool-1-thread-4] - next state 1000002 BOSS4 1000002
+12-05-2020 16:38:07 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+12-05-2020 16:38:22 INFO  [pool-1-thread-3] - next state 3000001 BOSS14 3000001
+12-05-2020 16:38:40 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 16:38:53 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+12-05-2020 16:39:14 INFO  [pool-1-thread-4] - next state 2000003 BOSS3_2 2000003
+12-05-2020 16:39:21 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+12-05-2020 16:39:56 INFO  [pool-1-thread-1] - next state 1000001 BOSS4 1000001
+12-05-2020 16:40:25 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+12-05-2020 16:41:04 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+12-05-2020 16:41:33 INFO  [pool-1-thread-4] - next state 2000002 BOSS3_2 2000002
+12-05-2020 16:41:48 INFO  [pool-1-thread-5] - next state 3000003 BOSS18_1 3000003
+12-05-2020 16:42:27 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 16:42:44 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+12-05-2020 16:43:50 INFO  [pool-1-thread-3] - next state 1000003 BOSS3 1000003
+12-05-2020 16:44:47 INFO  [pool-1-thread-5] - next state 3000002 BOSS18 3000002
+12-05-2020 16:44:51 INFO  [pool-1-thread-5] - next state 2000001 BOSS3_2 2000001
+12-05-2020 16:45:01 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 16:45:25 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 16:45:59 INFO  [pool-1-thread-1] - next state 1000002 BOSS1 1000002
+12-05-2020 16:46:02 INFO  [pool-1-thread-3] - next state 2000001 NORMAL 2000001
+12-05-2020 16:47:06 INFO  [pool-1-thread-2] - next state 3000001 BOSS14 3000001
+12-05-2020 16:47:06 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+12-05-2020 16:47:49 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 37 - active bullet = 2
+12-05-2020 16:47:49 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+12-05-2020 16:47:49 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 42 - active bullet = 2
+12-05-2020 16:47:49 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+12-05-2020 16:47:59 INFO  [pool-1-thread-4] - next state 3000003 BOSS12 3000003
+12-05-2020 16:48:05 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+12-05-2020 16:48:07 INFO  [pool-1-thread-2] - next state 1000001 BOSS4 1000001
+12-05-2020 16:48:45 INFO  [pool-1-thread-5] - next state 2000003 BOSS5_2 2000003
+12-05-2020 16:48:51 INFO  [pool-1-thread-3] - next state 2000002 BOSS11 2000002
+12-05-2020 16:48:57 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 35 - active bullet = 8
+12-05-2020 16:48:57 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 8
+12-05-2020 16:48:58 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 17 - active bullet = 12
+12-05-2020 16:48:58 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+12-05-2020 16:48:59 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 33 - active bullet = 7
+12-05-2020 16:48:59 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 7
+12-05-2020 16:49:14 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+12-05-2020 16:50:01 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+12-05-2020 16:50:02 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 16:50:04 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 16:50:29 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 26 - active bullet = 3
+12-05-2020 16:50:29 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+12-05-2020 16:51:19 INFO  [pool-1-thread-2] - next state 3000002 BOSS13 3000002
+12-05-2020 16:52:01 INFO  [pool-1-thread-4] - next state 1000003 BOSS1 1000003
+12-05-2020 16:52:23 INFO  [pool-1-thread-4] - next state 2000001 BOSS5_2 2000001
+12-05-2020 16:52:24 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+12-05-2020 16:52:29 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 1 - active bullet = 3
+12-05-2020 16:52:29 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+12-05-2020 16:52:30 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 13 - active bullet = 2
+12-05-2020 16:52:30 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+12-05-2020 16:53:08 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+12-05-2020 16:53:22 INFO  [pool-1-thread-4] - next state 1000002 BOSS5 1000002
+12-05-2020 16:53:39 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 46 - active bullet = 6
+12-05-2020 16:53:39 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 6
+12-05-2020 16:53:39 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 21 - active bullet = 7
+12-05-2020 16:53:39 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 7
+12-05-2020 16:53:39 ERROR [nioEventLoopGroup-7-4] - HIt fish - bullet null - bullet id = 28 - active bullet = 9
+12-05-2020 16:53:39 ERROR [nioEventLoopGroup-7-4] - FishShooting.pushBulletBackToPool - error. Hash active size = 9
+12-05-2020 16:53:40 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+12-05-2020 16:54:34 INFO  [pool-1-thread-5] - next state 3000001 BOSS17 3000001
+12-05-2020 16:54:39 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+12-05-2020 16:55:11 INFO  [pool-1-thread-3] - next state 2000002 BOSS3_2 2000002
+12-05-2020 16:55:35 INFO  [pool-1-thread-4] - next state 3000003 BOSS15 3000003
+12-05-2020 16:56:09 INFO  [pool-1-thread-5] - next state 2000003 BOSS11 2000003
+12-05-2020 16:56:12 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+12-05-2020 16:56:13 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+12-05-2020 16:56:22 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+12-05-2020 16:57:19 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+12-05-2020 16:57:22 INFO  [pool-1-thread-2] - next state 1000001 BOSS3 1000001
+12-05-2020 16:58:17 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 17 - active bullet = 0
+12-05-2020 16:58:17 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+12-05-2020 16:58:18 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 9 - active bullet = 0
+12-05-2020 16:58:18 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+12-05-2020 16:58:18 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 6 - active bullet = 0
+12-05-2020 16:58:18 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+12-05-2020 16:58:18 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 26 - active bullet = 0
+12-05-2020 16:58:18 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+12-05-2020 16:58:33 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+12-05-2020 16:58:36 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 15 - active bullet = 2
+12-05-2020 16:58:36 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+12-05-2020 16:58:36 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 3 - active bullet = 3
+12-05-2020 16:58:36 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+12-05-2020 16:58:38 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 8 - active bullet = 4
+12-05-2020 16:58:38 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+12-05-2020 16:58:38 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 2 - active bullet = 3
+12-05-2020 16:58:38 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+12-05-2020 16:58:39 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 48 - active bullet = 4
+12-05-2020 16:58:39 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+12-05-2020 16:58:43 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 49 - active bullet = 8
+12-05-2020 16:58:43 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 8
+12-05-2020 16:58:49 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+12-05-2020 16:58:55 INFO  [pool-1-thread-3] - next state 3000002 BOSS18_1 3000002
+12-05-2020 16:59:33 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+12-05-2020 16:59:49 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 41 - active bullet = 3
+12-05-2020 16:59:49 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+12-05-2020 16:59:56 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 17:00:33 INFO  [pool-1-thread-5] - next state 1000003 BOSS3 1000003
+12-05-2020 17:01:29 INFO  [pool-1-thread-5] - next state 3000003 BOSS18_1 3000003
+12-05-2020 17:01:44 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 17:01:51 INFO  [pool-1-thread-1] - next state 1000002 BOSS5 1000002
+12-05-2020 17:02:07 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+12-05-2020 17:02:46 INFO  [pool-1-thread-4] - next state 2000003 BOSS11 2000003
+12-05-2020 17:03:08 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+12-05-2020 17:03:46 INFO  [pool-1-thread-3] - next state 1000001 BOSS1 1000001
+12-05-2020 17:03:49 INFO  [pool-1-thread-1] - next state 2000002 BOSS1_2 2000002
+12-05-2020 17:03:56 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+12-05-2020 17:04:06 INFO  [pool-1-thread-3] - next state 3000001 BOSS14 3000001
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 28 - active bullet = 65
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 65
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 10 - active bullet = 63
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 63
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 43 - active bullet = 63
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 63
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 36 - active bullet = 64
+12-05-2020 17:04:29 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 64
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 5 - active bullet = 56
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 56
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 40 - active bullet = 56
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 56
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 19 - active bullet = 46
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 46
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 13 - active bullet = 44
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 44
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 41 - active bullet = 41
+12-05-2020 17:04:30 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 41
+12-05-2020 17:04:31 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 80 - active bullet = 33
+12-05-2020 17:04:31 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 33
+12-05-2020 17:04:32 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 7 - active bullet = 29
+12-05-2020 17:04:32 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 29
+12-05-2020 17:04:32 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 44 - active bullet = 30
+12-05-2020 17:04:32 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 30
+12-05-2020 17:04:38 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 3 - active bullet = 49
+12-05-2020 17:04:38 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 49
+12-05-2020 17:04:46 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 59 - active bullet = 44
+12-05-2020 17:04:46 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 44
+12-05-2020 17:04:54 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+12-05-2020 17:04:56 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+12-05-2020 17:05:05 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+12-05-2020 17:05:37 INFO  [pool-1-thread-1] - next state 2000001 BOSS5_2 2000001
+12-05-2020 17:05:39 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 64 - active bullet = 5
+12-05-2020 17:05:39 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+12-05-2020 17:05:40 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 63 - active bullet = 5
+12-05-2020 17:05:40 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+12-05-2020 17:05:40 ERROR [nioEventLoopGroup-7-5] - HIt fish - bullet null - bullet id = 38 - active bullet = 5
+12-05-2020 17:05:40 ERROR [nioEventLoopGroup-7-5] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+12-05-2020 17:05:51 INFO  [pool-1-thread-3] - next state 3000002 BOSS14 3000002
+12-05-2020 17:06:51 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+12-05-2020 17:06:54 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+12-05-2020 17:07:04 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 33 - active bullet = 7
+12-05-2020 17:07:04 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 7
+12-05-2020 17:07:05 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 67 - active bullet = 9
+12-05-2020 17:07:05 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 9
+12-05-2020 17:07:49 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 9 - active bullet = 2
+12-05-2020 17:07:49 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+12-05-2020 17:07:50 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 77 - active bullet = 2
+12-05-2020 17:07:50 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+12-05-2020 17:08:20 INFO  [pool-1-thread-3] - next state 3000003 BOSS18 3000003
+12-05-2020 17:08:58 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 17:09:51 INFO  [pool-1-thread-4] - next state 2000003 BOSS4_2 2000003
+12-05-2020 17:09:52 INFO  [pool-1-thread-5] - next state 1000003 BOSS1 1000003
+12-05-2020 17:09:54 INFO  [pool-1-thread-1] - next state 1000002 BOSS3 1000002
+12-05-2020 17:10:18 INFO  [pool-1-thread-1] - next state 3000001 BOSS15 3000001
+12-05-2020 17:10:33 INFO  [pool-1-thread-4] - next state 1000001 BOSS5 1000001
+12-05-2020 17:10:44 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 71 - active bullet = 14
+12-05-2020 17:10:44 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 14
+12-05-2020 17:10:44 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 6 - active bullet = 15
+12-05-2020 17:10:44 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 15
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 32 - active bullet = 14
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 14
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 81 - active bullet = 14
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 14
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 35 - active bullet = 13
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 13
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 50 - active bullet = 12
+12-05-2020 17:10:45 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+12-05-2020 17:10:46 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 7 - active bullet = 13
+12-05-2020 17:10:46 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 13
+12-05-2020 17:10:46 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 9 - active bullet = 12
+12-05-2020 17:10:46 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+12-05-2020 17:10:46 ERROR [nioEventLoopGroup-7-6] - HIt fish - bullet null - bullet id = 49 - active bullet = 11
+12-05-2020 17:10:46 ERROR [nioEventLoopGroup-7-6] - FishShooting.pushBulletBackToPool - error. Hash active size = 11
+12-05-2020 17:10:56 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+12-05-2020 17:10:58 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+12-05-2020 17:10:59 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+12-05-2020 17:11:05 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+12-05-2020 17:11:50 INFO  [pool-1-thread-4] - next state 1000001 NORMAL 1000001
+12-05-2020 17:12:53 INFO  [pool-1-thread-1] - next state 2000002 BOSS4_2 2000002
+12-05-2020 17:13:18 INFO  [pool-1-thread-4] - next state 3000002 BOSS15 3000002
+12-05-2020 17:13:57 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+12-05-2020 17:14:00 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+12-05-2020 17:14:46 INFO  [pool-1-thread-5] - next state 2000001 BOSS4_2 2000001
+12-05-2020 17:15:54 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+12-05-2020 17:16:17 INFO  [pool-1-thread-4] - next state 3000003 BOSS17 3000003
+12-05-2020 17:16:40 INFO  [pool-1-thread-3] - next state 1000002 BOSS1 1000002
+12-05-2020 17:16:58 INFO  [pool-1-thread-5] - next state 3000001 BOSS18_1 3000001
+12-05-2020 17:17:37 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+12-05-2020 17:17:41 INFO  [pool-1-thread-4] - next state 1000001 BOSS3 1000001
+12-05-2020 17:17:48 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+12-05-2020 17:17:55 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+12-05-2020 17:18:38 INFO  [pool-1-thread-2] - next state 2000003 BOSS5_2 2000003
+12-05-2020 17:18:52 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+12-05-2020 17:19:08 INFO  [pool-1-thread-5] - next state 1000003 BOSS4 1000003
+12-05-2020 17:19:37 INFO  [pool-1-thread-4] - next state 2000002 BOSS5_2 2000002
+12-05-2020 17:19:55 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+12-05-2020 17:20:15 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+12-05-2020 17:20:54 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+12-05-2020 17:20:56 INFO  [pool-1-thread-4] - next state 2000001 BOSS3_2 2000001
+12-05-2020 17:22:07 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+12-05-2020 17:22:12 INFO  [pool-1-thread-3] - next state 3000002 BOSS13 3000002
+12-05-2020 17:23:17 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+12-05-2020 17:23:38 INFO  [pool-1-thread-3] - next state 3000003 BOSS14 3000003
+12-05-2020 17:24:00 INFO  [pool-1-thread-1] - next state 3000001 BOSS18_1 3000001
+12-05-2020 17:24:28 INFO  [pool-1-thread-4] - next state 1000002 BOSS4 1000002
+12-05-2020 17:24:38 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+12-05-2020 17:24:38 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+12-05-2020 17:25:08 INFO  [pool-1-thread-5] - next state 2000003 BOSS5_2 2000003
+12-05-2020 17:25:35 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002

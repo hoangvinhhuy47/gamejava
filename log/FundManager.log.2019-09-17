@@ -1,0 +1,16 @@
+17-09-2019 14:11:25 DEBUG [nioEventLoopGroup-7-2] - currentFund: -511500
+17-09-2019 15:15:16 DEBUG [nioEventLoopGroup-7-2] - currentFund: -505200
+17-09-2019 16:13:28 DEBUG [nioEventLoopGroup-7-5] - currentFund: -505075
+17-09-2019 16:27:40 DEBUG [pool-1-thread-4] - currentFund: -498025
+17-09-2019 16:29:35 DEBUG [pool-1-thread-3] - currentFund: -497300
+17-09-2019 16:32:20 DEBUG [pool-1-thread-1] - currentFund: -492625
+17-09-2019 16:35:43 DEBUG [pool-1-thread-2] - currentFund: -490700
+17-09-2019 17:18:50 DEBUG [nioEventLoopGroup-7-1] - currentFund: -483175
+17-09-2019 17:59:24 DEBUG [pool-1-thread-2] - currentFund: -468475
+17-09-2019 18:08:27 DEBUG [pool-1-thread-3] - currentFund: -467575
+17-09-2019 18:19:35 DEBUG [nioEventLoopGroup-7-1] - currentFund: -467525
+17-09-2019 18:48:48 DEBUG [pool-1-thread-5] - currentFund: 67614
+17-09-2019 18:52:40 DEBUG [pool-1-thread-2] - currentFund: -465825
+17-09-2019 19:06:57 DEBUG [nioEventLoopGroup-7-1] - currentFund: -464200
+17-09-2019 20:09:05 DEBUG [pool-1-thread-2] - currentFund: 69239
+17-09-2019 20:10:43 DEBUG [pool-1-thread-5] - currentFund: 69814

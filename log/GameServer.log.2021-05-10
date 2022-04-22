@@ -1,0 +1,59 @@
+10-05-2021 15:27:16 INFO  [main] - Start init server...
+10-05-2021 15:28:18 INFO  [main] - Start init server...
+10-05-2021 15:53:28 INFO  [main] - Start init server...
+10-05-2021 15:53:57 INFO  [main] - Start init server...
+10-05-2021 15:53:58 INFO  [main] - Init Redis done!
+10-05-2021 15:53:58 INFO  [main] - Init Mongo done!
+10-05-2021 15:53:58 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+10-05-2021 15:53:59 INFO  [main] - Migrate database done!
+10-05-2021 15:53:59 INFO  [main] - Init Fishing gameLobby done!
+10-05-2021 15:53:59 INFO  [main] - Init ChannelService done!
+10-05-2021 15:54:00 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+10-05-2021 15:54:00 INFO  [main] - Init HandlerChannelApi done!
+10-05-2021 15:54:01 INFO  [Thread-140] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+10-05-2021 15:54:01 INFO  [Thread-139] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+10-05-2021 16:13:17 INFO  [main] - Start init server...
+10-05-2021 16:13:20 INFO  [main] - Init Redis done!
+10-05-2021 16:13:22 INFO  [main] - Init Mongo done!
+10-05-2021 16:13:22 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+10-05-2021 16:13:22 INFO  [main] - Migrate database done!
+10-05-2021 16:14:17 INFO  [main] - Start init server...
+10-05-2021 16:14:20 INFO  [main] - Init Redis done!
+10-05-2021 16:14:22 INFO  [main] - Init Mongo done!
+10-05-2021 16:14:22 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+10-05-2021 16:14:23 INFO  [main] - Migrate database done!
+10-05-2021 16:14:55 INFO  [main] - Start init server...
+10-05-2021 16:14:56 INFO  [main] - Init Redis done!
+10-05-2021 16:14:57 INFO  [main] - Init Mongo done!
+10-05-2021 16:14:57 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+10-05-2021 16:14:57 INFO  [main] - Migrate database done!
+10-05-2021 16:15:04 INFO  [main] - Init Fishing gameLobby done!
+10-05-2021 16:15:05 INFO  [main] - Init ChannelService done!
+10-05-2021 16:15:06 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+10-05-2021 16:15:06 INFO  [main] - Init HandlerChannelApi done!
+10-05-2021 16:15:08 ERROR [Thread-324] - java.net.BindException: Address already in use: bind
+10-05-2021 16:15:08 INFO  [Thread-324] - CLOSE SERVER GAME API
+10-05-2021 16:15:08 ERROR [Thread-323] - java.net.BindException: Address already in use: bind
+10-05-2021 16:15:08 INFO  [Thread-323] - CLOSE SERVER GAME
+10-05-2021 16:42:19 INFO  [main] - Start init server...
+10-05-2021 16:42:20 INFO  [main] - Init Redis done!
+10-05-2021 16:42:21 INFO  [main] - Init Mongo done!
+10-05-2021 16:42:21 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+10-05-2021 16:42:21 INFO  [main] - Migrate database done!
+10-05-2021 16:42:23 INFO  [main] - Init Fishing gameLobby done!
+10-05-2021 16:42:23 INFO  [main] - Init ChannelService done!
+10-05-2021 16:42:24 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+10-05-2021 16:42:24 INFO  [main] - Init HandlerChannelApi done!
+10-05-2021 16:42:25 INFO  [Thread-188] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+10-05-2021 16:42:25 INFO  [Thread-187] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+10-05-2021 19:08:54 INFO  [main] - Start init server...
+10-05-2021 19:08:55 INFO  [main] - Init Redis done!
+10-05-2021 19:08:56 INFO  [main] - Init Mongo done!
+10-05-2021 19:08:56 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+10-05-2021 19:08:56 INFO  [main] - Migrate database done!
+10-05-2021 19:08:57 INFO  [main] - Init Fishing gameLobby done!
+10-05-2021 19:08:57 INFO  [main] - Init ChannelService done!
+10-05-2021 19:08:58 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+10-05-2021 19:08:58 INFO  [main] - Init HandlerChannelApi done!
+10-05-2021 19:08:59 INFO  [Thread-160] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+10-05-2021 19:08:59 INFO  [Thread-159] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES

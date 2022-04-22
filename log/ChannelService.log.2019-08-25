@@ -1,0 +1,17 @@
+25-08-2019 08:50:45 INFO  [pool-1-thread-3] - Close channel because over time HARD_TIME_OUT - time disactive = 189 - user id = 31299
+25-08-2019 09:05:45 INFO  [pool-1-thread-5] - Close channel because over time HARD_TIME_OUT - time disactive = 192 - user id = 31299
+25-08-2019 09:20:45 INFO  [pool-1-thread-3] - Close channel because over time HARD_TIME_OUT - time disactive = 191 - user id = 31299
+25-08-2019 10:37:45 INFO  [pool-1-thread-1] - Close channel because over time HARD_TIME_OUT - time disactive = 193 - user id = 31299
+25-08-2019 11:04:30 INFO  [pool-1-thread-1] - Close channel because over time HARD_TIME_OUT - time disactive = 182 - user id = 31299
+25-08-2019 11:21:15 INFO  [pool-1-thread-1] - Close channel because over time HARD_TIME_OUT - time disactive = 181 - user id = 31299
+25-08-2019 13:19:00 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 194 - user id = 31299
+25-08-2019 13:51:15 INFO  [pool-1-thread-2] - Close channel because over time HARD_TIME_OUT - time disactive = 181 - user id = 31299
+25-08-2019 14:22:45 INFO  [pool-1-thread-2] - Close channel because over time HARD_TIME_OUT - time disactive = 192 - user id = 31299
+25-08-2019 14:34:00 INFO  [pool-1-thread-3] - Close channel because over time HARD_TIME_OUT - time disactive = 183 - user id = 31299
+25-08-2019 14:49:00 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 188 - user id = 31299
+25-08-2019 15:03:00 INFO  [pool-1-thread-3] - Close channel because over time HARD_TIME_OUT - time disactive = 180 - user id = 31299
+25-08-2019 16:01:15 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 188 - user id = 31299
+25-08-2019 16:10:00 INFO  [pool-1-thread-3] - Close channel because over time HARD_TIME_OUT - time disactive = 184 - user id = 31299
+25-08-2019 16:36:45 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 189 - user id = 31299
+25-08-2019 17:41:45 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 186 - user id = 31299
+25-08-2019 17:53:30 INFO  [pool-1-thread-2] - Close channel because over time HARD_TIME_OUT - time disactive = 180 - user id = 31299

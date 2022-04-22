@@ -1,0 +1,1 @@
+pathId  fishTypeId fishGroupId50	8	6251	8	6252	8	6260	20	170	11	171	11	1

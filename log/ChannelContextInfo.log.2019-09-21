@@ -1,0 +1,6 @@
+21-09-2019 10:30:34 INFO  [nioEventLoopGroup-7-4] - Disconnect - User[13027] - errorCode[12]
+21-09-2019 10:30:41 INFO  [nioEventLoopGroup-7-5] - Disconnect - User[13027] - errorCode[12]
+21-09-2019 10:42:26 INFO  [nioEventLoopGroup-7-5] - Disconnect - User[31243] - errorCode[12]
+21-09-2019 10:42:38 INFO  [nioEventLoopGroup-7-6] - Disconnect - User[31243] - errorCode[12]
+21-09-2019 10:42:49 INFO  [nioEventLoopGroup-7-7] - Disconnect - User[31243] - errorCode[12]
+21-09-2019 10:43:17 INFO  [nioEventLoopGroup-7-1] - Disconnect - User[13027] - errorCode[12]

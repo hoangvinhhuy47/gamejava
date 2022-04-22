@@ -1,0 +1,35 @@
+13-01-2020 14:17:30 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+13-01-2020 14:19:16 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+13-01-2020 14:23:22 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:25:16 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+13-01-2020 14:31:39 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:32:21 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:32:33 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:32:55 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:34:48 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:35:00 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:35:02 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:35:14 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:37:16 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:37:49 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:40:53 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:41:05 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 14:41:47 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:10:22 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:10:24 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:13:06 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:13:28 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:18:51 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:28:05 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:28:17 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:36:01 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:36:13 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:40:06 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:43:28 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 255701
+13-01-2020 15:49:35 INFO  [nioEventLoopGroup-7-1] - User offline - 255701
+13-01-2020 15:50:14 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+13-01-2020 15:51:32 INFO  [nioEventLoopGroup-7-2] - User offline - 255701
+13-01-2020 15:51:41 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+13-01-2020 15:54:23 INFO  [nioEventLoopGroup-7-3] - User offline - 255701
+13-01-2020 15:54:30 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+13-01-2020 15:59:00 INFO  [nioEventLoopGroup-7-4] - User offline - 255701

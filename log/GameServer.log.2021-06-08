@@ -1,0 +1,11 @@
+08-06-2021 10:51:49 INFO  [main] - Start init server...
+08-06-2021 10:51:50 INFO  [main] - Init Redis done!
+08-06-2021 10:51:51 INFO  [main] - Init Mongo done!
+08-06-2021 10:51:51 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+08-06-2021 10:51:51 INFO  [main] - Migrate database done!
+08-06-2021 10:51:55 INFO  [main] - Init Fishing gameLobby done!
+08-06-2021 10:51:55 INFO  [main] - Init ChannelService done!
+08-06-2021 10:51:57 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+08-06-2021 10:51:58 INFO  [main] - Init HandlerChannelApi done!
+08-06-2021 10:52:02 INFO  [Thread-148] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+08-06-2021 10:52:02 INFO  [Thread-147] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES

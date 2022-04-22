@@ -1,0 +1,810 @@
+28-11-2019 12:43:25 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 7 - active bullet = 2
+28-11-2019 12:43:25 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+28-11-2019 12:43:25 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 1 - active bullet = 3
+28-11-2019 12:43:25 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:43:26 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 5 - active bullet = 3
+28-11-2019 12:43:26 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:43:36 INFO  [nioEventLoopGroup-7-2] - Player - Tesla889 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 531790
+28-11-2019 12:44:06 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 22 - active bullet = 115
+28-11-2019 12:44:06 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 115
+28-11-2019 12:44:06 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 139 - active bullet = 116
+28-11-2019 12:44:06 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 116
+28-11-2019 12:44:06 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 14 - active bullet = 117
+28-11-2019 12:44:06 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 117
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 132 - active bullet = 116
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 116
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 118 - active bullet = 113
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 113
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 144 - active bullet = 113
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 113
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 145 - active bullet = 106
+28-11-2019 12:44:07 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 106
+28-11-2019 12:44:08 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 105 - active bullet = 100
+28-11-2019 12:44:08 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 100
+28-11-2019 12:44:08 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 48 - active bullet = 100
+28-11-2019 12:44:08 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 100
+28-11-2019 12:44:09 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 126 - active bullet = 94
+28-11-2019 12:44:09 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 94
+28-11-2019 12:44:11 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 49 - active bullet = 78
+28-11-2019 12:44:11 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 78
+28-11-2019 12:44:12 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 45 - active bullet = 61
+28-11-2019 12:44:12 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 61
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 118 - active bullet = 42
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 42
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 116 - active bullet = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 106 - active bullet = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 8 - active bullet = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 1 - active bullet = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 39
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 101 - active bullet = 37
+28-11-2019 12:44:14 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 21 - active bullet = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 91 - active bullet = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 102 - active bullet = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 18 - active bullet = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 37
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 33 - active bullet = 36
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 36
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 124 - active bullet = 34
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 34
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 64 - active bullet = 33
+28-11-2019 12:44:15 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 33
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 94 - active bullet = 34
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 34
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 93 - active bullet = 32
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 34 - active bullet = 31
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 31
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 26 - active bullet = 33
+28-11-2019 12:44:16 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 33
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 122 - active bullet = 32
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 30 - active bullet = 32
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 88 - active bullet = 31
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 31
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 142 - active bullet = 33
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 33
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 81 - active bullet = 33
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 33
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 4 - active bullet = 32
+28-11-2019 12:44:17 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 111 - active bullet = 28
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 120 - active bullet = 27
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 27
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 144 - active bullet = 25
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 25
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 99 - active bullet = 24
+28-11-2019 12:44:18 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 24
+28-11-2019 12:44:19 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 101 - active bullet = 26
+28-11-2019 12:44:19 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 26
+28-11-2019 12:44:19 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 72 - active bullet = 21
+28-11-2019 12:44:19 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 21
+28-11-2019 12:44:20 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 112 - active bullet = 22
+28-11-2019 12:44:20 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 22
+28-11-2019 12:44:21 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 94 - active bullet = 20
+28-11-2019 12:44:21 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 20
+28-11-2019 12:44:21 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 74 - active bullet = 20
+28-11-2019 12:44:21 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 20
+28-11-2019 12:44:23 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 97 - active bullet = 13
+28-11-2019 12:44:23 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 13
+28-11-2019 12:44:24 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 2 - active bullet = 8
+28-11-2019 12:44:24 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 8
+28-11-2019 12:44:55 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 107 - active bullet = 7
+28-11-2019 12:44:55 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 7
+28-11-2019 12:45:57 INFO  [pool-1-thread-1] - next state 3000003 BOSS13 3000003
+28-11-2019 12:46:06 INFO  [pool-1-thread-3] - next state 2000002 BOSS4_2 2000002
+28-11-2019 12:46:10 INFO  [nioEventLoopGroup-7-2] - Player - Player_27610800 - jackpot  with fish type = 120 - with gun = 500 - recieve jackpot = 500000
+28-11-2019 12:46:17 INFO  [pool-1-thread-4] - next state 1000001 BOSS5 1000001
+28-11-2019 12:48:49 INFO  [nioEventLoopGroup-7-1] - Player - Tesla889 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 505250
+28-11-2019 12:49:14 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 48 - active bullet = 4
+28-11-2019 12:49:14 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 12:50:29 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 8 - active bullet = 3
+28-11-2019 12:50:29 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:50:30 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 13 - active bullet = 4
+28-11-2019 12:50:30 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 12:50:38 INFO  [nioEventLoopGroup-7-1] - Player - Player_14450186 - jackpot  with fish type = 23 - with gun = 2000 - recieve jackpot = 531000
+28-11-2019 12:50:39 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 40 - active bullet = 17
+28-11-2019 12:50:39 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 17
+28-11-2019 12:50:40 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 46 - active bullet = 17
+28-11-2019 12:50:40 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 17
+28-11-2019 12:50:42 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 10 - active bullet = 18
+28-11-2019 12:50:42 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 18
+28-11-2019 12:50:43 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 30 - active bullet = 26
+28-11-2019 12:50:43 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 26
+28-11-2019 12:50:43 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 31 - active bullet = 28
+28-11-2019 12:50:43 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:50:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 50 - active bullet = 40
+28-11-2019 12:50:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 40
+28-11-2019 12:51:04 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 71 - active bullet = 26
+28-11-2019 12:51:04 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 26
+28-11-2019 12:51:04 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 2 - active bullet = 28
+28-11-2019 12:51:04 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:51:05 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 1 - active bullet = 28
+28-11-2019 12:51:05 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:51:05 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 80 - active bullet = 28
+28-11-2019 12:51:05 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:51:05 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 37 - active bullet = 28
+28-11-2019 12:51:05 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:51:06 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 47 - active bullet = 27
+28-11-2019 12:51:06 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 27
+28-11-2019 12:51:06 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 35 - active bullet = 27
+28-11-2019 12:51:06 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 27
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 31 - active bullet = 27
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 27
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 17 - active bullet = 28
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 63 - active bullet = 29
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 29
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 66 - active bullet = 30
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 30
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 55 - active bullet = 29
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 29
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 18 - active bullet = 29
+28-11-2019 12:51:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 29
+28-11-2019 12:51:19 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 3 - active bullet = 17
+28-11-2019 12:51:19 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 17
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 95 - active bullet = 78
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 78
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 99 - active bullet = 78
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 78
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 73 - active bullet = 77
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 77
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 101 - active bullet = 77
+28-11-2019 12:51:40 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 77
+28-11-2019 12:51:44 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 10 - active bullet = 93
+28-11-2019 12:51:44 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 93
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 88 - active bullet = 67
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 67
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 18 - active bullet = 69
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 69
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 2 - active bullet = 67
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 67
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 50 - active bullet = 68
+28-11-2019 12:51:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 68
+28-11-2019 12:51:46 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 83 - active bullet = 72
+28-11-2019 12:51:46 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 72
+28-11-2019 12:51:47 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 89 - active bullet = 77
+28-11-2019 12:51:47 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 77
+28-11-2019 12:51:47 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 7 - active bullet = 72
+28-11-2019 12:51:47 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 72
+28-11-2019 12:51:47 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 52 - active bullet = 70
+28-11-2019 12:51:47 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 70
+28-11-2019 12:51:48 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 55 - active bullet = 63
+28-11-2019 12:51:48 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 63
+28-11-2019 12:51:48 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 91 - active bullet = 59
+28-11-2019 12:51:48 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+28-11-2019 12:51:48 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 101 - active bullet = 59
+28-11-2019 12:51:48 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+28-11-2019 12:51:49 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 92 - active bullet = 59
+28-11-2019 12:51:49 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+28-11-2019 12:51:49 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 91 - active bullet = 56
+28-11-2019 12:51:49 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 56
+28-11-2019 12:51:49 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 1 - active bullet = 48
+28-11-2019 12:51:49 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 48
+28-11-2019 12:51:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 50 - active bullet = 47
+28-11-2019 12:51:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 47
+28-11-2019 12:51:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 40 - active bullet = 41
+28-11-2019 12:51:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 41
+28-11-2019 12:51:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 7 - active bullet = 37
+28-11-2019 12:51:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 37
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 74 - active bullet = 36
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 36
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 18 - active bullet = 32
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 44 - active bullet = 32
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 36 - active bullet = 32
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 32
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 90 - active bullet = 30
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 30
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 87 - active bullet = 29
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 29
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 94 - active bullet = 29
+28-11-2019 12:51:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 29
+28-11-2019 12:51:52 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 9 - active bullet = 27
+28-11-2019 12:51:52 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 27
+28-11-2019 12:51:52 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 71 - active bullet = 24
+28-11-2019 12:51:52 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 24
+28-11-2019 12:51:53 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 84 - active bullet = 18
+28-11-2019 12:51:53 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 18
+28-11-2019 12:51:53 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 85 - active bullet = 18
+28-11-2019 12:51:53 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 18
+28-11-2019 12:51:53 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 62 - active bullet = 18
+28-11-2019 12:51:53 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 18
+28-11-2019 12:51:54 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 1 - active bullet = 14
+28-11-2019 12:51:54 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 14
+28-11-2019 12:51:55 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 48 - active bullet = 13
+28-11-2019 12:51:55 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 13
+28-11-2019 12:51:55 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 67 - active bullet = 10
+28-11-2019 12:51:55 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 10
+28-11-2019 12:51:55 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 46 - active bullet = 10
+28-11-2019 12:51:55 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 10
+28-11-2019 12:51:59 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 83 - active bullet = 5
+28-11-2019 12:51:59 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+28-11-2019 12:52:44 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 48 - active bullet = 5
+28-11-2019 12:52:44 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+28-11-2019 12:52:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 75 - active bullet = 5
+28-11-2019 12:52:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+28-11-2019 12:52:45 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 52 - active bullet = 4
+28-11-2019 12:52:45 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 12:53:04 INFO  [nioEventLoopGroup-7-1] - Player - Tesla889 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 589000
+28-11-2019 12:53:13 INFO  [pool-1-thread-1] - next state 2000003 BOSS4_2 2000003
+28-11-2019 12:53:44 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 66 - active bullet = 3
+28-11-2019 12:53:44 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:54:15 INFO  [pool-1-thread-1] - next state 3000002 BOSS15 3000002
+28-11-2019 12:54:20 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 12:54:45 INFO  [pool-1-thread-1] - next state 1000002 BOSS5 1000002
+28-11-2019 12:54:53 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+28-11-2019 12:54:56 INFO  [pool-1-thread-2] - next state 3000003 BOSS18_2 3000003
+28-11-2019 12:55:04 INFO  [pool-1-thread-5] - next state 3000001 BOSS18 3000001
+28-11-2019 12:55:04 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 9 - active bullet = 3
+28-11-2019 12:55:04 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:55:05 INFO  [nioEventLoopGroup-7-1] - Player - Tesla889 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 513000
+28-11-2019 12:55:34 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+28-11-2019 12:55:42 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+28-11-2019 12:56:00 INFO  [pool-1-thread-3] - next state 1000001 BOSS4 1000001
+28-11-2019 12:56:02 INFO  [pool-1-thread-4] - next state 1000003 BOSS5 1000003
+28-11-2019 12:56:02 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 12:56:12 INFO  [pool-1-thread-3] - next state 2000001 BOSS4_2 2000001
+28-11-2019 12:56:13 INFO  [pool-1-thread-3] - next state 2000002 BOSS4_2 2000002
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 25 - active bullet = 14
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 14
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 36 - active bullet = 12
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 23 - active bullet = 13
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 13
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 21 - active bullet = 12
+28-11-2019 12:56:20 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+28-11-2019 12:56:42 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 40 - active bullet = 3
+28-11-2019 12:56:42 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:56:42 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 35 - active bullet = 3
+28-11-2019 12:56:42 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+28-11-2019 12:56:52 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 47 - active bullet = 4
+28-11-2019 12:56:52 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 12:56:52 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 25 - active bullet = 6
+28-11-2019 12:56:52 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 6
+28-11-2019 12:57:07 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 12:57:19 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+28-11-2019 12:57:19 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 12:57:20 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 12:57:23 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 30 - active bullet = 28
+28-11-2019 12:57:23 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 28
+28-11-2019 12:57:23 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 50 - active bullet = 17
+28-11-2019 12:57:23 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 17
+28-11-2019 12:57:24 INFO  [nioEventLoopGroup-7-1] - Player - Player_11910204 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 1409560
+28-11-2019 12:57:25 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 15 - active bullet = 13
+28-11-2019 12:57:25 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 13
+28-11-2019 12:57:26 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 18 - active bullet = 11
+28-11-2019 12:57:26 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 11
+28-11-2019 12:57:32 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 30 - active bullet = 4
+28-11-2019 12:57:32 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 12:57:32 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 45 - active bullet = 6
+28-11-2019 12:57:32 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 6
+28-11-2019 12:57:32 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 4 - active bullet = 4
+28-11-2019 12:57:32 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 12:58:52 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 43 - active bullet = 2
+28-11-2019 12:58:52 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+28-11-2019 12:58:52 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 53 - active bullet = 1
+28-11-2019 12:58:52 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+28-11-2019 12:59:32 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 4 - active bullet = 6
+28-11-2019 12:59:32 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 6
+28-11-2019 12:59:34 INFO  [nioEventLoopGroup-7-1] - Player - Player_23793806 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 522000
+28-11-2019 12:59:36 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 31 - active bullet = 27
+28-11-2019 12:59:36 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 27
+28-11-2019 13:00:12 INFO  [pool-1-thread-5] - next state 3000002 BOSS13 3000002
+28-11-2019 13:00:38 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 48 - active bullet = 8
+28-11-2019 13:00:38 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 8
+28-11-2019 13:01:12 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 10 - active bullet = 12
+28-11-2019 13:01:12 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+28-11-2019 13:01:12 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 8 - active bullet = 12
+28-11-2019 13:01:12 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+28-11-2019 13:01:12 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 40 - active bullet = 12
+28-11-2019 13:01:12 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 12
+28-11-2019 13:01:13 INFO  [pool-1-thread-5] - next state 3000001 BOSS14 3000001
+28-11-2019 13:01:18 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+28-11-2019 13:02:08 INFO  [pool-1-thread-1] - next state 1000002 BOSS1 1000002
+28-11-2019 13:02:12 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+28-11-2019 13:02:15 INFO  [pool-1-thread-3] - next state 2000003 BOSS3_2 2000003
+28-11-2019 13:02:22 INFO  [pool-1-thread-5] - next state 2000002 BOSS1_2 2000002
+28-11-2019 13:03:13 INFO  [pool-1-thread-5] - next state 1000001 BOSS4 1000001
+28-11-2019 13:03:15 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 13:03:19 INFO  [nioEventLoopGroup-7-1] - Player - Player_22762812 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 555500
+28-11-2019 13:03:26 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+28-11-2019 13:03:29 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+28-11-2019 13:06:04 INFO  [nioEventLoopGroup-7-1] - Player - Tesla889 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 538500
+28-11-2019 13:06:11 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 43 - active bullet = 1
+28-11-2019 13:06:11 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+28-11-2019 13:07:51 INFO  [nioEventLoopGroup-7-1] - Player - Player_87458644 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 512000
+28-11-2019 13:12:11 INFO  [pool-1-thread-5] - next state 1000003 BOSS3 1000003
+28-11-2019 13:12:11 INFO  [pool-1-thread-3] - next state 1000001 BOSS4 1000001
+28-11-2019 13:12:17 INFO  [pool-1-thread-1] - next state 2000003 BOSS1_2 2000003
+28-11-2019 13:12:35 INFO  [pool-1-thread-5] - next state 3000001 BOSS12 3000001
+28-11-2019 13:12:37 INFO  [pool-1-thread-4] - next state 2000002 BOSS1_2 2000002
+28-11-2019 13:12:39 INFO  [pool-1-thread-2] - next state 1000002 BOSS4 1000002
+28-11-2019 13:13:01 INFO  [pool-1-thread-4] - next state 3000002 BOSS15 3000002
+28-11-2019 13:13:19 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+28-11-2019 13:13:22 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+28-11-2019 13:13:23 INFO  [pool-1-thread-5] - next state 3000003 BOSS18_1 3000003
+28-11-2019 13:13:25 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+28-11-2019 13:13:38 INFO  [pool-1-thread-3] - next state 2000002 BOSS3_2 2000002
+28-11-2019 13:13:39 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 13:13:45 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 13:13:47 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 13:13:49 INFO  [pool-1-thread-1] - next state 2000001 BOSS1_2 2000001
+28-11-2019 13:13:55 INFO  [pool-1-thread-2] - next state 3000001 BOSS12 3000001
+28-11-2019 13:13:57 INFO  [pool-1-thread-1] - next state 1000001 BOSS5 1000001
+28-11-2019 13:14:01 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+28-11-2019 13:14:21 INFO  [pool-1-thread-5] - next state 1000003 BOSS1 1000003
+28-11-2019 13:14:37 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+28-11-2019 13:14:41 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+28-11-2019 13:14:50 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 13:14:54 INFO  [pool-1-thread-1] - next state 3000002 BOSS13 3000002
+28-11-2019 13:14:57 INFO  [pool-1-thread-3] - next state 2000001 NORMAL 2000001
+28-11-2019 13:15:06 INFO  [pool-1-thread-2] - next state 2000003 BOSS11 2000003
+28-11-2019 13:15:07 INFO  [pool-1-thread-2] - next state 3000003 BOSS18_2 3000003
+28-11-2019 13:15:12 INFO  [pool-1-thread-1] - next state 1000002 BOSS3 1000002
+28-11-2019 13:15:14 INFO  [pool-1-thread-4] - next state 1000001 NORMAL 1000001
+28-11-2019 13:15:28 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+28-11-2019 13:15:45 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 13:15:46 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+28-11-2019 13:15:59 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 13:16:01 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 13:16:16 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+28-11-2019 13:16:24 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 13:19:20 INFO  [pool-1-thread-3] - next state 1000003 BOSS3 1000003
+28-11-2019 13:19:47 INFO  [pool-1-thread-5] - next state 1000002 BOSS4 1000002
+28-11-2019 13:20:22 INFO  [pool-1-thread-2] - next state 2000002 BOSS1_2 2000002
+28-11-2019 13:20:27 INFO  [pool-1-thread-5] - next state 2000003 BOSS4_2 2000003
+28-11-2019 13:20:28 INFO  [pool-1-thread-4] - next state 3000002 BOSS18_1 3000002
+28-11-2019 13:20:32 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 13:20:54 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 13:21:06 INFO  [pool-1-thread-2] - next state 3000003 BOSS18 3000003
+28-11-2019 13:21:06 INFO  [pool-1-thread-1] - next state 3000002 NORMAL 3000002
+28-11-2019 13:21:22 INFO  [pool-1-thread-5] - next state 1000001 BOSS1 1000001
+28-11-2019 13:21:23 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+28-11-2019 13:21:29 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+28-11-2019 13:21:35 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 13:21:45 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+28-11-2019 13:21:54 INFO  [pool-1-thread-5] - next state 1000003 BOSS5 1000003
+28-11-2019 13:21:57 INFO  [pool-1-thread-4] - next state 3000001 BOSS15 3000001
+28-11-2019 13:22:02 INFO  [pool-1-thread-5] - next state 1000002 BOSS5 1000002
+28-11-2019 13:22:04 INFO  [pool-1-thread-2] - next state 2000002 BOSS4_2 2000002
+28-11-2019 13:22:04 INFO  [pool-1-thread-3] - next state 3000002 BOSS15 3000002
+28-11-2019 13:22:04 INFO  [pool-1-thread-1] - next state 3000003 BOSS12 3000003
+28-11-2019 13:22:23 INFO  [pool-1-thread-1] - next state 2000001 BOSS1_2 2000001
+28-11-2019 13:22:29 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 13:22:30 INFO  [pool-1-thread-3] - next state 2000001 NORMAL 2000001
+28-11-2019 13:22:36 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 13:22:40 INFO  [pool-1-thread-4] - next state 2000003 BOSS1_2 2000003
+28-11-2019 13:22:42 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 13:23:11 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+28-11-2019 13:23:11 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+28-11-2019 13:23:17 INFO  [pool-1-thread-1] - next state 1000001 BOSS1 1000001
+28-11-2019 13:23:20 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+28-11-2019 13:23:30 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+28-11-2019 13:23:47 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+28-11-2019 13:24:02 INFO  [pool-1-thread-3] - next state 3000001 BOSS14 3000001
+28-11-2019 13:24:10 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+28-11-2019 13:24:25 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+28-11-2019 13:25:02 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 13:27:25 INFO  [pool-1-thread-2] - next state 3000002 BOSS12 3000002
+28-11-2019 13:27:26 INFO  [pool-1-thread-3] - next state 1000002 BOSS1 1000002
+28-11-2019 13:27:36 INFO  [pool-1-thread-1] - next state 1000001 BOSS5 1000001
+28-11-2019 13:27:42 INFO  [pool-1-thread-4] - next state 3000001 BOSS12 3000001
+28-11-2019 13:28:08 INFO  [pool-1-thread-2] - next state 2000003 BOSS4_2 2000003
+28-11-2019 13:28:14 INFO  [pool-1-thread-5] - next state 2000002 BOSS5_2 2000002
+28-11-2019 13:28:19 INFO  [pool-1-thread-3] - next state 2000001 BOSS4_2 2000001
+28-11-2019 13:28:28 INFO  [pool-1-thread-5] - next state 1000003 BOSS1 1000003
+28-11-2019 13:28:33 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 13:28:54 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+28-11-2019 13:29:14 INFO  [pool-1-thread-5] - next state 2000002 BOSS11 2000002
+28-11-2019 13:29:15 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 13:29:26 INFO  [pool-1-thread-4] - next state 3000003 BOSS18_1 3000003
+28-11-2019 13:29:26 INFO  [pool-1-thread-3] - next state 2000001 NORMAL 2000001
+28-11-2019 13:29:31 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+28-11-2019 13:29:32 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 13:29:33 INFO  [pool-1-thread-5] - next state 3000003 BOSS18_2 3000003
+28-11-2019 13:29:36 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 13:29:47 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+28-11-2019 13:29:48 INFO  [pool-1-thread-5] - next state 1000001 BOSS3 1000001
+28-11-2019 13:30:04 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+28-11-2019 13:30:11 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+28-11-2019 13:30:13 INFO  [pool-1-thread-5] - next state 3000002 BOSS18 3000002
+28-11-2019 13:30:24 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 13:30:51 INFO  [pool-1-thread-1] - next state 3000002 NORMAL 3000002
+28-11-2019 13:30:59 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 13:31:15 INFO  [pool-1-thread-3] - next state 1000003 BOSS1 1000003
+28-11-2019 13:31:22 INFO  [pool-1-thread-5] - next state 1000002 BOSS4 1000002
+28-11-2019 13:31:24 INFO  [pool-1-thread-1] - next state 2000003 BOSS11 2000003
+28-11-2019 13:31:25 INFO  [pool-1-thread-3] - next state 2000001 BOSS4_2 2000001
+28-11-2019 13:32:22 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+28-11-2019 13:32:23 INFO  [pool-1-thread-3] - next state 3000001 BOSS15 3000001
+28-11-2019 13:32:29 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+28-11-2019 13:32:33 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+28-11-2019 13:32:34 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+28-11-2019 13:33:01 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+28-11-2019 13:33:38 INFO  [pool-1-thread-1] - next state 1000002 BOSS4 1000002
+28-11-2019 13:34:46 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 13:35:17 INFO  [pool-1-thread-5] - next state 3000003 BOSS15 3000003
+28-11-2019 13:35:35 INFO  [pool-1-thread-1] - next state 1000001 BOSS1 1000001
+28-11-2019 13:35:53 INFO  [pool-1-thread-2] - next state 1000003 BOSS1 1000003
+28-11-2019 13:35:56 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+28-11-2019 13:36:11 INFO  [pool-1-thread-2] - next state 1000001 BOSS1 1000001
+28-11-2019 13:36:21 INFO  [pool-1-thread-5] - next state 3000002 BOSS12 3000002
+28-11-2019 13:36:22 INFO  [pool-1-thread-5] - next state 2000003 BOSS4_2 2000003
+28-11-2019 13:36:42 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 13:36:46 INFO  [pool-1-thread-2] - next state 2000002 BOSS1_2 2000002
+28-11-2019 13:36:53 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+28-11-2019 13:36:54 INFO  [pool-1-thread-3] - next state 3000001 BOSS15 3000001
+28-11-2019 13:37:00 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+28-11-2019 13:37:01 INFO  [pool-1-thread-2] - next state 2000002 BOSS3_2 2000002
+28-11-2019 13:37:19 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+28-11-2019 13:37:25 INFO  [pool-1-thread-1] - next state 3000003 BOSS14 3000003
+28-11-2019 13:37:28 INFO  [pool-1-thread-2] - next state 3000002 BOSS18_2 3000002
+28-11-2019 13:37:29 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 13:37:32 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+28-11-2019 13:37:34 INFO  [pool-1-thread-4] - next state 2000003 BOSS5_2 2000003
+28-11-2019 13:37:53 INFO  [pool-1-thread-5] - next state 2000002 NORMAL 2000002
+28-11-2019 13:38:00 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+28-11-2019 13:38:06 INFO  [pool-1-thread-1] - next state 3000002 NORMAL 3000002
+28-11-2019 13:38:12 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+28-11-2019 13:38:24 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+28-11-2019 13:38:26 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+28-11-2019 13:38:51 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+28-11-2019 13:39:19 INFO  [pool-1-thread-4] - next state 2000001 BOSS4_2 2000001
+28-11-2019 13:39:31 INFO  [pool-1-thread-3] - next state 1000002 BOSS1 1000002
+28-11-2019 13:39:59 INFO  [pool-1-thread-2] - next state 1000003 BOSS4 1000003
+28-11-2019 13:40:00 INFO  [pool-1-thread-3] - next state 3000001 BOSS17 3000001
+28-11-2019 13:40:26 INFO  [pool-1-thread-3] - next state 2000001 NORMAL 2000001
+28-11-2019 13:40:38 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+28-11-2019 13:41:02 INFO  [pool-1-thread-3] - next state 3000003 BOSS14 3000003
+28-11-2019 13:41:06 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+28-11-2019 13:41:38 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 13:42:01 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+28-11-2019 13:42:24 INFO  [pool-1-thread-1] - next state 1000002 BOSS5 1000002
+28-11-2019 13:42:32 INFO  [pool-1-thread-3] - next state 2000003 BOSS1_2 2000003
+28-11-2019 13:43:10 INFO  [pool-1-thread-1] - next state 1000001 BOSS1 1000001
+28-11-2019 13:43:40 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 13:43:42 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+28-11-2019 13:43:42 INFO  [pool-1-thread-4] - next state 1000001 BOSS5 1000001
+28-11-2019 13:43:44 INFO  [pool-1-thread-3] - next state 1000003 BOSS4 1000003
+28-11-2019 13:44:13 INFO  [pool-1-thread-5] - next state 3000002 BOSS12 3000002
+28-11-2019 13:44:16 INFO  [pool-1-thread-3] - next state 3000003 BOSS15 3000003
+28-11-2019 13:44:17 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 13:44:29 INFO  [pool-1-thread-4] - next state 3000002 BOSS17 3000002
+28-11-2019 13:44:31 INFO  [pool-1-thread-3] - next state 2000002 BOSS1_2 2000002
+28-11-2019 13:44:39 INFO  [pool-1-thread-2] - next state 2000001 BOSS4_2 2000001
+28-11-2019 13:44:51 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+28-11-2019 13:44:54 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+28-11-2019 13:44:59 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 13:45:33 INFO  [pool-1-thread-3] - next state 2000001 BOSS3_2 2000001
+28-11-2019 13:45:37 INFO  [pool-1-thread-5] - next state 3000001 BOSS18_1 3000001
+28-11-2019 13:45:38 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+28-11-2019 13:45:46 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 13:45:49 INFO  [pool-1-thread-2] - next state 2000002 BOSS5_2 2000002
+28-11-2019 13:46:07 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+28-11-2019 13:46:15 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+28-11-2019 13:46:18 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 13:46:20 INFO  [pool-1-thread-4] - next state 1000002 BOSS3 1000002
+28-11-2019 13:46:44 INFO  [pool-1-thread-3] - next state 2000001 NORMAL 2000001
+28-11-2019 13:46:48 INFO  [pool-1-thread-2] - next state 1000003 BOSS5 1000003
+28-11-2019 13:47:06 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+28-11-2019 13:47:10 INFO  [pool-1-thread-1] - next state 2000003 BOSS1_2 2000003
+28-11-2019 13:47:20 INFO  [pool-1-thread-3] - next state 3000001 BOSS14 3000001
+28-11-2019 13:47:31 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 13:47:44 INFO  [pool-1-thread-2] - next state 3000003 BOSS18_1 3000003
+28-11-2019 13:48:05 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+28-11-2019 13:48:18 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+28-11-2019 13:48:19 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+28-11-2019 13:48:22 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+28-11-2019 13:48:57 INFO  [pool-1-thread-1] - next state 2000003 BOSS3_2 2000003
+28-11-2019 13:50:08 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 13:50:29 INFO  [pool-1-thread-4] - next state 1000001 BOSS3 1000001
+28-11-2019 13:51:08 INFO  [pool-1-thread-4] - next state 1000003 BOSS4 1000003
+28-11-2019 13:51:21 INFO  [pool-1-thread-5] - next state 1000002 BOSS5 1000002
+28-11-2019 13:51:26 INFO  [pool-1-thread-5] - next state 3000002 BOSS12 3000002
+28-11-2019 13:51:40 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 13:51:59 INFO  [pool-1-thread-3] - next state 3000001 BOSS14 3000001
+28-11-2019 13:52:04 INFO  [pool-1-thread-4] - next state 2000001 BOSS3_2 2000001
+28-11-2019 13:52:15 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 13:52:38 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+28-11-2019 13:52:42 INFO  [pool-1-thread-3] - next state 2000002 BOSS4_2 2000002
+28-11-2019 13:52:46 INFO  [pool-1-thread-3] - next state 3000003 BOSS13 3000003
+28-11-2019 13:52:48 INFO  [pool-1-thread-2] - next state 1000001 BOSS4 1000001
+28-11-2019 13:52:55 INFO  [pool-1-thread-3] - next state 3000002 BOSS13 3000002
+28-11-2019 13:52:58 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+28-11-2019 13:53:15 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 13:53:22 INFO  [pool-1-thread-4] - next state 2000001 BOSS5_2 2000001
+28-11-2019 13:53:31 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+28-11-2019 13:53:50 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+28-11-2019 13:53:52 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+28-11-2019 13:53:55 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+28-11-2019 13:54:00 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+28-11-2019 13:54:02 INFO  [pool-1-thread-3] - next state 3000001 BOSS17 3000001
+28-11-2019 13:54:39 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 13:54:52 INFO  [pool-1-thread-2] - next state 2000002 BOSS4_2 2000002
+28-11-2019 13:55:15 INFO  [pool-1-thread-4] - next state 2000003 BOSS4_2 2000003
+28-11-2019 13:55:24 INFO  [pool-1-thread-1] - next state 1000002 BOSS1 1000002
+28-11-2019 13:55:30 INFO  [pool-1-thread-5] - next state 1000003 BOSS3 1000003
+28-11-2019 13:55:33 INFO  [pool-1-thread-3] - next state 3000003 BOSS12 3000003
+28-11-2019 13:55:40 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 13:55:59 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+28-11-2019 13:56:22 INFO  [pool-1-thread-4] - next state 2000003 NORMAL 2000003
+28-11-2019 13:56:31 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 13:56:33 INFO  [pool-1-thread-3] - next state 2000003 BOSS4_2 2000003
+28-11-2019 13:56:41 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+28-11-2019 13:57:39 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+28-11-2019 13:57:40 INFO  [pool-1-thread-2] - next state 2000003 NORMAL 2000003
+28-11-2019 13:58:02 INFO  [pool-1-thread-4] - next state 1000003 BOSS4 1000003
+28-11-2019 13:58:06 INFO  [pool-1-thread-5] - next state 1000002 BOSS1 1000002
+28-11-2019 13:59:07 INFO  [pool-1-thread-4] - next state 1000001 BOSS4 1000001
+28-11-2019 13:59:09 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 13:59:13 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 13:59:17 INFO  [pool-1-thread-2] - next state 3000002 BOSS13 3000002
+28-11-2019 13:59:55 INFO  [pool-1-thread-1] - next state 1000001 BOSS1 1000001
+28-11-2019 14:00:14 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 14:00:22 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 14:00:27 INFO  [pool-1-thread-3] - next state 3000002 BOSS13 3000002
+28-11-2019 14:00:57 INFO  [pool-1-thread-1] - next state 2000001 BOSS3_2 2000001
+28-11-2019 14:01:01 INFO  [pool-1-thread-1] - next state 3000001 BOSS15 3000001
+28-11-2019 14:01:02 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 14:01:12 INFO  [pool-1-thread-4] - next state 2000002 BOSS5_2 2000002
+28-11-2019 14:01:14 INFO  [pool-1-thread-3] - next state 3000003 BOSS17 3000003
+28-11-2019 14:01:20 INFO  [pool-1-thread-1] - next state 3000001 BOSS12 3000001
+28-11-2019 14:01:32 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+28-11-2019 14:01:39 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+28-11-2019 14:02:08 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+28-11-2019 14:02:16 INFO  [pool-1-thread-1] - next state 2000001 BOSS3_2 2000001
+28-11-2019 14:02:29 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 14:02:52 INFO  [pool-1-thread-3] - next state 2000003 BOSS1_2 2000003
+28-11-2019 14:02:52 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+28-11-2019 14:02:53 INFO  [pool-1-thread-3] - next state 1000002 BOSS1 1000002
+28-11-2019 14:03:25 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+28-11-2019 14:03:27 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+28-11-2019 14:03:47 INFO  [pool-1-thread-5] - next state 2000002 BOSS1_2 2000002
+28-11-2019 14:03:50 INFO  [pool-1-thread-1] - next state 1000003 BOSS1 1000003
+28-11-2019 14:03:59 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 14:04:01 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+28-11-2019 14:04:55 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+28-11-2019 14:04:57 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+28-11-2019 14:05:27 INFO  [pool-1-thread-4] - next state 3000003 BOSS17 3000003
+28-11-2019 14:05:34 INFO  [pool-1-thread-1] - next state 1000003 BOSS1 1000003
+28-11-2019 14:05:41 INFO  [pool-1-thread-1] - next state 2000003 BOSS4_2 2000003
+28-11-2019 14:06:35 INFO  [pool-1-thread-5] - next state 1000001 BOSS4 1000001
+28-11-2019 14:06:42 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 14:06:46 INFO  [pool-1-thread-5] - next state 3000001 BOSS13 3000001
+28-11-2019 14:06:48 INFO  [pool-1-thread-2] - next state 2000003 NORMAL 2000003
+28-11-2019 14:07:01 INFO  [pool-1-thread-4] - next state 3000002 BOSS17 3000002
+28-11-2019 14:07:06 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+28-11-2019 14:07:21 INFO  [pool-1-thread-1] - next state 2000001 BOSS4_2 2000001
+28-11-2019 14:07:31 INFO  [pool-1-thread-4] - next state 1000002 BOSS5 1000002
+28-11-2019 14:07:42 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 14:07:52 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 14:07:52 INFO  [pool-1-thread-4] - next state 3000003 BOSS14 3000003
+28-11-2019 14:07:53 INFO  [pool-1-thread-5] - next state 3000002 BOSS18 3000002
+28-11-2019 14:07:57 INFO  [pool-1-thread-4] - next state 2000002 BOSS1_2 2000002
+28-11-2019 14:08:14 INFO  [pool-1-thread-2] - next state 1000001 BOSS3 1000001
+28-11-2019 14:08:28 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+28-11-2019 14:08:28 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+28-11-2019 14:08:31 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+28-11-2019 14:08:39 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+28-11-2019 14:08:48 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002
+28-11-2019 14:08:52 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+28-11-2019 14:09:04 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+28-11-2019 14:09:26 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 14:09:35 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 14:10:28 INFO  [pool-1-thread-1] - next state 3000001 BOSS15 3000001
+28-11-2019 14:10:55 INFO  [pool-1-thread-5] - next state 2000003 BOSS11 2000003
+28-11-2019 14:11:06 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+28-11-2019 14:11:21 INFO  [pool-1-thread-1] - next state 1000002 BOSS1 1000002
+28-11-2019 14:12:05 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 14:12:27 INFO  [pool-1-thread-1] - next state 1000003 BOSS4 1000003
+28-11-2019 14:12:28 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+28-11-2019 14:13:04 INFO  [pool-1-thread-2] - next state 2000002 BOSS11 2000002
+28-11-2019 14:13:23 INFO  [pool-1-thread-5] - next state 3000003 BOSS15 3000003
+28-11-2019 14:13:34 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 14:14:02 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+28-11-2019 14:14:05 INFO  [pool-1-thread-4] - next state 1000003 BOSS3 1000003
+28-11-2019 14:14:12 INFO  [pool-1-thread-2] - next state 3000001 BOSS18_1 3000001
+28-11-2019 14:14:14 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+28-11-2019 14:14:19 INFO  [pool-1-thread-2] - next state 3000002 BOSS14 3000002
+28-11-2019 14:14:28 INFO  [nioEventLoopGroup-7-2] - Player - Tesla889 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 504500
+28-11-2019 14:14:50 INFO  [pool-1-thread-4] - next state 3000001 NORMAL 3000001
+28-11-2019 14:14:56 INFO  [pool-1-thread-3] - next state 1000002 BOSS3 1000002
+28-11-2019 14:14:56 INFO  [pool-1-thread-5] - next state 2000003 BOSS1_2 2000003
+28-11-2019 14:15:16 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 14:15:18 INFO  [pool-1-thread-3] - next state 3000002 NORMAL 3000002
+28-11-2019 14:15:42 INFO  [pool-1-thread-1] - next state 2000002 BOSS11 2000002
+28-11-2019 14:15:46 INFO  [pool-1-thread-3] - next state 2000001 BOSS5_2 2000001
+28-11-2019 14:15:55 INFO  [pool-1-thread-4] - next state 1000001 BOSS4 1000001
+28-11-2019 14:16:03 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+28-11-2019 14:16:04 INFO  [pool-1-thread-5] - next state 3000002 BOSS13 3000002
+28-11-2019 14:16:07 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+28-11-2019 14:16:25 INFO  [nioEventLoopGroup-7-2] - Player - Player_65575483 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 502000
+28-11-2019 14:16:39 INFO  [pool-1-thread-1] - next state 3000003 BOSS18_2 3000003
+28-11-2019 14:16:52 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+28-11-2019 14:16:55 INFO  [pool-1-thread-3] - next state 1000001 BOSS3 1000001
+28-11-2019 14:17:02 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+28-11-2019 14:17:03 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 14:17:09 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 14:17:12 INFO  [pool-1-thread-4] - next state 2000003 BOSS4_2 2000003
+28-11-2019 14:17:17 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+28-11-2019 14:17:33 INFO  [pool-1-thread-1] - next state 2000001 BOSS11 2000001
+28-11-2019 14:17:38 INFO  [pool-1-thread-1] - next state 1000002 BOSS3 1000002
+28-11-2019 14:18:05 INFO  [pool-1-thread-2] - next state 3000001 BOSS18_2 3000001
+28-11-2019 14:18:07 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+28-11-2019 14:18:19 INFO  [pool-1-thread-2] - next state 2000003 NORMAL 2000003
+28-11-2019 14:18:43 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+28-11-2019 14:18:43 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+28-11-2019 14:18:50 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 14:19:14 INFO  [pool-1-thread-1] - next state 1000003 BOSS4 1000003
+28-11-2019 14:19:27 INFO  [pool-1-thread-3] - next state 2000002 BOSS5_2 2000002
+28-11-2019 14:20:21 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+28-11-2019 14:20:25 INFO  [pool-1-thread-3] - next state 3000002 BOSS17 3000002
+28-11-2019 14:20:45 INFO  [pool-1-thread-5] - next state 2000002 NORMAL 2000002
+28-11-2019 14:20:51 INFO  [pool-1-thread-1] - next state 3000003 BOSS15 3000003
+28-11-2019 14:21:22 INFO  [pool-1-thread-4] - next state 1000003 BOSS5 1000003
+28-11-2019 14:21:29 INFO  [pool-1-thread-3] - next state 3000003 NORMAL 3000003
+28-11-2019 14:21:54 INFO  [pool-1-thread-3] - next state 3000001 BOSS18_1 3000001
+28-11-2019 14:22:03 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 14:22:18 INFO  [pool-1-thread-3] - next state 2000002 BOSS3_2 2000002
+28-11-2019 14:22:23 INFO  [pool-1-thread-1] - next state 1000001 BOSS1 1000001
+28-11-2019 14:22:32 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+28-11-2019 14:22:38 INFO  [pool-1-thread-3] - next state 3000002 BOSS18_2 3000002
+28-11-2019 14:22:39 INFO  [pool-1-thread-1] - next state 3000003 BOSS17 3000003
+28-11-2019 14:22:39 INFO  [pool-1-thread-1] - next state 1000003 NORMAL 1000003
+28-11-2019 14:23:16 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 14:23:17 INFO  [pool-1-thread-2] - next state 2000001 BOSS11 2000001
+28-11-2019 14:23:18 INFO  [pool-1-thread-3] - next state 2000003 BOSS1_2 2000003
+28-11-2019 14:23:21 INFO  [pool-1-thread-4] - next state 1000002 BOSS3 1000002
+28-11-2019 14:23:24 INFO  [nioEventLoopGroup-7-2] - Player - Player_35895126 - jackpot  with fish type = 23 - with gun = 100 - recieve jackpot = 100000
+28-11-2019 14:23:29 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+28-11-2019 14:23:30 INFO  [pool-1-thread-4] - next state 1000001 NORMAL 1000001
+28-11-2019 14:23:55 INFO  [pool-1-thread-4] - next state 1000001 BOSS5 1000001
+28-11-2019 14:24:17 INFO  [pool-1-thread-3] - next state 3000001 BOSS17 3000001
+28-11-2019 14:24:17 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+28-11-2019 14:24:25 INFO  [pool-1-thread-1] - next state 1000002 BOSS4 1000002
+28-11-2019 14:24:25 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 14:24:27 INFO  [pool-1-thread-1] - next state 2000001 NORMAL 2000001
+28-11-2019 14:24:32 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 14:24:33 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 99 - active bullet = 118
+28-11-2019 14:24:33 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 118
+28-11-2019 14:24:33 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 103 - active bullet = 114
+28-11-2019 14:24:33 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 114
+28-11-2019 14:24:33 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 107 - active bullet = 111
+28-11-2019 14:24:33 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 111
+28-11-2019 14:24:34 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 104 - active bullet = 108
+28-11-2019 14:24:34 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 108
+28-11-2019 14:24:41 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 7 - active bullet = 163
+28-11-2019 14:24:41 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 163
+28-11-2019 14:24:43 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 31 - active bullet = 155
+28-11-2019 14:24:43 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 155
+28-11-2019 14:24:44 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 79 - active bullet = 149
+28-11-2019 14:24:44 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 149
+28-11-2019 14:25:12 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 14:25:22 INFO  [pool-1-thread-3] - next state 1000003 BOSS4 1000003
+28-11-2019 14:25:32 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+28-11-2019 14:25:55 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+28-11-2019 14:25:57 INFO  [pool-1-thread-1] - next state 2000002 BOSS3_2 2000002
+28-11-2019 14:25:57 INFO  [pool-1-thread-5] - next state 2000003 BOSS3_2 2000003
+28-11-2019 14:26:13 INFO  [pool-1-thread-3] - next state 2000001 BOSS11 2000001
+28-11-2019 14:26:29 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+28-11-2019 14:27:04 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 23 - active bullet = 2
+28-11-2019 14:27:04 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+28-11-2019 14:27:08 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 14:27:08 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+28-11-2019 14:27:21 INFO  [pool-1-thread-2] - next state 3000003 BOSS17 3000003
+28-11-2019 14:27:23 INFO  [pool-1-thread-5] - next state 2000001 NORMAL 2000001
+28-11-2019 14:27:46 INFO  [nioEventLoopGroup-7-2] - Player - Player_27755003 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 518000
+28-11-2019 14:28:17 INFO  [pool-1-thread-1] - next state 1000003 BOSS4 1000003
+28-11-2019 14:28:59 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+28-11-2019 14:29:11 INFO  [pool-1-thread-1] - next state 3000001 BOSS18 3000001
+28-11-2019 14:29:25 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 14:29:29 INFO  [pool-1-thread-4] - next state 2000001 BOSS1_2 2000001
+28-11-2019 14:29:46 INFO  [pool-1-thread-3] - next state 3000003 BOSS18_1 3000003
+28-11-2019 14:29:49 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+28-11-2019 14:29:56 INFO  [pool-1-thread-1] - next state 3000002 BOSS17 3000002
+28-11-2019 14:29:57 INFO  [nioEventLoopGroup-7-3] - Player - Player_16527362 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 500500
+28-11-2019 14:30:03 INFO  [pool-1-thread-4] - next state 2000002 BOSS4_2 2000002
+28-11-2019 14:30:15 INFO  [pool-1-thread-5] - next state 1000001 BOSS5 1000001
+28-11-2019 14:30:24 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+28-11-2019 14:30:36 INFO  [pool-1-thread-1] - next state 3000002 BOSS14 3000002
+28-11-2019 14:30:36 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+28-11-2019 14:30:49 INFO  [pool-1-thread-2] - next state 2000003 BOSS3_2 2000003
+28-11-2019 14:31:04 INFO  [pool-1-thread-5] - next state 1000002 BOSS1 1000002
+28-11-2019 14:31:10 INFO  [pool-1-thread-3] - next state 2000002 NORMAL 2000002
+28-11-2019 14:31:12 INFO  [pool-1-thread-3] - next state 1000001 BOSS3 1000001
+28-11-2019 14:31:31 INFO  [pool-1-thread-5] - next state 1000002 BOSS5 1000002
+28-11-2019 14:31:32 INFO  [pool-1-thread-5] - next state 1000001 NORMAL 1000001
+28-11-2019 14:31:34 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 14:31:36 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+28-11-2019 14:32:00 INFO  [pool-1-thread-3] - next state 2000003 NORMAL 2000003
+28-11-2019 14:32:02 INFO  [pool-1-thread-3] - next state 3000001 BOSS12 3000001
+28-11-2019 14:32:11 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+28-11-2019 14:32:15 INFO  [pool-1-thread-1] - next state 2000003 BOSS11 2000003
+28-11-2019 14:32:24 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+28-11-2019 14:32:40 INFO  [nioEventLoopGroup-7-3] - Player - Player_32760163 - jackpot  with fish type = 120 - with gun = 2000 - recieve jackpot = 507500
+28-11-2019 14:32:48 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+28-11-2019 14:35:25 INFO  [nioEventLoopGroup-7-1] - Player - Player_14119741 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 507000
+28-11-2019 14:37:16 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 39 - active bullet = 6
+28-11-2019 14:37:16 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 6
+28-11-2019 14:37:16 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 19 - active bullet = 4
+28-11-2019 14:37:16 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 14:39:08 INFO  [pool-1-thread-1] - next state 1000003 BOSS3 1000003
+28-11-2019 14:39:13 INFO  [nioEventLoopGroup-7-1] - Player - Tesla889 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 558500
+28-11-2019 14:39:26 INFO  [pool-1-thread-2] - next state 2000001 BOSS11 2000001
+28-11-2019 14:39:31 INFO  [pool-1-thread-4] - next state 1000002 BOSS4 1000002
+28-11-2019 14:39:54 INFO  [pool-1-thread-3] - next state 3000001 BOSS18 3000001
+28-11-2019 14:39:56 INFO  [pool-1-thread-3] - next state 2000003 BOSS11 2000003
+28-11-2019 14:40:05 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 13 - active bullet = 1
+28-11-2019 14:40:05 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+28-11-2019 14:40:13 INFO  [pool-1-thread-3] - next state 1000001 BOSS4 1000001
+28-11-2019 14:40:19 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+28-11-2019 14:40:32 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+28-11-2019 14:40:36 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+28-11-2019 14:40:38 INFO  [pool-1-thread-3] - next state 1000002 NORMAL 1000002
+28-11-2019 14:40:40 INFO  [pool-1-thread-4] - next state 3000002 BOSS14 3000002
+28-11-2019 14:40:56 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 31 - active bullet = 16
+28-11-2019 14:40:56 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 16
+28-11-2019 14:40:56 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 22 - active bullet = 15
+28-11-2019 14:40:56 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 15
+28-11-2019 14:40:56 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 3 - active bullet = 15
+28-11-2019 14:40:56 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 15
+28-11-2019 14:40:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 37 - active bullet = 17
+28-11-2019 14:40:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 17
+28-11-2019 14:40:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 20 - active bullet = 18
+28-11-2019 14:40:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 18
+28-11-2019 14:41:00 INFO  [pool-1-thread-1] - next state 2000002 BOSS1_2 2000002
+28-11-2019 14:41:06 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+28-11-2019 14:41:18 INFO  [pool-1-thread-3] - next state 3000003 BOSS18 3000003
+28-11-2019 14:41:20 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 14:41:39 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+28-11-2019 14:41:55 INFO  [nioEventLoopGroup-7-1] - Player - Tesla889 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 545500
+28-11-2019 14:41:56 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+28-11-2019 14:42:07 INFO  [pool-1-thread-4] - next state 2000002 NORMAL 2000002
+28-11-2019 14:43:11 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 26 - active bullet = 4
+28-11-2019 14:43:11 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+28-11-2019 14:44:27 INFO  [nioEventLoopGroup-7-2] - Player - Tesla889 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 541500
+28-11-2019 14:44:47 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 5 - active bullet = 1
+28-11-2019 14:44:47 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+28-11-2019 14:45:42 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 45 - active bullet = 1
+28-11-2019 14:45:42 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+28-11-2019 14:45:42 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 41 - active bullet = 2
+28-11-2019 14:45:42 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+28-11-2019 14:45:43 ERROR [nioEventLoopGroup-7-2] - HIt fish - bullet null - bullet id = 43 - active bullet = 1
+28-11-2019 14:45:43 ERROR [nioEventLoopGroup-7-2] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+28-11-2019 14:46:13 INFO  [pool-1-thread-5] - next state 1000003 BOSS4 1000003
+28-11-2019 14:46:15 INFO  [pool-1-thread-2] - next state 2000001 BOSS4_2 2000001
+28-11-2019 14:46:33 INFO  [nioEventLoopGroup-7-2] - Player - Player_60138602 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 510000
+28-11-2019 14:46:38 INFO  [pool-1-thread-5] - next state 1000002 BOSS4 1000002
+28-11-2019 14:47:17 INFO  [pool-1-thread-2] - next state 3000001 BOSS17 3000001
+28-11-2019 14:47:20 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+28-11-2019 14:47:22 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+28-11-2019 14:47:28 INFO  [pool-1-thread-5] - next state 2000003 BOSS3_2 2000003
+28-11-2019 14:47:45 INFO  [pool-1-thread-4] - next state 1000002 NORMAL 1000002
+28-11-2019 14:48:03 INFO  [pool-1-thread-3] - next state 1000001 BOSS1 1000001
+28-11-2019 14:48:25 INFO  [pool-1-thread-1] - next state 2000002 BOSS11 2000002
+28-11-2019 14:48:39 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+28-11-2019 14:48:42 INFO  [pool-1-thread-4] - next state 3000002 BOSS17 3000002
+28-11-2019 14:48:55 INFO  [pool-1-thread-1] - next state 3000001 NORMAL 3000001
+28-11-2019 14:49:10 INFO  [pool-1-thread-2] - next state 1000001 NORMAL 1000001
+28-11-2019 14:49:35 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+28-11-2019 14:50:10 INFO  [pool-1-thread-4] - next state 3000003 BOSS15 3000003
+28-11-2019 14:50:20 INFO  [pool-1-thread-2] - next state 3000002 NORMAL 3000002
+28-11-2019 14:50:49 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+28-11-2019 14:52:20 INFO  [pool-1-thread-1] - next state 1000003 BOSS4 1000003
+28-11-2019 14:53:27 INFO  [pool-1-thread-5] - next state 1000003 NORMAL 1000003
+28-11-2019 14:54:00 INFO  [pool-1-thread-2] - next state 2000001 BOSS5_2 2000001
+28-11-2019 14:54:15 INFO  [pool-1-thread-1] - next state 1000002 BOSS5 1000002
+28-11-2019 14:54:16 INFO  [pool-1-thread-3] - next state 3000001 BOSS17 3000001
+28-11-2019 14:55:15 INFO  [pool-1-thread-4] - next state 1000001 BOSS3 1000001
+28-11-2019 14:55:17 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+28-11-2019 14:55:32 INFO  [pool-1-thread-2] - next state 1000002 NORMAL 1000002

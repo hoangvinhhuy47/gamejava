@@ -1,0 +1,15 @@
+10-05-2021 15:53:59 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+10-05-2021 15:53:59 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+10-05-2021 15:53:59 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+10-05-2021 16:15:04 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+10-05-2021 16:15:04 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+10-05-2021 16:15:04 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+10-05-2021 16:15:04 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+10-05-2021 16:15:04 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+10-05-2021 16:18:29 INFO  [pool-1-thread-4] - Start new table - 2000004 - Size current = 2
+10-05-2021 16:42:22 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+10-05-2021 16:42:22 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+10-05-2021 16:42:23 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+10-05-2021 19:08:57 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+10-05-2021 19:08:57 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+10-05-2021 19:08:57 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 

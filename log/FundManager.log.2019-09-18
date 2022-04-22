@@ -1,0 +1,9 @@
+18-09-2019 08:59:41 DEBUG [pool-1-thread-1] - currentFund: -461375
+18-09-2019 09:08:48 DEBUG [pool-1-thread-4] - currentFund: -461225
+18-09-2019 09:36:41 DEBUG [pool-1-thread-4] - currentFund: -461025
+18-09-2019 09:37:32 DEBUG [pool-1-thread-5] - currentFund: -460650
+18-09-2019 09:41:19 DEBUG [pool-1-thread-3] - currentFund: 70539
+18-09-2019 09:48:44 DEBUG [pool-1-thread-2] - currentFund: -460600
+18-09-2019 14:09:31 DEBUG [pool-1-thread-2] - currentFund: 70689
+18-09-2019 14:11:27 DEBUG [nioEventLoopGroup-7-1] - currentFund: 70989
+18-09-2019 14:11:55 DEBUG [pool-1-thread-5] - currentFund: -460225

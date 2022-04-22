@@ -1,0 +1,12 @@
+13-01-2020 14:15:21 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+13-01-2020 14:15:21 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+13-01-2020 14:15:21 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+13-01-2020 14:15:21 INFO  [pool-1-thread-2] - ---------Init table of Room[NORMAL] DONE!--------- 
+13-01-2020 14:15:21 INFO  [pool-1-thread-2] - ---------Init table of Room[VIP] DONE!--------- 
+13-01-2020 14:15:21 INFO  [pool-1-thread-2] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+13-01-2020 14:18:39 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+13-01-2020 14:18:39 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+13-01-2020 14:18:39 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+13-01-2020 14:25:02 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+13-01-2020 14:25:02 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+13-01-2020 14:25:02 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 

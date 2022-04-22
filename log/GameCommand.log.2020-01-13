@@ -1,0 +1,6 @@
+13-01-2020 14:38:12 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+13-01-2020 15:48:24 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+13-01-2020 15:49:35 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+13-01-2020 15:51:32 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+13-01-2020 15:54:23 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+13-01-2020 15:59:00 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null

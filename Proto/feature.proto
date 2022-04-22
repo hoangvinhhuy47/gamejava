@@ -1,0 +1,224 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "FeatureProtos";
+
+//Rank
+message RankUserInfo{
+    required int32 user_id = 1;
+    optional string nick_name = 2;
+    optional int64 gold = 3;
+    optional int64 total_win_gold = 4;
+    optional string avatar = 6;
+    required int32 rank = 7;
+    optional bool is_top_rich = 8;
+}
+
+message RankingResponse {
+    repeated RankUserInfo list_user = 1;
+}
+//end rank
+
+message ListNewsResponseBean {
+    repeated NewsInfoBean list_news = 1;
+}
+
+message NewsInfoBean {
+    required int64 news_id = 1;
+    required string category = 2;
+    optional string content = 3;
+    optional string url_image = 4;
+    optional string link = 5;
+    optional bool is_read = 6;
+}
+
+message ReadNewsRequestBean {
+    required int64 news_id = 1;
+}
+
+message ReadNewsResponseBean {
+    required int32 error_code = 1;
+    optional string description = 2;
+    optional int64 news_id = 3;
+}
+
+
+// Inbox Message
+message ListInboxMessageResponseBean {
+    repeated InboxMessageBean list_inbox_message = 1;
+}
+message InboxMessageBean {
+    required int64 inbox_id = 1;
+    required string from = 2;
+    required string to = 3;
+    required string title = 4;
+    optional string content = 5;
+    optional int32 action_code = 6;
+    optional int32 timestamp = 7;
+    required bool is_read = 8;
+}
+message SendInboxMessageResponseBean {
+    required int32 error_code = 1;
+    optional string description = 2;
+    optional InboxMessageBean inbox_message = 3;
+}
+message OpenInboxMessageResponseBean {
+    required int32 error_code = 1;
+    optional string description = 2;
+    optional int64 inbox_id = 3;
+}
+
+message OpenInboxMessageRequestBean {
+    required int64 inbox_id = 1;
+}
+message SendInboxMessageRequestBean {
+    required int32 toId = 1;
+    required string title = 4;
+    optional string content = 5;
+}
+message RemoveInboxMessageResponseBean {
+    required int32 error_code = 1;
+    optional string description = 2;
+    optional int64 inbox_id = 3;
+}
+
+message RemoveInboxMessageRequestBean {
+    required int64 inbox_id = 1;
+}
+//End inbox
+
+//Messge
+ //Textrun
+message PushTextRunBean {
+    repeated PushTextRunItemBean pushMessage = 1;
+    optional bool forceShow = 2;
+}
+
+message PushTextRunItemBean {
+    required string content = 1;
+    optional string link = 2;
+    optional int32 startTime = 3; // long sec, if null => always run
+    optional int32 endTime = 4; // long sec, if null => always run
+    required int32 loop = 5; // loop times
+    required int32 priority = 6;
+}
+    //end Texture
+
+message PushDialogBean {
+    repeated PushDialogItemBean pushMessage = 1;
+    required bool forceShow = 2;
+}
+
+message PushDialogItemBean {
+    required string content = 1;
+    required string imageUrl = 2;
+    required string data = 3;
+    required int32 level = 4; // 0:looby, 1:ingame+looby
+    required int64 showTime = 5; // long sec
+    required int32 priority = 6;
+}
+
+//end message
+
+
+//Friends
+message FriendInfoBean {
+    required int32 friend_id = 1;
+    optional string nick_name = 2;
+    optional int32 gender = 3;
+    optional string avatar_url = 5;
+    optional int64 gold = 6;
+    optional bool is_facebook_friend = 7;
+}
+
+message ListFriendBean {
+    required int32 error_code = 1;
+    repeated FriendInfoBean list_friends = 2;
+}
+
+message FindFriendRequestBean {
+    required int32 friend_id = 1;
+}
+
+message AddFriendRequestBean {
+    required int32 friend_id = 1;
+}
+
+message AddFriendResponseBean {
+    required int32 error_code = 1;
+    optional int32 friend_id = 2;
+}
+
+//Người khác send request add friend
+message OtherRequestAddFriendBean {
+    required int32 friend_id = 1;
+    optional string nick_name = 2;
+}
+
+message AcceptFriendRequestBean {
+    required int32 friend_id = 1;
+}
+
+message AcceptFriendResponseBean {
+    required int32 error_code = 1;
+    optional int32 friend_id = 2;
+}
+
+//Người khác accept request friend với bạn
+message OtherAcceptFriendBean {
+    required int32 friend_id = 2;
+    optional string nick_name = 3;
+}
+
+message DeclineFriendRequestBean {
+    required int32 friend_id = 1;
+}
+
+message DeclineFriendResponseBean {
+    required int32 error_code = 1;
+    optional int32 friend_id = 2;
+}
+
+message RemoveFriendRequestBean {
+    required int32 friend_id = 1;
+}
+
+message RemoveFriendResponseBean {
+    required int32 error_code = 1;
+    optional int32 friend_id = 2;
+}
+//end friend
+
+
+//Mission
+message ResponseGetListMission {
+    repeated MissionInfo list_mission_infos = 1;
+}
+
+message MissionInfo{
+    required string mission_id      = 1;
+    optional string user_id             = 2;
+    optional string mission_name     = 3;
+    optional int64  day             = 4;
+    optional int32  mission_type_id   = 5;
+    optional int64  goal            = 6;
+    optional int64  progress        = 7;
+    optional bool   is_done          = 8;
+    optional bool   is_recieve_reward = 9;
+    optional int64  money_reward     = 10;
+    optional int32 ticket_wheel_reward = 11;
+    optional string mission_desc = 12;
+    optional int64 condition = 13;
+}
+
+message RequestMissionRecieveReward {
+    required string mision_id = 1;
+}
+
+message ResponseMissionRecieveReward {
+    required string mission_id = 1;
+    optional int64 money_reward = 2;
+    optional int32 ticket_wheel_reward = 3;
+}
+//end mission

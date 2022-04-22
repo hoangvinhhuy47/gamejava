@@ -1,0 +1,8 @@
+09-06-2021 14:39:02 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+09-06-2021 16:59:17 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 23218
+09-06-2021 17:37:19 INFO  [nioEventLoopGroup-7-2] - User offline - 23218
+09-06-2021 17:38:52 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+09-06-2021 17:40:13 INFO  [nioEventLoopGroup-7-3] - Client ping check network - 23218
+09-06-2021 17:48:38 INFO  [nioEventLoopGroup-7-3] - Client ping check network - 23218
+09-06-2021 17:49:00 INFO  [nioEventLoopGroup-7-3] - Client ping check network - 23218
+09-06-2021 17:57:03 INFO  [nioEventLoopGroup-7-3] - User offline - 23218

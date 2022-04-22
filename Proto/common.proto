@@ -1,0 +1,22 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "CommonProtos";
+
+//Chat
+message ChatRequestBean{
+    required string message = 1;
+}
+
+message ChatResponseBean{
+    required int32 user_id  = 1;
+    required string message = 2;
+    optional int32 error_code = 3;
+    optional string nickname = 4;
+}
+
+message CCUResponse {
+    required int32 ccu  = 1;
+    optional int32 ccu_ingame = 2;
+}

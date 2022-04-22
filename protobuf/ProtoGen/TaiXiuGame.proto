@@ -1,0 +1,77 @@
+package com.nope.fishing;
+import "JackpotGame.proto";
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "TaiXiuGameProto";
+
+message TXJoinRequest{
+    optional int32 roomId = 1;
+}
+
+message TXLeaveGameResponse
+{
+    optional int32 errorCode = 1;
+}
+
+message TXRoomInfo{
+    optional int32 roomId = 1;
+    optional int32 totalPlayerBetTai = 2;
+    optional int32 totalPlayerBetXiu = 3;
+    optional int64 totalBetAmountTai = 4;
+    optional int64 totalBetAmountXiu = 5;
+    optional int32 countDown = 6;
+    optional int32 timeStartNewGame = 7;
+    optional int32 errorCode = 8;
+    optional double delayTime = 9;
+}
+
+message TXGameInfo
+{
+    repeated TXRoomInfo room = 1;
+}
+
+message TXBetInfo
+{
+    optional int64 userMoney = 1;
+    optional int64 betAmount = 2;
+    optional int64 totalBetAmount = 3;
+    optional bool isTai = 4;
+    optional bool isXiu = 5;
+    optional int32 errorCode = 6;
+}
+
+message DiceHistory
+{
+    optional int32 dice1 = 1;
+    optional int32 dice2 = 2;
+    optional int32 dice3 = 3;
+    optional int32 session= 4;
+    repeated ListDice listDice = 5;
+}
+
+message ListDice
+{
+    repeated int32 listDiceResults = 1;
+}
+
+// Khoa add
+
+message TXServerNotification { // send Server Notification
+    repeated string TXNotification = 1;
+}
+message TXResult { // send Reslt to Server
+    repeated int32 FinalResult = 1;
+    repeated int32 Dice1 = 2;
+    repeated int32 Dice2 = 3;
+    repeated int32 Dice3 = 4;
+    repeated bool TaiXiu_TrueFalse = 5;
+    repeated int32 FinalResultForGrapth3 = 6;
+    repeated int32 FinalResultForGrapth4 = 7;
+}
+
+message TXResult_one {
+    optional int32 FinalResult = 1;
+    optional int32 Dice1 = 2;
+    optional int32 Dice2 = 3;
+    optional int32 Dice3 = 4;
+}

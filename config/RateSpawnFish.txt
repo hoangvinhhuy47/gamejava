@@ -1,0 +1,2 @@
+TimeBetween2Timer	MinPathInOneTimer	MaxPathInOneTimer	RateAloneGroup	RateShadow	RateBotKillFish	RateFillFishBy2Player	CountFishSpawm3Player	CountSoForBulletFree	MaxMultJackpot	RateFundForJackpot
+2	6	7	0.94	20	0.8	0.075	1	5	1000	5.0

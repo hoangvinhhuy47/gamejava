@@ -1,0 +1,8 @@
+07-02-2020 17:07:07 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+07-02-2020 17:07:19 INFO  [nioEventLoopGroup-7-1] - User offline - 28436
+07-02-2020 17:07:28 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+07-02-2020 17:07:35 INFO  [nioEventLoopGroup-7-2] - User offline - 28436
+07-02-2020 17:17:18 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+07-02-2020 17:17:22 INFO  [nioEventLoopGroup-7-1] - User offline - 28436
+07-02-2020 17:32:57 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"UNKNOWN"}
+07-02-2020 17:33:01 INFO  [nioEventLoopGroup-7-1] - User offline - 28436

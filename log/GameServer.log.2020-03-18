@@ -1,0 +1,110 @@
+18-03-2020 14:13:45 INFO  [main] - Start init server...
+18-03-2020 14:13:46 INFO  [main] - Init Redis done!
+18-03-2020 14:13:47 INFO  [main] - Init Mongo done!
+18-03-2020 14:13:47 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 14:13:47 INFO  [main] - Migrate database done!
+18-03-2020 14:13:47 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 14:13:48 INFO  [main] - Init ChannelService done!
+18-03-2020 14:13:48 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 14:13:48 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 14:13:49 INFO  [Thread-157] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 14:13:49 INFO  [Thread-156] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 14:32:37 INFO  [main] - Start init server...
+18-03-2020 14:32:38 INFO  [main] - Init Redis done!
+18-03-2020 14:32:39 INFO  [main] - Init Mongo done!
+18-03-2020 14:32:39 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 14:32:40 INFO  [main] - Migrate database done!
+18-03-2020 14:32:41 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 14:32:42 INFO  [main] - Init ChannelService done!
+18-03-2020 14:32:43 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 14:32:43 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 14:32:44 INFO  [Thread-137] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 14:32:44 INFO  [Thread-136] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 14:43:04 INFO  [main] - Start init server...
+18-03-2020 14:43:06 INFO  [main] - Init Redis done!
+18-03-2020 14:43:10 INFO  [main] - Init Mongo done!
+18-03-2020 14:43:10 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 14:43:11 INFO  [main] - Migrate database done!
+18-03-2020 14:43:13 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 14:43:13 INFO  [main] - Init ChannelService done!
+18-03-2020 14:43:14 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 14:43:14 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 14:43:17 INFO  [Thread-149] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 14:43:17 INFO  [Thread-148] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 15:04:51 INFO  [main] - Start init server...
+18-03-2020 15:04:51 INFO  [main] - Init Redis done!
+18-03-2020 15:04:53 INFO  [main] - Init Mongo done!
+18-03-2020 15:04:53 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 15:04:53 INFO  [main] - Migrate database done!
+18-03-2020 15:04:54 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 15:04:54 INFO  [main] - Init ChannelService done!
+18-03-2020 15:04:55 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 15:04:55 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 15:04:56 INFO  [Thread-173] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 15:04:56 INFO  [Thread-172] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 16:07:28 INFO  [main] - Start init server...
+18-03-2020 16:07:30 INFO  [main] - Init Redis done!
+18-03-2020 16:07:32 INFO  [main] - Init Mongo done!
+18-03-2020 16:07:32 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 16:07:33 INFO  [main] - Migrate database done!
+18-03-2020 16:07:34 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 16:07:34 INFO  [main] - Init ChannelService done!
+18-03-2020 16:07:36 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 16:07:36 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 16:07:38 INFO  [Thread-173] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 16:07:38 INFO  [Thread-172] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 16:42:56 INFO  [main] - Start init server...
+18-03-2020 16:42:57 INFO  [main] - Init Redis done!
+18-03-2020 16:42:59 INFO  [main] - Init Mongo done!
+18-03-2020 16:42:59 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 16:42:59 INFO  [main] - Migrate database done!
+18-03-2020 16:43:01 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 16:43:01 INFO  [main] - Init ChannelService done!
+18-03-2020 16:43:02 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 16:43:02 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 16:43:03 INFO  [Thread-165] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 16:43:03 INFO  [Thread-164] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 16:53:42 INFO  [main] - Start init server...
+18-03-2020 16:53:42 INFO  [main] - Init Redis done!
+18-03-2020 16:53:43 INFO  [main] - Init Mongo done!
+18-03-2020 16:53:43 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 16:53:43 INFO  [main] - Migrate database done!
+18-03-2020 16:53:43 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 16:53:43 INFO  [main] - Init ChannelService done!
+18-03-2020 16:53:44 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 16:53:44 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 16:53:44 INFO  [Thread-137] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 16:53:44 INFO  [Thread-136] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 17:13:38 INFO  [main] - Start init server...
+18-03-2020 17:13:39 INFO  [main] - Init Redis done!
+18-03-2020 17:13:40 INFO  [main] - Init Mongo done!
+18-03-2020 17:13:40 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 17:13:41 INFO  [main] - Migrate database done!
+18-03-2020 17:13:42 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 17:13:42 INFO  [main] - Init ChannelService done!
+18-03-2020 17:13:43 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 17:13:43 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 17:13:45 INFO  [Thread-169] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 17:13:45 INFO  [Thread-168] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 17:18:50 INFO  [main] - Start init server...
+18-03-2020 17:18:50 INFO  [main] - Init Redis done!
+18-03-2020 17:18:52 INFO  [main] - Init Mongo done!
+18-03-2020 17:18:52 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 17:18:52 INFO  [main] - Migrate database done!
+18-03-2020 17:18:54 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 17:18:54 INFO  [main] - Init ChannelService done!
+18-03-2020 17:18:55 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 17:18:55 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 17:18:56 INFO  [Thread-165] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 17:18:56 INFO  [Thread-164] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+18-03-2020 17:28:19 INFO  [main] - Start init server...
+18-03-2020 17:28:19 INFO  [main] - Init Redis done!
+18-03-2020 17:28:20 INFO  [main] - Init Mongo done!
+18-03-2020 17:28:20 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+18-03-2020 17:28:21 INFO  [main] - Migrate database done!
+18-03-2020 17:28:22 INFO  [main] - Init Fishing gameLobby done!
+18-03-2020 17:28:22 INFO  [main] - Init ChannelService done!
+18-03-2020 17:28:23 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+18-03-2020 17:28:23 INFO  [main] - Init HandlerChannelApi done!
+18-03-2020 17:28:23 INFO  [Thread-157] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+18-03-2020 17:28:23 INFO  [Thread-156] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES

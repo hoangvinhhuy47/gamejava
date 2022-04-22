@@ -1,0 +1,37 @@
+23-11-2019 08:45:36 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 18 - active bullet = 3
+23-11-2019 08:45:36 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+23-11-2019 08:45:36 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 39 - active bullet = 2
+23-11-2019 08:45:36 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+23-11-2019 08:45:37 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 28 - active bullet = 5
+23-11-2019 08:45:37 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 5
+23-11-2019 08:47:33 INFO  [pool-1-thread-3] - next state 3000001 BOSS12 3000001
+23-11-2019 08:48:08 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 39 - active bullet = 0
+23-11-2019 08:48:08 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+23-11-2019 08:48:43 INFO  [pool-1-thread-5] - next state 3000002 BOSS12 3000002
+23-11-2019 08:48:43 INFO  [pool-1-thread-3] - next state 1000003 BOSS3 1000003
+23-11-2019 08:48:53 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 53 - active bullet = 3
+23-11-2019 08:48:53 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+23-11-2019 08:48:54 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 24 - active bullet = 3
+23-11-2019 08:48:54 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 3
+23-11-2019 08:48:58 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 34 - active bullet = 2
+23-11-2019 08:48:58 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 2
+23-11-2019 08:49:19 INFO  [pool-1-thread-4] - next state 3000003 BOSS12 3000003
+23-11-2019 08:49:25 INFO  [pool-1-thread-2] - next state 1000002 BOSS4 1000002
+23-11-2019 08:49:26 INFO  [pool-1-thread-4] - next state 2000002 BOSS5_2 2000002
+23-11-2019 08:49:38 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+23-11-2019 08:49:55 INFO  [pool-1-thread-4] - next state 1000003 NORMAL 1000003
+23-11-2019 08:50:13 ERROR [nioEventLoopGroup-7-3] - HIt fish - bullet null - bullet id = 11 - active bullet = 4
+23-11-2019 08:50:13 ERROR [nioEventLoopGroup-7-3] - FishShooting.pushBulletBackToPool - error. Hash active size = 4
+23-11-2019 08:50:18 INFO  [pool-1-thread-3] - next state 1000001 BOSS3 1000001
+23-11-2019 08:50:22 INFO  [pool-1-thread-3] - next state 2000001 BOSS5_2 2000001
+23-11-2019 08:50:25 INFO  [pool-1-thread-5] - next state 2000003 BOSS4_2 2000003
+23-11-2019 08:50:32 INFO  [pool-1-thread-1] - next state 1000002 NORMAL 1000002
+23-11-2019 08:50:43 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+23-11-2019 08:50:48 INFO  [pool-1-thread-4] - next state 3000002 NORMAL 3000002
+23-11-2019 08:51:24 INFO  [pool-1-thread-4] - next state 3000003 NORMAL 3000003
+23-11-2019 08:51:29 INFO  [pool-1-thread-1] - next state 1000001 NORMAL 1000001
+23-11-2019 08:51:32 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003
+23-11-2019 08:51:40 INFO  [pool-1-thread-4] - next state 2000001 NORMAL 2000001
+23-11-2019 08:54:44 INFO  [pool-1-thread-2] - next state 3000001 BOSS15 3000001
+23-11-2019 08:55:22 INFO  [pool-1-thread-3] - next state 3000001 NORMAL 3000001
+23-11-2019 08:56:13 INFO  [pool-1-thread-5] - next state 1000003 BOSS1 1000003

@@ -1,0 +1,5 @@
+29-03-2020 00:08:30 INFO  [pool-1-thread-2] - Close channel because over time HARD_TIME_OUT - time disactive = 187 - user id = 28436
+29-03-2020 00:19:15 INFO  [pool-1-thread-5] - Close channel because over time HARD_TIME_OUT - time disactive = 191 - user id = 28436
+29-03-2020 11:14:15 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 192 - user id = 28436
+29-03-2020 11:34:00 INFO  [pool-1-thread-5] - Close channel because over time HARD_TIME_OUT - time disactive = 180 - user id = 28436
+29-03-2020 12:28:19 INFO  [pool-1-thread-4] - Close channel because over time HARD_TIME_OUT - time disactive = 189 - user id = 28436

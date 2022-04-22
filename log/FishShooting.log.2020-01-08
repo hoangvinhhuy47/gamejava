@@ -1,0 +1,335 @@
+08-01-2020 10:42:24 INFO  [pool-1-thread-2] - next state 1000001 BOSS3 1000001
+08-01-2020 15:41:35 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 7 - active bullet = 1
+08-01-2020 15:41:35 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 15:41:36 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 9 - active bullet = 1
+08-01-2020 15:41:36 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 15:41:36 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 11 - active bullet = 1
+08-01-2020 15:41:36 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 15:46:15 INFO  [pool-1-thread-3] - next state 1000003 BOSS5 1000003
+08-01-2020 15:46:34 INFO  [pool-1-thread-4] - next state 3000003 BOSS14 3000003
+08-01-2020 15:47:11 INFO  [pool-1-thread-1] - next state 3000001 BOSS17 3000001
+08-01-2020 15:47:12 INFO  [pool-1-thread-4] - next state 1000002 BOSS5 1000002
+08-01-2020 15:47:20 INFO  [pool-1-thread-3] - next state 2000001 BOSS1_2 2000001
+08-01-2020 15:47:32 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+08-01-2020 15:47:33 INFO  [pool-1-thread-2] - next state 3000003 NORMAL 3000003
+08-01-2020 15:52:31 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 44 - active bullet = 11
+08-01-2020 15:52:31 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 11
+08-01-2020 16:09:20 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 118 - active bullet = 148
+08-01-2020 16:09:20 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 148
+08-01-2020 16:09:20 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 85 - active bullet = 149
+08-01-2020 16:09:20 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 149
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 59 - active bullet = 154
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 154
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 62 - active bullet = 156
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 156
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 156 - active bullet = 159
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 159
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 115 - active bullet = 161
+08-01-2020 16:09:21 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 161
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 159 - active bullet = 162
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 162
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 121 - active bullet = 165
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 165
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 161 - active bullet = 166
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 166
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 132 - active bullet = 167
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 167
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 122 - active bullet = 167
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 167
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 125 - active bullet = 171
+08-01-2020 16:09:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 171
+08-01-2020 16:09:41 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 42 - active bullet = 178
+08-01-2020 16:09:41 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 178
+08-01-2020 16:09:41 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 59 - active bullet = 176
+08-01-2020 16:09:41 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 176
+08-01-2020 16:09:41 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 48 - active bullet = 178
+08-01-2020 16:09:41 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 178
+08-01-2020 16:09:44 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 77 - active bullet = 198
+08-01-2020 16:09:44 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 198
+08-01-2020 16:10:04 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 270 - active bullet = 221
+08-01-2020 16:10:04 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 221
+08-01-2020 16:14:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 37 - active bullet = 17
+08-01-2020 16:14:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 17
+08-01-2020 16:14:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 32 - active bullet = 21
+08-01-2020 16:14:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 21
+08-01-2020 16:14:07 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 39 - active bullet = 20
+08-01-2020 16:14:07 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 20
+08-01-2020 16:14:59 INFO  [nioEventLoopGroup-7-1] - Player - test15 - jackpot  with fish type = 120 - with gun = 10000 - recieve jackpot = 758000
+08-01-2020 16:15:22 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 183 - active bullet = 166
+08-01-2020 16:15:22 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 166
+08-01-2020 16:15:23 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 164 - active bullet = 178
+08-01-2020 16:15:23 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 178
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 61 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 43 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 75 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 53 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 72 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 56 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 35 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 313 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 40 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 317 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 321 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 325 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 329 - active bullet = 59
+08-01-2020 16:17:50 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 295 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 299 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 310 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 314 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 303 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 306 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 318 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 322 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 326 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 330 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 333 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 335 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 108 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 181 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 237 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 289 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 217 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 293 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 297 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 301 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 305 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 309 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 221 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 225 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 209 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 213 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 102 - active bullet = 59
+08-01-2020 16:17:51 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 59
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 37 - active bullet = 57
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 57
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 99 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 201 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 205 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 197 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 245 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 241 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 193 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 105 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 185 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 155 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 159 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 162 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 166 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 170 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 174 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 178 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 182 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 189 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 186 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 222 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 229 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 214 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 139 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 190 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 194 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 233 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 198 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 202 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 210 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 252 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 256 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 260 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 206 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 285 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 248 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 270 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 117 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 332 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 122 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 25 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 161 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 165 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 169 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 126 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 304 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 69 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 121 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 290 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 142 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 173 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 85 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 88 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 91 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 129 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 138 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 94 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 97 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 100 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 158 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 32 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 114 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 103 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 106 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 308 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 109 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 143 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 24 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 147 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 26 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 154 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 278 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 118 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 274 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 282 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 316 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 21 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 312 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 125 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 146 - active bullet = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 0
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 22 - active bullet = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 33 - active bullet = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 150 - active bullet = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 16 - active bullet = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 20 - active bullet = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - HIt fish - bullet null - bullet id = 28 - active bullet = 1
+08-01-2020 16:17:57 ERROR [nioEventLoopGroup-7-1] - FishShooting.pushBulletBackToPool - error. Hash active size = 1
+08-01-2020 17:13:13 INFO  [pool-1-thread-5] - next state 1000003 BOSS5 1000003
+08-01-2020 17:17:13 INFO  [nioEventLoopGroup-7-1] - Player - Player_54658018 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 537265
+08-01-2020 17:19:44 INFO  [nioEventLoopGroup-7-1] - Player - test15 - jackpot  with fish type = 23 - with gun = 10000 - recieve jackpot = 501500
+08-01-2020 17:28:45 INFO  [pool-1-thread-2] - next state 2000003 BOSS3_2 2000003
+08-01-2020 17:35:59 INFO  [pool-1-thread-1] - next state 1000003 BOSS1 1000003
+08-01-2020 17:36:19 INFO  [pool-1-thread-5] - next state 3000001 BOSS13 3000001
+08-01-2020 17:36:23 INFO  [pool-1-thread-4] - next state 3000003 BOSS18_1 3000003
+08-01-2020 17:37:01 INFO  [pool-1-thread-1] - next state 3000003 NORMAL 3000003
+08-01-2020 17:37:06 INFO  [pool-1-thread-2] - next state 1000003 NORMAL 1000003
+08-01-2020 17:37:24 INFO  [pool-1-thread-5] - next state 3000001 NORMAL 3000001
+08-01-2020 17:37:35 INFO  [pool-1-thread-4] - next state 1000001 BOSS4 1000001
+08-01-2020 17:38:01 INFO  [pool-1-thread-1] - next state 1000002 BOSS1 1000002
+08-01-2020 17:38:36 INFO  [pool-1-thread-5] - next state 2000002 BOSS3_2 2000002
+08-01-2020 17:38:45 INFO  [pool-1-thread-4] - next state 2000003 BOSS5_2 2000003
+08-01-2020 17:38:48 INFO  [pool-1-thread-3] - next state 1000001 NORMAL 1000001
+08-01-2020 17:38:48 INFO  [pool-1-thread-1] - next state 2000001 BOSS4_2 2000001
+08-01-2020 17:39:03 INFO  [pool-1-thread-2] - next state 3000002 BOSS18_2 3000002
+08-01-2020 17:39:08 INFO  [pool-1-thread-5] - next state 1000002 NORMAL 1000002
+08-01-2020 17:39:41 INFO  [pool-1-thread-5] - next state 3000002 NORMAL 3000002
+08-01-2020 17:39:47 INFO  [pool-1-thread-1] - next state 2000002 NORMAL 2000002
+08-01-2020 17:39:55 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001
+08-01-2020 17:40:02 INFO  [pool-1-thread-5] - next state 2000003 NORMAL 2000003

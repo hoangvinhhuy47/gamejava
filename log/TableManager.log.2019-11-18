@@ -1,0 +1,775 @@
+18-11-2019 10:13:52 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 10:13:52 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 10:13:52 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 11:52:17 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 11:52:17 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 11:52:17 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 11:52:17 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 11:52:17 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 11:52:17 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 11:52:47 INFO  [pool-1-thread-5] - Start new table - 3000004 - Size current = 1
+18-11-2019 11:54:32 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 11:54:32 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 11:56:55 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 11:57:01 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 11:57:06 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 11:57:10 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 11:57:12 INFO  [pool-1-thread-3] - Start new table - 3000004 - Size current = 1
+18-11-2019 11:57:13 INFO  [pool-1-thread-3] - Start new table - 3000005 - Size current = 2
+18-11-2019 11:57:13 INFO  [pool-1-thread-5] - Start new table - 3000006 - Size current = 3
+18-11-2019 11:57:56 INFO  [pool-1-thread-1] - Start new table - 2000004 - Size current = 1
+18-11-2019 11:58:05 INFO  [pool-1-thread-2] - Start new table - 1000004 - Size current = 1
+18-11-2019 11:58:07 INFO  [pool-1-thread-4] - Start new table - 3000007 - Size current = 4
+18-11-2019 14:29:31 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 14:29:46 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 14:35:12 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 14:38:55 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 14:39:25 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 14:39:32 INFO  [main] - Start new table - 3000004 - Size current = 2
+18-11-2019 14:39:47 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 14:40:06 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 14:40:06 INFO  [pool-1-thread-1] - Start new table - 1000004 - Size current = 2
+18-11-2019 14:40:06 INFO  [pool-1-thread-1] - Start new table - 1000005 - Size current = 3
+18-11-2019 14:40:16 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 14:40:17 INFO  [pool-1-thread-1] - Start new table - 2000004 - Size current = 2
+18-11-2019 14:40:29 INFO  [main] - Start new table - 1000004 - Size current = 2
+18-11-2019 14:40:39 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 14:41:14 INFO  [main] - Start new table - 2000004 - Size current = 2
+18-11-2019 14:41:29 INFO  [main] - Start new table - 2000005 - Size current = 3
+18-11-2019 14:41:40 INFO  [pool-1-thread-2] - Start new table - 3000005 - Size current = 3
+18-11-2019 14:41:42 INFO  [pool-1-thread-4] - Start new table - 3000006 - Size current = 4
+18-11-2019 14:41:59 INFO  [pool-1-thread-1] - Start new table - 3000007 - Size current = 5
+18-11-2019 14:41:59 INFO  [pool-1-thread-1] - Start new table - 3000008 - Size current = 6
+18-11-2019 14:41:59 INFO  [pool-1-thread-3] - Start new table - 3000009 - Size current = 6
+18-11-2019 14:41:59 INFO  [pool-1-thread-3] - Start new table - 3000010 - Size current = 8
+18-11-2019 14:41:59 INFO  [pool-1-thread-1] - Start new table - 3000011 - Size current = 9
+18-11-2019 14:41:59 INFO  [pool-1-thread-4] - Start new table - 3000012 - Size current = 10
+18-11-2019 14:42:00 INFO  [pool-1-thread-5] - Start new table - 3000013 - Size current = 10
+18-11-2019 14:42:00 INFO  [pool-1-thread-2] - Start new table - 3000014 - Size current = 10
+18-11-2019 14:42:03 INFO  [pool-1-thread-5] - Start new table - 3000015 - Size current = 10
+18-11-2019 14:42:03 INFO  [pool-1-thread-2] - Start new table - 3000016 - Size current = 10
+18-11-2019 14:42:03 INFO  [pool-1-thread-4] - Start new table - 3000017 - Size current = 12
+18-11-2019 14:42:03 INFO  [pool-1-thread-1] - Start new table - 3000019 - Size current = 12
+18-11-2019 14:42:03 INFO  [pool-1-thread-3] - Start new table - 3000018 - Size current = 12
+18-11-2019 14:42:04 INFO  [pool-1-thread-3] - Start new table - 3000020 - Size current = 14
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000021 - Size current = 15
+18-11-2019 14:42:04 INFO  [pool-1-thread-3] - Start new table - 3000022 - Size current = 15
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000023 - Size current = 17
+18-11-2019 14:42:04 INFO  [pool-1-thread-3] - Start new table - 3000024 - Size current = 17
+18-11-2019 14:42:04 INFO  [pool-1-thread-3] - Start new table - 3000025 - Size current = 19
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000026 - Size current = 20
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000027 - Size current = 21
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000028 - Size current = 22
+18-11-2019 14:42:04 INFO  [pool-1-thread-1] - Start new table - 3000029 - Size current = 23
+18-11-2019 14:42:04 INFO  [pool-1-thread-4] - Start new table - 3000030 - Size current = 23
+18-11-2019 14:42:04 INFO  [pool-1-thread-1] - Start new table - 3000031 - Size current = 24
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000032 - Size current = 24
+18-11-2019 14:42:04 INFO  [pool-1-thread-3] - Start new table - 3000033 - Size current = 26
+18-11-2019 14:42:04 INFO  [pool-1-thread-2] - Start new table - 3000034 - Size current = 26
+18-11-2019 14:42:04 INFO  [pool-1-thread-1] - Start new table - 3000035 - Size current = 27
+18-11-2019 14:42:04 INFO  [pool-1-thread-4] - Start new table - 3000036 - Size current = 28
+18-11-2019 14:42:04 INFO  [pool-1-thread-4] - Start new table - 3000037 - Size current = 29
+18-11-2019 14:42:04 INFO  [pool-1-thread-1] - Start new table - 3000038 - Size current = 30
+18-11-2019 14:42:04 INFO  [pool-1-thread-3] - Start new table - 3000039 - Size current = 30
+18-11-2019 14:42:04 INFO  [pool-1-thread-4] - Start new table - 3000040 - Size current = 32
+18-11-2019 14:42:05 INFO  [pool-1-thread-1] - Start new table - 3000041 - Size current = 33
+18-11-2019 14:42:05 INFO  [pool-1-thread-3] - Start new table - 3000043 - Size current = 33
+18-11-2019 14:42:05 INFO  [pool-1-thread-4] - Start new table - 3000044 - Size current = 34
+18-11-2019 14:42:05 INFO  [pool-1-thread-2] - Start new table - 3000042 - Size current = 33
+18-11-2019 14:42:05 INFO  [pool-1-thread-3] - Start new table - 3000045 - Size current = 34
+18-11-2019 14:42:05 INFO  [pool-1-thread-4] - Start new table - 3000046 - Size current = 34
+18-11-2019 14:42:05 INFO  [pool-1-thread-2] - Start new table - 3000047 - Size current = 36
+18-11-2019 14:42:05 INFO  [pool-1-thread-1] - Start new table - 3000048 - Size current = 36
+18-11-2019 14:42:11 INFO  [pool-1-thread-5] - Start new table - 3000049 - Size current = 37
+18-11-2019 14:42:15 INFO  [pool-1-thread-3] - Start new table - 3000050 - Size current = 37
+18-11-2019 14:42:16 INFO  [pool-1-thread-4] - Start new table - 3000051 - Size current = 38
+18-11-2019 14:42:16 INFO  [pool-1-thread-3] - Start new table - 3000052 - Size current = 38
+18-11-2019 14:42:17 INFO  [pool-1-thread-4] - Start new table - 3000053 - Size current = 39
+18-11-2019 14:42:17 INFO  [pool-1-thread-3] - Start new table - 3000054 - Size current = 40
+18-11-2019 14:42:17 INFO  [pool-1-thread-4] - Start new table - 3000055 - Size current = 40
+18-11-2019 14:42:17 INFO  [pool-1-thread-1] - Start new table - 3000056 - Size current = 41
+18-11-2019 14:42:17 INFO  [pool-1-thread-3] - Start new table - 3000057 - Size current = 41
+18-11-2019 14:42:17 INFO  [pool-1-thread-4] - Start new table - 3000058 - Size current = 42
+18-11-2019 14:42:17 INFO  [pool-1-thread-3] - Start new table - 3000060 - Size current = 42
+18-11-2019 14:42:17 INFO  [pool-1-thread-2] - Start new table - 3000059 - Size current = 42
+18-11-2019 14:42:17 INFO  [pool-1-thread-4] - Start new table - 3000061 - Size current = 43
+18-11-2019 14:42:17 INFO  [pool-1-thread-1] - Start new table - 3000062 - Size current = 43
+18-11-2019 14:42:17 INFO  [pool-1-thread-3] - Start new table - 3000063 - Size current = 44
+18-11-2019 14:42:17 INFO  [pool-1-thread-2] - Start new table - 3000064 - Size current = 45
+18-11-2019 14:42:18 INFO  [pool-1-thread-2] - Start new table - 3000065 - Size current = 45
+18-11-2019 14:42:18 INFO  [pool-1-thread-4] - Start new table - 3000066 - Size current = 46
+18-11-2019 14:42:18 INFO  [pool-1-thread-1] - Start new table - 3000067 - Size current = 46
+18-11-2019 14:42:18 INFO  [pool-1-thread-1] - Start new table - 3000068 - Size current = 47
+18-11-2019 14:42:18 INFO  [pool-1-thread-2] - Start new table - 3000069 - Size current = 47
+18-11-2019 14:42:18 INFO  [pool-1-thread-1] - Start new table - 3000071 - Size current = 48
+18-11-2019 14:42:18 INFO  [pool-1-thread-3] - Start new table - 3000070 - Size current = 48
+18-11-2019 14:42:31 INFO  [pool-1-thread-4] - Start new table - 3000072 - Size current = 50
+18-11-2019 14:42:31 INFO  [pool-1-thread-4] - Start new table - 3000073 - Size current = 51
+18-11-2019 14:42:36 INFO  [pool-1-thread-1] - Start new table - 3000074 - Size current = 52
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000075 - Size current = 53
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000076 - Size current = 53
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000077 - Size current = 54
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000078 - Size current = 55
+18-11-2019 14:42:36 INFO  [pool-1-thread-1] - Start new table - 3000079 - Size current = 55
+18-11-2019 14:42:36 INFO  [pool-1-thread-1] - Start new table - 3000081 - Size current = 56
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000082 - Size current = 56
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000083 - Size current = 58
+18-11-2019 14:42:36 INFO  [pool-1-thread-1] - Start new table - 3000084 - Size current = 58
+18-11-2019 14:42:36 INFO  [pool-1-thread-1] - Start new table - 3000085 - Size current = 59
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000087 - Size current = 60
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000005 - Size current = 3
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000006 - Size current = 4
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000007 - Size current = 5
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000088 - Size current = 61
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000008 - Size current = 6
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000009 - Size current = 7
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000089 - Size current = 62
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 3000090 - Size current = 63
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000010 - Size current = 8
+18-11-2019 14:42:36 INFO  [pool-1-thread-2] - Start new table - 1000011 - Size current = 9
+18-11-2019 14:42:36 INFO  [pool-1-thread-1] - Start new table - 3000086 - Size current = 64
+18-11-2019 14:42:36 INFO  [pool-1-thread-3] - Start new table - 3000080 - Size current = 64
+18-11-2019 14:42:36 INFO  [pool-1-thread-4] - Start new table - 1000012 - Size current = 10
+18-11-2019 14:42:52 INFO  [pool-1-thread-2] - Start new table - 3000091 - Size current = 64
+18-11-2019 14:42:52 INFO  [pool-1-thread-2] - Start new table - 3000092 - Size current = 65
+18-11-2019 14:42:52 INFO  [pool-1-thread-1] - Start new table - 3000093 - Size current = 65
+18-11-2019 14:42:52 INFO  [pool-1-thread-3] - Start new table - 3000094 - Size current = 66
+18-11-2019 14:42:52 INFO  [pool-1-thread-1] - Start new table - 3000095 - Size current = 66
+18-11-2019 14:42:53 INFO  [pool-1-thread-4] - Start new table - 1000013 - Size current = 10
+18-11-2019 14:42:53 INFO  [pool-1-thread-4] - Start new table - 1000014 - Size current = 11
+18-11-2019 14:42:53 INFO  [pool-1-thread-4] - Start new table - 1000015 - Size current = 12
+18-11-2019 14:42:53 INFO  [pool-1-thread-4] - Start new table - 1000016 - Size current = 13
+18-11-2019 14:42:53 INFO  [pool-1-thread-1] - Start new table - 3000097 - Size current = 67
+18-11-2019 14:42:53 INFO  [pool-1-thread-4] - Start new table - 3000098 - Size current = 67
+18-11-2019 14:42:53 INFO  [pool-1-thread-1] - Start new table - 3000099 - Size current = 69
+18-11-2019 14:42:53 INFO  [pool-1-thread-1] - Start new table - 3000100 - Size current = 70
+18-11-2019 14:42:55 INFO  [pool-1-thread-1] - Start new table - 3000101 - Size current = 71
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 3000102 - Size current = 72
+18-11-2019 14:42:55 INFO  [pool-1-thread-1] - Start new table - 3000103 - Size current = 72
+18-11-2019 14:42:55 INFO  [pool-1-thread-1] - Start new table - 3000104 - Size current = 73
+18-11-2019 14:42:55 INFO  [pool-1-thread-1] - Start new table - 1000017 - Size current = 14
+18-11-2019 14:42:55 INFO  [pool-1-thread-1] - Start new table - 1000018 - Size current = 15
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 3000105 - Size current = 74
+18-11-2019 14:42:55 INFO  [pool-1-thread-1] - Start new table - 3000106 - Size current = 75
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 1000019 - Size current = 16
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 3000107 - Size current = 76
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 1000020 - Size current = 17
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 1000021 - Size current = 18
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 1000022 - Size current = 19
+18-11-2019 14:42:55 INFO  [pool-1-thread-2] - Start new table - 1000023 - Size current = 20
+18-11-2019 14:42:55 INFO  [pool-1-thread-3] - Start new table - 3000108 - Size current = 77
+18-11-2019 14:42:55 INFO  [pool-1-thread-4] - Start new table - 1000024 - Size current = 21
+18-11-2019 14:42:55 INFO  [pool-1-thread-2] - Start new table - 1000025 - Size current = 22
+18-11-2019 14:43:03 INFO  [pool-1-thread-4] - Start new table - 1000026 - Size current = 23
+18-11-2019 14:43:03 INFO  [pool-1-thread-2] - Start new table - 1000027 - Size current = 23
+18-11-2019 14:43:03 INFO  [pool-1-thread-2] - Start new table - 1000028 - Size current = 24
+18-11-2019 14:43:03 INFO  [pool-1-thread-1] - Start new table - 3000109 - Size current = 78
+18-11-2019 14:43:03 INFO  [pool-1-thread-2] - Start new table - 1000030 - Size current = 25
+18-11-2019 14:43:03 INFO  [pool-1-thread-4] - Start new table - 1000029 - Size current = 25
+18-11-2019 14:43:03 INFO  [pool-1-thread-2] - Start new table - 1000031 - Size current = 27
+18-11-2019 14:43:03 INFO  [pool-1-thread-4] - Start new table - 1000032 - Size current = 27
+18-11-2019 14:43:03 INFO  [pool-1-thread-3] - Start new table - 3000110 - Size current = 78
+18-11-2019 14:43:03 INFO  [pool-1-thread-5] - Start new table - 3000100 - Size current = 78
+18-11-2019 14:43:08 INFO  [pool-1-thread-2] - Start new table - 3000111 - Size current = 79
+18-11-2019 14:43:10 INFO  [pool-1-thread-1] - Start new table - 1000034 - Size current = 29
+18-11-2019 14:43:10 INFO  [pool-1-thread-2] - Start new table - 1000033 - Size current = 29
+18-11-2019 14:43:10 INFO  [pool-1-thread-1] - Start new table - 3000112 - Size current = 80
+18-11-2019 14:43:10 INFO  [pool-1-thread-1] - Start new table - 3000113 - Size current = 81
+18-11-2019 14:43:10 INFO  [pool-1-thread-1] - Start new table - 1000035 - Size current = 31
+18-11-2019 14:43:10 INFO  [pool-1-thread-4] - Start new table - 3000114 - Size current = 82
+18-11-2019 14:43:10 INFO  [pool-1-thread-3] - Start new table - 3000115 - Size current = 83
+18-11-2019 14:43:10 INFO  [pool-1-thread-1] - Start new table - 1000036 - Size current = 32
+18-11-2019 14:43:10 INFO  [pool-1-thread-4] - Start new table - 3000116 - Size current = 84
+18-11-2019 14:43:10 INFO  [pool-1-thread-1] - Start new table - 1000037 - Size current = 33
+18-11-2019 14:45:51 INFO  [pool-1-thread-2] - Start new table - 3000117 - Size current = 85
+18-11-2019 14:45:51 INFO  [pool-1-thread-2] - Start new table - 3000118 - Size current = 86
+18-11-2019 14:45:51 INFO  [pool-1-thread-2] - Start new table - 1000039 - Size current = 34
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000119 - Size current = 87
+18-11-2019 14:45:51 INFO  [pool-1-thread-2] - Start new table - 1000040 - Size current = 35
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000120 - Size current = 88
+18-11-2019 14:45:51 INFO  [pool-1-thread-2] - Start new table - 3000121 - Size current = 88
+18-11-2019 14:45:51 INFO  [pool-1-thread-2] - Start new table - 1000041 - Size current = 36
+18-11-2019 14:45:51 INFO  [pool-1-thread-1] - Start new table - 3000122 - Size current = 89
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000123 - Size current = 90
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000124 - Size current = 91
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000125 - Size current = 92
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000126 - Size current = 93
+18-11-2019 14:45:51 INFO  [pool-1-thread-5] - Start new table - 3000127 - Size current = 94
+18-11-2019 14:45:52 INFO  [pool-1-thread-1] - Start new table - 1000042 - Size current = 37
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 3000128 - Size current = 95
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 3000130 - Size current = 96
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 1000043 - Size current = 38
+18-11-2019 14:45:52 INFO  [pool-1-thread-1] - Start new table - 3000129 - Size current = 97
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 1000044 - Size current = 39
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 3000131 - Size current = 98
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 1000045 - Size current = 40
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 1000046 - Size current = 41
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 3000132 - Size current = 99
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 3000133 - Size current = 100
+18-11-2019 14:45:52 INFO  [pool-1-thread-1] - Start new table - 3000134 - Size current = 101
+18-11-2019 14:45:52 INFO  [pool-1-thread-3] - Start new table - 1000047 - Size current = 42
+18-11-2019 14:45:52 INFO  [pool-1-thread-1] - Start new table - 3000135 - Size current = 101
+18-11-2019 14:45:52 INFO  [pool-1-thread-1] - Start new table - 3000136 - Size current = 102
+18-11-2019 14:45:52 INFO  [pool-1-thread-1] - Start new table - 3000137 - Size current = 103
+18-11-2019 14:45:52 INFO  [pool-1-thread-5] - Start new table - 3000138 - Size current = 104
+18-11-2019 14:45:52 INFO  [pool-1-thread-5] - Start new table - 3000139 - Size current = 105
+18-11-2019 14:45:55 INFO  [nioEventLoopGroup-7-1] - Start new table - 1000038 - Size current = 43
+18-11-2019 14:45:55 INFO  [pool-1-thread-1] - Start new table - 3000140 - Size current = 106
+18-11-2019 14:45:55 INFO  [pool-1-thread-3] - Start new table - 3000141 - Size current = 107
+18-11-2019 14:46:07 INFO  [pool-1-thread-5] - Start new table - 3000142 - Size current = 108
+18-11-2019 14:46:07 INFO  [pool-1-thread-3] - Start new table - 1000049 - Size current = 43
+18-11-2019 14:46:09 INFO  [pool-1-thread-2] - Start new table - 1000050 - Size current = 45
+18-11-2019 14:46:26 INFO  [pool-1-thread-4] - Start new table - 3000144 - Size current = 109
+18-11-2019 14:46:26 INFO  [pool-1-thread-5] - Start new table - 3000143 - Size current = 109
+18-11-2019 14:47:18 INFO  [pool-1-thread-3] - Start new table - 3000145 - Size current = 110
+18-11-2019 14:47:18 INFO  [pool-1-thread-5] - Start new table - 3000146 - Size current = 111
+18-11-2019 14:47:18 INFO  [pool-1-thread-1] - Start new table - 1000051 - Size current = 46
+18-11-2019 14:47:19 INFO  [pool-1-thread-4] - Start new table - 3000147 - Size current = 111
+18-11-2019 14:47:20 INFO  [pool-1-thread-2] - Start new table - 1000052 - Size current = 47
+18-11-2019 14:47:20 INFO  [pool-1-thread-3] - Start new table - 1000053 - Size current = 48
+18-11-2019 14:47:20 INFO  [pool-1-thread-5] - Start new table - 3000148 - Size current = 111
+18-11-2019 14:47:20 INFO  [pool-1-thread-1] - Start new table - 3000149 - Size current = 111
+18-11-2019 14:47:21 INFO  [pool-1-thread-4] - Start new table - 3000150 - Size current = 112
+18-11-2019 14:47:22 INFO  [pool-1-thread-5] - Start new table - 3000151 - Size current = 113
+18-11-2019 14:47:22 INFO  [pool-1-thread-2] - Start new table - 1000054 - Size current = 48
+18-11-2019 14:47:23 INFO  [pool-1-thread-3] - Start new table - 3000152 - Size current = 113
+18-11-2019 14:47:23 INFO  [pool-1-thread-1] - Start new table - 1000055 - Size current = 49
+18-11-2019 14:47:25 INFO  [pool-1-thread-5] - Start new table - 3000153 - Size current = 113
+18-11-2019 14:47:25 INFO  [pool-1-thread-4] - Start new table - 3000154 - Size current = 114
+18-11-2019 14:47:42 INFO  [pool-1-thread-2] - Start new table - 3000155 - Size current = 115
+18-11-2019 14:47:43 INFO  [pool-1-thread-3] - Start new table - 3000156 - Size current = 115
+18-11-2019 14:47:43 INFO  [pool-1-thread-4] - Start new table - 3000157 - Size current = 115
+18-11-2019 14:47:44 INFO  [pool-1-thread-1] - Start new table - 3000159 - Size current = 117
+18-11-2019 14:47:44 INFO  [pool-1-thread-5] - Start new table - 3000158 - Size current = 116
+18-11-2019 14:47:45 INFO  [pool-1-thread-2] - Start new table - 1000056 - Size current = 49
+18-11-2019 14:47:46 INFO  [pool-1-thread-3] - Start new table - 1000057 - Size current = 50
+18-11-2019 14:47:46 INFO  [pool-1-thread-4] - Start new table - 3000160 - Size current = 118
+18-11-2019 14:47:46 INFO  [pool-1-thread-1] - Start new table - 3000161 - Size current = 119
+18-11-2019 14:47:46 INFO  [pool-1-thread-5] - Start new table - 3000162 - Size current = 119
+18-11-2019 14:47:47 INFO  [pool-1-thread-2] - Start new table - 3000163 - Size current = 120
+18-11-2019 14:47:48 INFO  [pool-1-thread-5] - Start new table - 3000164 - Size current = 120
+18-11-2019 14:47:48 INFO  [pool-1-thread-1] - Start new table - 1000058 - Size current = 51
+18-11-2019 14:47:48 INFO  [pool-1-thread-3] - Start new table - 1000059 - Size current = 52
+18-11-2019 14:47:48 INFO  [pool-1-thread-4] - Start new table - 3000165 - Size current = 121
+18-11-2019 14:47:48 INFO  [pool-1-thread-2] - Start new table - 3000166 - Size current = 121
+18-11-2019 14:47:50 INFO  [pool-1-thread-5] - Start new table - 3000167 - Size current = 123
+18-11-2019 14:48:05 INFO  [pool-1-thread-3] - Start new table - 1000060 - Size current = 53
+18-11-2019 14:48:08 INFO  [pool-1-thread-1] - Start new table - 1000061 - Size current = 54
+18-11-2019 14:48:08 INFO  [pool-1-thread-2] - Start new table - 1000062 - Size current = 54
+18-11-2019 14:48:08 INFO  [pool-1-thread-3] - Start new table - 3000168 - Size current = 124
+18-11-2019 14:48:08 INFO  [pool-1-thread-2] - Start new table - 3000169 - Size current = 125
+18-11-2019 14:48:08 INFO  [pool-1-thread-3] - Start new table - 3000170 - Size current = 125
+18-11-2019 14:48:09 INFO  [pool-1-thread-1] - Start new table - 3000172 - Size current = 127
+18-11-2019 14:48:09 INFO  [pool-1-thread-4] - Start new table - 3000173 - Size current = 127
+18-11-2019 14:48:09 INFO  [pool-1-thread-1] - Start new table - 3000174 - Size current = 128
+18-11-2019 14:48:09 INFO  [pool-1-thread-1] - Start new table - 3000175 - Size current = 129
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 1000063 - Size current = 56
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 3000176 - Size current = 130
+18-11-2019 14:48:09 INFO  [pool-1-thread-1] - Start new table - 1000065 - Size current = 56
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 1000066 - Size current = 58
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 3000178 - Size current = 131
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 3000179 - Size current = 132
+18-11-2019 14:48:09 INFO  [pool-1-thread-4] - Start new table - 3000177 - Size current = 131
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 1000068 - Size current = 59
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 3000180 - Size current = 133
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 3000181 - Size current = 134
+18-11-2019 14:48:09 INFO  [pool-1-thread-3] - Start new table - 1000069 - Size current = 60
+18-11-2019 14:48:09 INFO  [pool-1-thread-1] - Start new table - 1000067 - Size current = 61
+18-11-2019 14:48:09 INFO  [pool-1-thread-2] - Start new table - 1000064 - Size current = 57
+18-11-2019 14:48:09 INFO  [pool-1-thread-4] - Start new table - 3000182 - Size current = 135
+18-11-2019 14:48:11 INFO  [pool-1-thread-3] - Start new table - 3000183 - Size current = 135
+18-11-2019 14:48:11 INFO  [pool-1-thread-4] - Start new table - 3000184 - Size current = 135
+18-11-2019 14:48:11 INFO  [pool-1-thread-3] - Start new table - 1000070 - Size current = 62
+18-11-2019 14:48:11 INFO  [pool-1-thread-5] - Start new table - 3000175 - Size current = 135
+18-11-2019 14:48:11 INFO  [pool-1-thread-2] - Start new table - 1000071 - Size current = 63
+18-11-2019 14:48:11 INFO  [pool-1-thread-4] - Start new table - 3000185 - Size current = 136
+18-11-2019 14:48:11 INFO  [pool-1-thread-1] - Start new table - 1000073 - Size current = 64
+18-11-2019 14:48:11 INFO  [pool-1-thread-4] - Start new table - 3000187 - Size current = 137
+18-11-2019 14:48:13 INFO  [pool-1-thread-2] - Start new table - 1000074 - Size current = 65
+18-11-2019 14:48:11 INFO  [pool-1-thread-3] - Start new table - 3000186 - Size current = 137
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 3000188 - Size current = 138
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000075 - Size current = 66
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 3000189 - Size current = 140
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000076 - Size current = 67
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 3000190 - Size current = 141
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000077 - Size current = 68
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000078 - Size current = 69
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 3000191 - Size current = 142
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000079 - Size current = 70
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000080 - Size current = 71
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000081 - Size current = 72
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 3000192 - Size current = 143
+18-11-2019 14:48:13 INFO  [pool-1-thread-1] - Start new table - 1000082 - Size current = 73
+18-11-2019 14:48:14 INFO  [pool-1-thread-4] - Start new table - 3000193 - Size current = 143
+18-11-2019 14:48:20 INFO  [pool-1-thread-2] - Start new table - 1000083 - Size current = 74
+18-11-2019 14:48:20 INFO  [pool-1-thread-3] - Start new table - 3000194 - Size current = 143
+18-11-2019 14:48:20 INFO  [pool-1-thread-1] - Start new table - 3000195 - Size current = 143
+18-11-2019 14:48:33 INFO  [pool-1-thread-2] - Start new table - 1000084 - Size current = 75
+18-11-2019 14:48:33 INFO  [pool-1-thread-1] - Start new table - 1000085 - Size current = 76
+18-11-2019 14:48:33 INFO  [pool-1-thread-4] - Start new table - 3000196 - Size current = 144
+18-11-2019 14:48:34 INFO  [pool-1-thread-2] - Start new table - 1000086 - Size current = 77
+18-11-2019 14:48:35 INFO  [pool-1-thread-1] - Start new table - 1000087 - Size current = 77
+18-11-2019 14:48:35 INFO  [pool-1-thread-1] - Start new table - 1000088 - Size current = 78
+18-11-2019 14:48:35 INFO  [pool-1-thread-2] - Start new table - 1000089 - Size current = 78
+18-11-2019 14:48:35 INFO  [pool-1-thread-3] - Start new table - 3000197 - Size current = 145
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000091 - Size current = 80
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000092 - Size current = 81
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000093 - Size current = 82
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000198 - Size current = 145
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000199 - Size current = 146
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000094 - Size current = 83
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000095 - Size current = 84
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000096 - Size current = 85
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000200 - Size current = 147
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000097 - Size current = 86
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000098 - Size current = 87
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000099 - Size current = 88
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000201 - Size current = 148
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000202 - Size current = 149
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000100 - Size current = 89
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000203 - Size current = 150
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000101 - Size current = 90
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000102 - Size current = 91
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 3000204 - Size current = 151
+18-11-2019 14:48:50 INFO  [pool-1-thread-3] - Start new table - 1000103 - Size current = 92
+18-11-2019 14:48:50 INFO  [pool-1-thread-4] - Start new table - 3000205 - Size current = 152
+18-11-2019 14:48:56 INFO  [pool-1-thread-1] - Start new table - 1000090 - Size current = 93
+18-11-2019 14:49:18 INFO  [pool-1-thread-5] - Start new table - 3000206 - Size current = 152
+18-11-2019 14:49:19 INFO  [pool-1-thread-3] - Start new table - 3000207 - Size current = 153
+18-11-2019 14:49:18 INFO  [pool-1-thread-2] - Start new table - 1000104 - Size current = 93
+18-11-2019 14:49:19 INFO  [pool-1-thread-4] - Start new table - 3000208 - Size current = 154
+18-11-2019 14:49:19 INFO  [pool-1-thread-1] - Start new table - 1000105 - Size current = 94
+18-11-2019 14:49:25 INFO  [pool-1-thread-5] - Start new table - 3000209 - Size current = 154
+18-11-2019 14:49:25 INFO  [pool-1-thread-4] - Start new table - 3000210 - Size current = 155
+18-11-2019 14:49:25 INFO  [pool-1-thread-2] - Start new table - 1000107 - Size current = 95
+18-11-2019 14:49:40 INFO  [pool-1-thread-3] - Start new table - 1000106 - Size current = 95
+18-11-2019 14:49:40 INFO  [pool-1-thread-1] - Start new table - 1000108 - Size current = 95
+18-11-2019 14:49:41 INFO  [pool-1-thread-5] - Start new table - 3000211 - Size current = 156
+18-11-2019 14:49:41 INFO  [pool-1-thread-4] - Start new table - 3000212 - Size current = 156
+18-11-2019 14:49:41 INFO  [pool-1-thread-2] - Start new table - 1000109 - Size current = 96
+18-11-2019 14:49:41 INFO  [pool-1-thread-1] - Start new table - 3000213 - Size current = 157
+18-11-2019 14:49:41 INFO  [pool-1-thread-5] - Start new table - 3000214 - Size current = 158
+18-11-2019 14:49:41 INFO  [pool-1-thread-3] - Start new table - 1000110 - Size current = 97
+18-11-2019 14:49:42 INFO  [pool-1-thread-4] - Start new table - 3000215 - Size current = 159
+18-11-2019 14:49:42 INFO  [pool-1-thread-2] - Start new table - 1000111 - Size current = 97
+18-11-2019 14:49:42 INFO  [pool-1-thread-5] - Start new table - 3000216 - Size current = 159
+18-11-2019 14:49:42 INFO  [pool-1-thread-1] - Start new table - 3000217 - Size current = 160
+18-11-2019 14:49:42 INFO  [pool-1-thread-3] - Start new table - 1000112 - Size current = 98
+18-11-2019 14:49:42 INFO  [pool-1-thread-5] - Start new table - 3000218 - Size current = 160
+18-11-2019 14:49:42 INFO  [pool-1-thread-1] - Start new table - 1000113 - Size current = 98
+18-11-2019 14:49:42 INFO  [pool-1-thread-4] - Start new table - 3000219 - Size current = 161
+18-11-2019 14:49:42 INFO  [pool-1-thread-2] - Start new table - 1000114 - Size current = 99
+18-11-2019 14:49:42 INFO  [pool-1-thread-5] - Start new table - 3000220 - Size current = 162
+18-11-2019 14:49:42 INFO  [pool-1-thread-3] - Start new table - 1000115 - Size current = 100
+18-11-2019 14:49:43 INFO  [pool-1-thread-1] - Start new table - 1000116 - Size current = 101
+18-11-2019 14:49:43 INFO  [pool-1-thread-5] - Start new table - 3000221 - Size current = 162
+18-11-2019 14:49:43 INFO  [pool-1-thread-4] - Start new table - 3000222 - Size current = 163
+18-11-2019 14:49:43 INFO  [pool-1-thread-2] - Start new table - 1000117 - Size current = 101
+18-11-2019 14:49:43 INFO  [pool-1-thread-3] - Start new table - 1000118 - Size current = 102
+18-11-2019 14:49:43 INFO  [pool-1-thread-1] - Start new table - 3000223 - Size current = 163
+18-11-2019 14:49:44 INFO  [pool-1-thread-5] - Start new table - 3000224 - Size current = 163
+18-11-2019 14:49:44 INFO  [pool-1-thread-4] - Start new table - 3000225 - Size current = 164
+18-11-2019 14:49:44 INFO  [pool-1-thread-5] - Start new table - 3000226 - Size current = 165
+18-11-2019 14:49:44 INFO  [pool-1-thread-2] - Start new table - 1000119 - Size current = 102
+18-11-2019 14:49:44 INFO  [pool-1-thread-1] - Start new table - 3000228 - Size current = 166
+18-11-2019 14:49:44 INFO  [pool-1-thread-3] - Start new table - 3000227 - Size current = 166
+18-11-2019 14:49:44 INFO  [pool-1-thread-5] - Start new table - 3000229 - Size current = 167
+18-11-2019 14:49:44 INFO  [pool-1-thread-4] - Start new table - 3000230 - Size current = 168
+18-11-2019 14:49:44 INFO  [pool-1-thread-1] - Start new table - 1000120 - Size current = 103
+18-11-2019 14:49:44 INFO  [pool-1-thread-2] - Start new table - 1000121 - Size current = 104
+18-11-2019 14:49:45 INFO  [pool-1-thread-3] - Start new table - 1000122 - Size current = 105
+18-11-2019 14:49:45 INFO  [pool-1-thread-5] - Start new table - 3000231 - Size current = 169
+18-11-2019 14:49:45 INFO  [pool-1-thread-4] - Start new table - 3000232 - Size current = 169
+18-11-2019 14:49:45 INFO  [pool-1-thread-3] - Start new table - 1000123 - Size current = 105
+18-11-2019 14:49:46 INFO  [pool-1-thread-2] - Start new table - 1000124 - Size current = 106
+18-11-2019 14:49:46 INFO  [pool-1-thread-1] - Start new table - 3000233 - Size current = 170
+18-11-2019 14:49:46 INFO  [pool-1-thread-5] - Start new table - 3000234 - Size current = 171
+18-11-2019 14:49:46 INFO  [pool-1-thread-4] - Start new table - 3000235 - Size current = 172
+18-11-2019 14:49:46 INFO  [pool-1-thread-3] - Start new table - 3000236 - Size current = 172
+18-11-2019 14:49:46 INFO  [pool-1-thread-2] - Start new table - 1000125 - Size current = 106
+18-11-2019 14:49:46 INFO  [pool-1-thread-1] - Start new table - 1000126 - Size current = 107
+18-11-2019 14:49:46 INFO  [pool-1-thread-5] - Start new table - 3000237 - Size current = 172
+18-11-2019 14:49:46 INFO  [pool-1-thread-3] - Start new table - 3000238 - Size current = 173
+18-11-2019 14:49:46 INFO  [pool-1-thread-4] - Start new table - 3000239 - Size current = 173
+18-11-2019 14:49:46 INFO  [pool-1-thread-5] - Start new table - 3000240 - Size current = 175
+18-11-2019 14:49:46 INFO  [pool-1-thread-1] - Start new table - 1000127 - Size current = 108
+18-11-2019 14:49:47 INFO  [pool-1-thread-2] - Start new table - 3000241 - Size current = 176
+18-11-2019 14:49:47 INFO  [pool-1-thread-5] - Start new table - 3000242 - Size current = 177
+18-11-2019 14:49:47 INFO  [pool-1-thread-3] - Start new table - 1000129 - Size current = 109
+18-11-2019 14:49:47 INFO  [pool-1-thread-4] - Start new table - 1000128 - Size current = 109
+18-11-2019 14:49:47 INFO  [pool-1-thread-1] - Start new table - 3000243 - Size current = 178
+18-11-2019 14:49:48 INFO  [pool-1-thread-5] - Start new table - 3000244 - Size current = 179
+18-11-2019 14:49:48 INFO  [pool-1-thread-2] - Start new table - 3000245 - Size current = 179
+18-11-2019 14:49:48 INFO  [pool-1-thread-4] - Start new table - 1000130 - Size current = 110
+18-11-2019 14:49:48 INFO  [pool-1-thread-3] - Start new table - 1000131 - Size current = 111
+18-11-2019 14:49:48 INFO  [pool-1-thread-1] - Start new table - 3000246 - Size current = 179
+18-11-2019 14:49:49 INFO  [pool-1-thread-5] - Start new table - 3000247 - Size current = 179
+18-11-2019 14:49:51 INFO  [pool-1-thread-4] - Start new table - 1000132 - Size current = 111
+18-11-2019 14:49:51 INFO  [pool-1-thread-2] - Start new table - 3000248 - Size current = 181
+18-11-2019 14:49:51 INFO  [pool-1-thread-3] - Start new table - 1000133 - Size current = 112
+18-11-2019 14:49:52 INFO  [pool-1-thread-5] - Start new table - 3000249 - Size current = 181
+18-11-2019 14:49:52 INFO  [pool-1-thread-1] - Start new table - 3000250 - Size current = 182
+18-11-2019 14:49:53 INFO  [pool-1-thread-4] - Start new table - 1000134 - Size current = 112
+18-11-2019 14:49:56 INFO  [pool-1-thread-3] - Start new table - 3000251 - Size current = 182
+18-11-2019 14:49:56 INFO  [pool-1-thread-2] - Start new table - 1000135 - Size current = 113
+18-11-2019 14:49:56 INFO  [pool-1-thread-5] - Start new table - 3000252 - Size current = 183
+18-11-2019 14:49:56 INFO  [pool-1-thread-1] - Start new table - 3000253 - Size current = 184
+18-11-2019 14:49:57 INFO  [pool-1-thread-4] - Start new table - 1000136 - Size current = 114
+18-11-2019 14:49:57 INFO  [pool-1-thread-5] - Start new table - 3000254 - Size current = 185
+18-11-2019 14:49:57 INFO  [pool-1-thread-3] - Start new table - 1000137 - Size current = 115
+18-11-2019 14:49:57 INFO  [pool-1-thread-2] - Start new table - 1000138 - Size current = 115
+18-11-2019 14:49:57 INFO  [pool-1-thread-1] - Start new table - 1000139 - Size current = 116
+18-11-2019 14:49:58 INFO  [pool-1-thread-5] - Start new table - 3000255 - Size current = 185
+18-11-2019 14:49:58 INFO  [pool-1-thread-4] - Start new table - 1000140 - Size current = 116
+18-11-2019 14:49:58 INFO  [pool-1-thread-3] - Start new table - 3000256 - Size current = 186
+18-11-2019 14:49:58 INFO  [pool-1-thread-2] - Start new table - 1000141 - Size current = 117
+18-11-2019 14:49:58 INFO  [pool-1-thread-5] - Start new table - 3000257 - Size current = 187
+18-11-2019 14:49:58 INFO  [pool-1-thread-1] - Start new table - 1000142 - Size current = 117
+18-11-2019 14:49:58 INFO  [pool-1-thread-4] - Start new table - 3000258 - Size current = 188
+18-11-2019 14:49:58 INFO  [pool-1-thread-3] - Start new table - 3000259 - Size current = 188
+18-11-2019 14:49:58 INFO  [pool-1-thread-1] - Start new table - 1000143 - Size current = 118
+18-11-2019 14:49:58 INFO  [pool-1-thread-5] - Start new table - 3000260 - Size current = 188
+18-11-2019 14:49:58 INFO  [pool-1-thread-2] - Start new table - 1000144 - Size current = 119
+18-11-2019 14:49:59 INFO  [pool-1-thread-5] - Start new table - 3000261 - Size current = 189
+18-11-2019 14:49:59 INFO  [pool-1-thread-4] - Start new table - 3000262 - Size current = 189
+18-11-2019 14:49:59 INFO  [pool-1-thread-3] - Start new table - 3000263 - Size current = 190
+18-11-2019 14:49:59 INFO  [pool-1-thread-1] - Start new table - 1000145 - Size current = 119
+18-11-2019 14:49:59 INFO  [pool-1-thread-5] - Start new table - 3000264 - Size current = 190
+18-11-2019 14:49:59 INFO  [pool-1-thread-3] - Start new table - 3000265 - Size current = 191
+18-11-2019 14:49:59 INFO  [pool-1-thread-4] - Start new table - 1000147 - Size current = 120
+18-11-2019 14:49:59 INFO  [pool-1-thread-2] - Start new table - 1000146 - Size current = 120
+18-11-2019 14:49:59 INFO  [pool-1-thread-5] - Start new table - 3000266 - Size current = 192
+18-11-2019 14:49:59 INFO  [pool-1-thread-1] - Start new table - 1000148 - Size current = 120
+18-11-2019 14:50:00 INFO  [pool-1-thread-2] - Start new table - 3000267 - Size current = 193
+18-11-2019 14:50:00 INFO  [pool-1-thread-3] - Start new table - 1000149 - Size current = 121
+18-11-2019 14:50:00 INFO  [pool-1-thread-4] - Start new table - 3000268 - Size current = 194
+18-11-2019 14:50:00 INFO  [pool-1-thread-5] - Start new table - 3000269 - Size current = 195
+18-11-2019 14:50:00 INFO  [pool-1-thread-1] - Start new table - 1000150 - Size current = 122
+18-11-2019 14:50:00 INFO  [pool-1-thread-4] - Start new table - 3000270 - Size current = 196
+18-11-2019 14:50:00 INFO  [pool-1-thread-1] - Start new table - 1000151 - Size current = 123
+18-11-2019 14:50:00 INFO  [pool-1-thread-5] - Start new table - 3000271 - Size current = 196
+18-11-2019 14:50:00 INFO  [pool-1-thread-3] - Start new table - 2000006 - Size current = 4
+18-11-2019 14:50:00 INFO  [pool-1-thread-2] - Start new table - 1000152 - Size current = 123
+18-11-2019 14:50:01 INFO  [pool-1-thread-4] - Start new table - 1000153 - Size current = 125
+18-11-2019 14:50:01 INFO  [pool-1-thread-4] - Start new table - 2000007 - Size current = 5
+18-11-2019 14:50:01 INFO  [pool-1-thread-5] - Start new table - 3000272 - Size current = 197
+18-11-2019 14:50:01 INFO  [pool-1-thread-1] - Start new table - 1000154 - Size current = 125
+18-11-2019 14:50:01 INFO  [pool-1-thread-2] - Start new table - 3000273 - Size current = 198
+18-11-2019 14:50:01 INFO  [pool-1-thread-3] - Start new table - 3000274 - Size current = 198
+18-11-2019 14:50:02 INFO  [pool-1-thread-4] - Start new table - 2000008 - Size current = 6
+18-11-2019 14:50:02 INFO  [pool-1-thread-5] - Start new table - 3000275 - Size current = 200
+18-11-2019 14:50:06 INFO  [pool-1-thread-2] - Start new table - 1000155 - Size current = 126
+18-11-2019 14:50:06 INFO  [pool-1-thread-1] - Start new table - 3000276 - Size current = 200
+18-11-2019 14:50:06 INFO  [pool-1-thread-3] - Start new table - 3000277 - Size current = 201
+18-11-2019 14:50:07 INFO  [pool-1-thread-4] - Start new table - 1000156 - Size current = 127
+18-11-2019 14:50:07 INFO  [pool-1-thread-3] - Start new table - 2000009 - Size current = 7
+18-11-2019 14:50:07 INFO  [pool-1-thread-4] - Start new table - 1000157 - Size current = 127
+18-11-2019 14:50:07 INFO  [pool-1-thread-4] - Start new table - 1000158 - Size current = 128
+18-11-2019 14:50:07 INFO  [pool-1-thread-2] - Start new table - 3000278 - Size current = 201
+18-11-2019 14:50:07 INFO  [pool-1-thread-3] - Start new table - 1000159 - Size current = 129
+18-11-2019 14:50:08 INFO  [pool-1-thread-4] - Start new table - 2000010 - Size current = 8
+18-11-2019 14:50:19 INFO  [pool-1-thread-3] - Start new table - 2000011 - Size current = 10
+18-11-2019 14:50:19 INFO  [pool-1-thread-4] - Start new table - 3000280 - Size current = 202
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000281 - Size current = 203
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000282 - Size current = 204
+18-11-2019 14:50:20 INFO  [pool-1-thread-2] - Start new table - 3000283 - Size current = 205
+18-11-2019 14:50:20 INFO  [pool-1-thread-2] - Start new table - 2000012 - Size current = 10
+18-11-2019 14:50:20 INFO  [pool-1-thread-2] - Start new table - 3000284 - Size current = 206
+18-11-2019 14:50:20 INFO  [pool-1-thread-1] - Start new table - 1000160 - Size current = 129
+18-11-2019 14:50:20 INFO  [pool-1-thread-3] - Start new table - 1000161 - Size current = 130
+18-11-2019 14:50:20 INFO  [pool-1-thread-2] - Start new table - 3000285 - Size current = 207
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 1000162 - Size current = 131
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000286 - Size current = 208
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 1000164 - Size current = 132
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 2000013 - Size current = 11
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 2000014 - Size current = 12
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 2000015 - Size current = 13
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000287 - Size current = 209
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000288 - Size current = 210
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000289 - Size current = 211
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 1000165 - Size current = 133
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 1000166 - Size current = 134
+18-11-2019 14:50:20 INFO  [pool-1-thread-3] - Start new table - 1000167 - Size current = 135
+18-11-2019 14:50:20 INFO  [pool-1-thread-3] - Start new table - 2000016 - Size current = 14
+18-11-2019 14:50:20 INFO  [pool-1-thread-3] - Start new table - 2000017 - Size current = 15
+18-11-2019 14:50:20 INFO  [pool-1-thread-3] - Start new table - 2000018 - Size current = 16
+18-11-2019 14:50:20 INFO  [pool-1-thread-1] - Start new table - 1000168 - Size current = 136
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 1000169 - Size current = 137
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 1000170 - Size current = 138
+18-11-2019 14:50:20 INFO  [pool-1-thread-4] - Start new table - 3000290 - Size current = 212
+18-11-2019 14:50:20 INFO  [pool-1-thread-2] - Start new table - 1000163 - Size current = 136
+18-11-2019 14:50:20 INFO  [pool-1-thread-3] - Start new table - 1000171 - Size current = 139
+18-11-2019 14:50:24 INFO  [pool-1-thread-4] - Start new table - 1000172 - Size current = 139
+18-11-2019 14:50:24 INFO  [pool-1-thread-2] - Start new table - 1000173 - Size current = 141
+18-11-2019 14:50:24 INFO  [pool-1-thread-2] - Start new table - 2000019 - Size current = 17
+18-11-2019 14:50:24 INFO  [pool-1-thread-3] - Start new table - 2000020 - Size current = 17
+18-11-2019 14:50:20 INFO  [pool-1-thread-1] - Start new table - 3000291 - Size current = 213
+18-11-2019 14:50:25 INFO  [pool-1-thread-3] - Start new table - 1000174 - Size current = 142
+18-11-2019 14:50:25 INFO  [pool-1-thread-1] - Start new table - 3000292 - Size current = 214
+18-11-2019 14:50:25 INFO  [pool-1-thread-2] - Start new table - 3000293 - Size current = 215
+18-11-2019 14:50:25 INFO  [pool-1-thread-4] - Start new table - 1000175 - Size current = 143
+18-11-2019 14:50:25 INFO  [pool-1-thread-3] - Start new table - 1000176 - Size current = 143
+18-11-2019 14:50:25 INFO  [pool-1-thread-4] - Start new table - 2000021 - Size current = 18
+18-11-2019 14:50:25 INFO  [pool-1-thread-2] - Start new table - 3000294 - Size current = 216
+18-11-2019 14:50:25 INFO  [pool-1-thread-4] - Start new table - 3000295 - Size current = 218
+18-11-2019 14:50:25 INFO  [pool-1-thread-5] - Start new table - 3000279 - Size current = 216
+18-11-2019 14:50:25 INFO  [pool-1-thread-2] - Start new table - 2000023 - Size current = 19
+18-11-2019 14:50:25 INFO  [pool-1-thread-4] - Start new table - 2000022 - Size current = 19
+18-11-2019 14:50:25 INFO  [pool-1-thread-3] - Start new table - 1000177 - Size current = 144
+18-11-2019 14:50:26 INFO  [pool-1-thread-3] - Start new table - 3000296 - Size current = 219
+18-11-2019 14:50:25 INFO  [pool-1-thread-1] - Start new table - 1000178 - Size current = 144
+18-11-2019 14:50:35 INFO  [pool-1-thread-4] - Start new table - 1000180 - Size current = 146
+18-11-2019 14:50:35 INFO  [pool-1-thread-2] - Start new table - 2000024 - Size current = 20
+18-11-2019 14:50:35 INFO  [pool-1-thread-4] - Start new table - 1000181 - Size current = 147
+18-11-2019 14:50:36 INFO  [pool-1-thread-3] - Start new table - 1000179 - Size current = 148
+18-11-2019 14:50:36 INFO  [pool-1-thread-2] - Start new table - 1000182 - Size current = 149
+18-11-2019 14:50:36 INFO  [pool-1-thread-3] - Start new table - 2000025 - Size current = 21
+18-11-2019 14:50:36 INFO  [pool-1-thread-2] - Start new table - 2000026 - Size current = 22
+18-11-2019 14:50:36 INFO  [pool-1-thread-3] - Start new table - 2000027 - Size current = 22
+18-11-2019 14:50:36 INFO  [pool-1-thread-2] - Start new table - 3000297 - Size current = 220
+18-11-2019 14:50:36 INFO  [pool-1-thread-3] - Start new table - 3000298 - Size current = 220
+18-11-2019 14:50:38 INFO  [pool-1-thread-3] - Start new table - 1000183 - Size current = 150
+18-11-2019 14:50:38 INFO  [pool-1-thread-3] - Start new table - 2000028 - Size current = 23
+18-11-2019 14:50:38 INFO  [pool-1-thread-3] - Start new table - 3000299 - Size current = 221
+18-11-2019 14:50:38 INFO  [pool-1-thread-3] - Start new table - 3000300 - Size current = 222
+18-11-2019 14:50:38 INFO  [pool-1-thread-3] - Start new table - 1000184 - Size current = 151
+18-11-2019 14:50:38 INFO  [pool-1-thread-1] - Start new table - 1000185 - Size current = 152
+18-11-2019 14:50:38 INFO  [pool-1-thread-4] - Start new table - 1000187 - Size current = 153
+18-11-2019 14:50:38 INFO  [pool-1-thread-2] - Start new table - 3000301 - Size current = 223
+18-11-2019 14:50:38 INFO  [pool-1-thread-3] - Start new table - 1000186 - Size current = 152
+18-11-2019 14:50:44 INFO  [pool-1-thread-4] - Start new table - 2000029 - Size current = 24
+18-11-2019 14:50:44 INFO  [pool-1-thread-3] - Start new table - 2000030 - Size current = 25
+18-11-2019 14:50:47 INFO  [pool-1-thread-1] - Start new table - 1000188 - Size current = 153
+18-11-2019 14:51:58 INFO  [pool-1-thread-5] - Start new table - 3000302 - Size current = 223
+18-11-2019 14:52:01 INFO  [pool-1-thread-2] - Start new table - 3000303 - Size current = 224
+18-11-2019 14:52:06 INFO  [pool-1-thread-5] - Start new table - 3000304 - Size current = 225
+18-11-2019 14:52:09 INFO  [pool-1-thread-4] - Start new table - 3000305 - Size current = 226
+18-11-2019 14:52:12 INFO  [pool-1-thread-5] - Start new table - 3000306 - Size current = 226
+18-11-2019 14:52:16 INFO  [pool-1-thread-4] - Start new table - 2000031 - Size current = 26
+18-11-2019 14:52:19 INFO  [pool-1-thread-3] - Start new table - 3000307 - Size current = 226
+18-11-2019 14:52:19 INFO  [pool-1-thread-2] - Start new table - 2000032 - Size current = 27
+18-11-2019 14:52:19 INFO  [pool-1-thread-4] - Start new table - 3000308 - Size current = 227
+18-11-2019 14:52:19 INFO  [pool-1-thread-4] - Start new table - 2000033 - Size current = 27
+18-11-2019 14:52:20 INFO  [pool-1-thread-2] - Start new table - 3000309 - Size current = 228
+18-11-2019 14:52:22 INFO  [pool-1-thread-3] - Start new table - 3000310 - Size current = 229
+18-11-2019 14:53:11 INFO  [pool-1-thread-2] - Start new table - 2000034 - Size current = 28
+18-11-2019 14:53:12 INFO  [pool-1-thread-1] - Start new table - 2000035 - Size current = 29
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000036 - Size current = 30
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000037 - Size current = 30
+18-11-2019 14:53:12 INFO  [pool-1-thread-4] - Start new table - 3000311 - Size current = 230
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 3000312 - Size current = 230
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000038 - Size current = 31
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000039 - Size current = 32
+18-11-2019 14:53:12 INFO  [pool-1-thread-1] - Start new table - 2000040 - Size current = 33
+18-11-2019 14:53:12 INFO  [pool-1-thread-3] - Start new table - 3000313 - Size current = 231
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 3000314 - Size current = 232
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000041 - Size current = 34
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000042 - Size current = 35
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 2000043 - Size current = 36
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 3000315 - Size current = 234
+18-11-2019 14:53:12 INFO  [pool-1-thread-2] - Start new table - 3000316 - Size current = 235
+18-11-2019 14:53:21 INFO  [pool-1-thread-4] - Start new table - 3000317 - Size current = 236
+18-11-2019 14:53:21 INFO  [pool-1-thread-1] - Start new table - 2000044 - Size current = 37
+18-11-2019 14:53:22 INFO  [pool-1-thread-3] - Start new table - 2000045 - Size current = 38
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000319 - Size current = 237
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000320 - Size current = 238
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000046 - Size current = 39
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000047 - Size current = 40
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000321 - Size current = 239
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000322 - Size current = 240
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000323 - Size current = 241
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000048 - Size current = 41
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000049 - Size current = 42
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000050 - Size current = 43
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000324 - Size current = 242
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000325 - Size current = 243
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000051 - Size current = 44
+18-11-2019 14:53:23 INFO  [pool-1-thread-4] - Start new table - 3000326 - Size current = 244
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 2000052 - Size current = 45
+18-11-2019 14:53:23 INFO  [pool-1-thread-4] - Start new table - 3000327 - Size current = 245
+18-11-2019 14:53:23 INFO  [pool-1-thread-1] - Start new table - 3000328 - Size current = 246
+18-11-2019 14:53:26 INFO  [pool-1-thread-4] - Start new table - 3000329 - Size current = 247
+18-11-2019 14:53:30 INFO  [pool-1-thread-5] - Start new table - 3000318 - Size current = 247
+18-11-2019 14:53:30 INFO  [pool-1-thread-4] - Start new table - 3000330 - Size current = 248
+18-11-2019 14:54:07 INFO  [pool-1-thread-4] - Start new table - 3000331 - Size current = 249
+18-11-2019 14:54:07 INFO  [pool-1-thread-3] - Start new table - 2000053 - Size current = 46
+18-11-2019 14:54:07 INFO  [pool-1-thread-3] - Start new table - 3000332 - Size current = 250
+18-11-2019 14:54:07 INFO  [pool-1-thread-4] - Start new table - 3000333 - Size current = 250
+18-11-2019 14:54:07 INFO  [pool-1-thread-5] - Start new table - 3000334 - Size current = 250
+18-11-2019 14:54:47 INFO  [pool-1-thread-1] - Start new table - 2000054 - Size current = 47
+18-11-2019 14:54:49 INFO  [pool-1-thread-1] - Start new table - 2000055 - Size current = 48
+18-11-2019 14:54:51 INFO  [pool-1-thread-5] - Start new table - 3000335 - Size current = 252
+18-11-2019 14:54:51 INFO  [pool-1-thread-5] - Start new table - 3000337 - Size current = 253
+18-11-2019 14:54:51 INFO  [pool-1-thread-5] - Start new table - 3000338 - Size current = 254
+18-11-2019 14:54:51 INFO  [pool-1-thread-5] - Start new table - 3000339 - Size current = 255
+18-11-2019 14:54:51 INFO  [pool-1-thread-5] - Start new table - 3000340 - Size current = 256
+18-11-2019 14:54:51 INFO  [pool-1-thread-3] - Start new table - 3000341 - Size current = 257
+18-11-2019 14:54:51 INFO  [pool-1-thread-1] - Start new table - 3000342 - Size current = 257
+18-11-2019 14:54:51 INFO  [pool-1-thread-3] - Start new table - 2000056 - Size current = 49
+18-11-2019 14:54:51 INFO  [pool-1-thread-5] - Start new table - 3000343 - Size current = 259
+18-11-2019 14:54:51 INFO  [pool-1-thread-4] - Start new table - 2000057 - Size current = 50
+18-11-2019 14:54:51 INFO  [pool-1-thread-3] - Start new table - 3000344 - Size current = 260
+18-11-2019 14:54:51 INFO  [pool-1-thread-4] - Start new table - 3000345 - Size current = 260
+18-11-2019 14:54:57 INFO  [pool-1-thread-5] - Start new table - 3000346 - Size current = 261
+18-11-2019 14:54:57 INFO  [pool-1-thread-5] - Start new table - 3000347 - Size current = 262
+18-11-2019 14:54:57 INFO  [pool-1-thread-5] - Start new table - 3000348 - Size current = 263
+18-11-2019 14:54:58 INFO  [pool-1-thread-1] - Start new table - 2000058 - Size current = 51
+18-11-2019 14:54:58 INFO  [pool-1-thread-5] - Start new table - 3000349 - Size current = 264
+18-11-2019 14:54:58 INFO  [pool-1-thread-3] - Start new table - 2000059 - Size current = 51
+18-11-2019 14:54:58 INFO  [pool-1-thread-2] - Start new table - 3000336 - Size current = 264
+18-11-2019 14:54:58 INFO  [pool-1-thread-4] - Start new table - 3000350 - Size current = 265
+18-11-2019 14:54:58 INFO  [pool-1-thread-5] - Start new table - 3000351 - Size current = 266
+18-11-2019 14:55:28 INFO  [pool-1-thread-1] - Start new table - 3000352 - Size current = 267
+18-11-2019 14:55:28 INFO  [pool-1-thread-3] - Start new table - 2000060 - Size current = 53
+18-11-2019 14:55:28 INFO  [pool-1-thread-5] - Start new table - 2000061 - Size current = 53
+18-11-2019 14:55:31 INFO  [pool-1-thread-5] - Start new table - 3000355 - Size current = 268
+18-11-2019 14:55:31 INFO  [pool-1-thread-4] - Start new table - 3000353 - Size current = 269
+18-11-2019 14:55:31 INFO  [pool-1-thread-1] - Start new table - 3000356 - Size current = 270
+18-11-2019 14:55:31 INFO  [pool-1-thread-3] - Start new table - 3000357 - Size current = 271
+18-11-2019 14:55:45 INFO  [pool-1-thread-5] - Start new table - 2000062 - Size current = 54
+18-11-2019 14:55:45 INFO  [pool-1-thread-4] - Start new table - 3000358 - Size current = 272
+18-11-2019 14:55:45 INFO  [pool-1-thread-4] - Start new table - 3000359 - Size current = 273
+18-11-2019 14:55:45 INFO  [pool-1-thread-3] - Start new table - 2000063 - Size current = 55
+18-11-2019 14:55:45 INFO  [pool-1-thread-4] - Start new table - 3000360 - Size current = 274
+18-11-2019 14:55:45 INFO  [pool-1-thread-5] - Start new table - 2000064 - Size current = 56
+18-11-2019 14:55:45 INFO  [pool-1-thread-1] - Start new table - 3000361 - Size current = 275
+18-11-2019 14:56:11 INFO  [pool-1-thread-2] - Start new table - 3000354 - Size current = 276
+18-11-2019 14:56:11 INFO  [pool-1-thread-3] - Start new table - 2000065 - Size current = 57
+18-11-2019 14:56:23 INFO  [pool-1-thread-1] - Start new table - 3000362 - Size current = 276
+18-11-2019 14:57:39 INFO  [pool-1-thread-5] - Start new table - 2000066 - Size current = 58
+18-11-2019 14:57:57 INFO  [pool-1-thread-3] - Start new table - 2000067 - Size current = 59
+18-11-2019 14:57:58 INFO  [pool-1-thread-1] - Start new table - 2000068 - Size current = 60
+18-11-2019 14:58:07 INFO  [pool-1-thread-1] - Start new table - 3000363 - Size current = 277
+18-11-2019 14:58:07 INFO  [pool-1-thread-5] - Start new table - 2000069 - Size current = 61
+18-11-2019 14:58:09 INFO  [pool-1-thread-3] - Start new table - 3000364 - Size current = 278
+18-11-2019 14:58:09 INFO  [pool-1-thread-1] - Start new table - 3000365 - Size current = 279
+18-11-2019 14:58:16 INFO  [pool-1-thread-5] - Start new table - 2000070 - Size current = 62
+18-11-2019 14:58:16 INFO  [pool-1-thread-5] - Start new table - 3000366 - Size current = 279
+18-11-2019 14:58:16 INFO  [pool-1-thread-1] - Start new table - 3000367 - Size current = 280
+18-11-2019 14:58:25 INFO  [pool-1-thread-1] - Start new table - 3000368 - Size current = 280
+18-11-2019 14:58:33 INFO  [pool-1-thread-4] - Start new table - 2000071 - Size current = 63
+18-11-2019 14:58:33 INFO  [pool-1-thread-5] - Start new table - 2000072 - Size current = 64
+18-11-2019 14:58:34 INFO  [pool-1-thread-5] - Start new table - 3000369 - Size current = 281
+18-11-2019 14:58:34 INFO  [pool-1-thread-4] - Start new table - 2000073 - Size current = 65
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000371 - Size current = 282
+18-11-2019 14:58:42 INFO  [pool-1-thread-3] - Start new table - 3000372 - Size current = 282
+18-11-2019 14:58:42 INFO  [pool-1-thread-4] - Start new table - 2000074 - Size current = 66
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000373 - Size current = 283
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000374 - Size current = 284
+18-11-2019 14:58:42 INFO  [pool-1-thread-3] - Start new table - 2000075 - Size current = 67
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000375 - Size current = 285
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000377 - Size current = 286
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000378 - Size current = 287
+18-11-2019 14:58:42 INFO  [pool-1-thread-4] - Start new table - 3000376 - Size current = 285
+18-11-2019 14:58:42 INFO  [pool-1-thread-1] - Start new table - 2000076 - Size current = 68
+18-11-2019 14:58:42 INFO  [pool-1-thread-2] - Start new table - 3000379 - Size current = 288
+18-11-2019 14:58:42 INFO  [pool-1-thread-3] - Start new table - 3000380 - Size current = 289
+18-11-2019 14:58:42 INFO  [pool-1-thread-3] - Start new table - 2000077 - Size current = 69
+18-11-2019 14:58:51 INFO  [pool-1-thread-4] - Start new table - 3000381 - Size current = 290
+18-11-2019 14:58:51 INFO  [pool-1-thread-4] - Start new table - 2000078 - Size current = 70
+18-11-2019 14:58:51 INFO  [pool-1-thread-4] - Start new table - 2000079 - Size current = 71
+18-11-2019 14:58:51 INFO  [pool-1-thread-1] - Start new table - 2000080 - Size current = 71
+18-11-2019 14:58:51 INFO  [pool-1-thread-2] - Start new table - 3000382 - Size current = 291
+18-11-2019 14:58:51 INFO  [pool-1-thread-5] - Start new table - 3000370 - Size current = 291
+18-11-2019 14:58:51 INFO  [pool-1-thread-4] - Start new table - 3000383 - Size current = 292
+18-11-2019 14:58:51 INFO  [pool-1-thread-4] - Start new table - 2000081 - Size current = 73
+18-11-2019 14:58:51 INFO  [pool-1-thread-4] - Start new table - 3000384 - Size current = 293
+18-11-2019 15:00:45 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:00:47 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:00:54 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:00:55 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:00:58 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:00:58 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:23:18 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:23:18 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:23:27 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:23:28 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:23:33 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:23:38 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:25:22 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:25:28 INFO  [pool-1-thread-3] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:25:28 INFO  [pool-1-thread-4] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:25:29 INFO  [pool-1-thread-3] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:25:29 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:25:29 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:25:35 INFO  [pool-1-thread-3] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:25:36 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:25:37 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:25:37 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:31:14 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:31:14 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:31:14 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:31:14 INFO  [pool-1-thread-2] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:31:14 INFO  [pool-1-thread-4] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:31:14 INFO  [pool-1-thread-2] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:31:14 INFO  [pool-1-thread-2] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:31:14 INFO  [pool-1-thread-4] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:31:14 INFO  [pool-1-thread-4] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:34:56 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:34:56 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:34:59 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:35:00 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:35:05 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:35:05 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:46:46 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:46:46 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:48:16 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:50:36 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:50:40 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:50:47 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:54:06 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:54:11 INFO  [pool-1-thread-2] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 15:54:11 INFO  [pool-1-thread-2] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:54:11 INFO  [pool-1-thread-2] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:54:11 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 15:54:11 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 15:57:08 INFO  [pool-1-thread-5] - Start new table - 3000004 - Size current = 2
+18-11-2019 15:57:08 INFO  [pool-1-thread-5] - Start new table - 2000004 - Size current = 2
+18-11-2019 16:26:36 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 16:26:41 INFO  [pool-1-thread-2] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 16:27:02 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 16:27:11 INFO  [pool-1-thread-2] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 16:27:12 INFO  [pool-1-thread-2] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 16:27:25 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 16:27:55 INFO  [pool-1-thread-3] - Start new table - 3000004 - Size current = 2
+18-11-2019 16:35:05 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 16:35:08 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 16:35:12 INFO  [pool-1-thread-5] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 16:35:13 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 16:35:13 INFO  [pool-1-thread-5] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 16:35:14 INFO  [pool-1-thread-5] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 16:35:42 INFO  [pool-1-thread-3] - Start new table - 2000004 - Size current = 1
+18-11-2019 16:36:13 INFO  [pool-1-thread-3] - Start new table - 1000004 - Size current = 1
+18-11-2019 16:36:52 INFO  [pool-1-thread-5] - Start new table - 3000004 - Size current = 1
+18-11-2019 16:40:20 INFO  [pool-1-thread-4] - Start new table - 3000005 - Size current = 2
+18-11-2019 16:44:00 INFO  [pool-1-thread-2] - Start new table - 2000005 - Size current = 2
+18-11-2019 17:41:40 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 17:41:40 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 17:41:40 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 22:20:13 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 22:20:13 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 22:20:13 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 22:24:00 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 22:24:00 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 22:24:00 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 22:29:36 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 22:29:36 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 22:29:36 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 22:32:16 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 22:32:16 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 22:32:16 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 22:54:01 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 22:54:01 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 22:54:01 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 22:55:06 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 22:55:06 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 22:55:06 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 23:13:24 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 23:13:24 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 23:13:24 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 23:16:23 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 23:16:23 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 23:16:23 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+18-11-2019 23:41:54 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+18-11-2019 23:41:54 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+18-11-2019 23:41:54 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 

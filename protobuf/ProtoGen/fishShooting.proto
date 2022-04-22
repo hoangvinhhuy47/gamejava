@@ -1,0 +1,244 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "FishShootingProtos";
+
+
+//Room info
+message ListRoomInfoRequestBean{
+
+}
+
+message RoomInfoResponseBean{
+    required int32 room_id = 1;
+    optional int64 min_gold = 2;
+    optional int64 base_gun = 3;
+}
+
+message ListRoomInfoResponseBean{
+    required int32 error_code = 1;
+    repeated RoomInfoResponseBean list_room = 2;
+}
+//#room info
+
+message FishInfoResponseBean{
+    required int32 fish_id = 1;
+    required int32 type_id = 2;
+    required int32 group_id = 3;
+    required int32 index_in_group = 4;
+    required int32 path_id = 5;
+    required int32 timer = 6;
+    optional int32 type_shadow = 7;//0: khong co gi. 1: locxoay1, 2: locxoay2, MessageLite 3: locxoay3
+    optional int32 price = 8;//dung cho con nai
+}
+message HashTimingSpawnFishResponseBean{
+    required int32 time_spawn = 1;
+    repeated FishInfoResponseBean hash_fish_spawn = 3;
+}
+message TimingSpawnFishResponseBean{
+    optional int32 error_code = 6;
+    optional int32 currentState = 1;
+    optional float currentStateTime = 2;
+    optional int32 stateDuringTime = 3;
+    optional int64 timestampStartState = 5;
+    repeated HashTimingSpawnFishResponseBean hasTimingPawnFish = 4;
+    optional int32 bg_id = 7;
+}
+message TimingSpawnFishRequestBean{
+    required int32 table_id = 1;
+}
+
+message BulletRequestBean{
+    required float pos_x = 1;
+    required float pos_y = 2;
+    required float angle = 3;
+    required int32 bullet_temp_id = 4;
+    optional int32 player_id = 5;
+
+}
+message BulletResponseBean{
+    optional int32 bullet_id = 1;
+    optional int32 bullet_temp_id = 2;
+    optional int32 gun_id = 3;
+    optional float pos_x = 4;
+    optional float pos_y = 5;
+    optional float angle = 6;
+    optional int32 error_code = 7;
+    optional int32 player_id = 8;
+    optional bool isSuper = 9;
+}
+
+message ChangeGunRequestBean{
+    required int32 gun_id = 1;
+    optional int32 player_id = 2;
+}
+
+message ChangeGunResponseBean{
+    optional int32 gun_id = 1;
+    optional int32 error_code = 2;
+    optional int32 player_id = 3;
+}
+
+message OtherPlayerChangeSuperGun{
+    required int32 player_id = 1;
+    required bool isSuper = 2;
+}
+
+message OtherPlayerGetFreeBullet{
+    required int32 player_id = 1;
+    required int32 countBulletFree = 2;
+}
+
+message InstantJoinTableRequestBean{
+
+}
+
+message JoinTableRequestBean{
+    required int32 room_id = 1;
+}
+message JoinTableResponseBean{
+    optional int32 error_code = 1;
+    optional int32 table_id = 2;
+    repeated PlayerInfoBean player_info = 4;
+    optional int32 current_time_stamp = 5;
+}
+
+//Player change tx in table
+message ChangeSlotRequestBean{
+    required int32 slot_id = 1;
+}
+
+message ChangeSlotResponseBean{
+    required int32 error_code = 1;
+}
+
+message OtherChangeSlotResponseBean{
+    required int32 player_id = 1;
+    required int32 slot_id = 2;
+}
+//#
+
+message ChangeStateResponseBean{
+    optional int32 error_code = 1;
+    optional int32 state_id = 2;
+    optional int32 bg_id = 3;
+}
+
+message HitFishRequestBean{
+    required int32 timer = 1;
+    required int32 fish_id = 2;
+    required int32 bullet_id = 4;
+    optional int32 player_id = 5;
+}
+
+message MissBulletRequestBean{
+    required int32 bullet_id = 1;
+    required int32 table_id = 2;
+}
+
+message FishHasBeenKillResponseBean{
+    optional int32 error_code = 1;
+    required int32 timer = 2;
+    required int32 fish_id = 3;
+    optional int32 receive_money = 4;
+    optional int32 player_id = 5;
+    repeated FishHasBeenHoleResponseBean list_fish_hole = 6;//nhung con ca bi keo theo
+    optional bool isDouble = 7;//nhan 2 so super gun
+    optional int32 typeShadow = 8;//con ca nay dang dung typeShadow nao
+    optional int32 typeEffectLigting = 9;//0: khong co effect  1: effct mau xanh 2: effect mau hong
+    optional int32 typeEffectPLT = 10;//0: khong co effect, 1: phuc, 2: tho, 3: loc, 4: ca 3 ong
+    optional bool isJackpot = 11;//phai an jackpot hay khong
+}
+
+//su dung cho con nai. Khi ma no dung lai de hut ca vao va to len
+message BossGrowUpResponseBean {
+    required int32 fish_id = 1;
+    required int32 new_price = 2;//dung cho con nai
+}
+
+//su dung cho ca may may de lay tien hien tai cua no
+message MoneyCurrentResponseBean {
+    required int32 fish_id = 1;
+    required int32 price = 2;
+}
+
+//nhung con ca bi keo theo
+message FishHasBeenHoleResponseBean{
+    required int32 timer = 1;
+    required int32 fish_id = 2;
+    optional int32 receive_money = 3;
+}
+
+
+//Khi có người join vào thì server gửi về cho tất cả player hiện tại
+message OtherJoinResponseBean{
+    required PlayerInfoBean player_info = 1;
+}
+//Yêu cầu của player đòi thoát khỏi table
+message LeaveTableRequestBean{
+    optional int32 player_id = 1;
+}
+//Trả về xem player đó thoát thành công hay chưa ?
+message LeaveTableResponseBean{
+    required int32 error_code = 1;
+}
+//Trả về cho tất cả các thằng còn lại khi có thằng thoát
+message OtherLeaveTableResponseBean{
+    required int32 player_id = 1;
+}
+//Thông tin player
+message PlayerInfoBean{
+    required int32 player_id = 1;
+    required string display_name = 2;
+    required string avatar = 3;
+    required int64 money = 4;
+    required int32 gun_id = 5;
+    required int32 slot_id = 6;
+    optional bool is_host = 7;
+    optional bool is_bot = 8;
+    optional int32 count_so = 9;
+    optional int32 countBulletFree = 10;
+    optional int64 moneyBulletFree = 11;//tong so tien nhan thuong duoc khi dang ban dan free. de show ui thoi
+    optional int64 timeBulletFree = 12;//con bao nhieu giay nua de het cai timeBulletFree
+}
+
+message JackPot {
+    required int64 jack_pot = 1;
+}
+
+message DataAgency
+{
+    repeated AgencyInfoFromMongo listAgency = 1;
+    optional string regionalName = 2;
+}
+
+message AgencyInfoFromMongo
+{
+    optional string agencyName = 1;
+    optional string phoneNumber = 2;
+    optional string address = 3;
+    optional string zalo = 4;
+}
+
+message DataRank
+{
+    repeated RankInfoFromMongo listRank = 1;
+    optional string type = 2;
+}
+
+message RankInfoFromMongo
+{
+    optional string rank = 1;
+    optional string name = 2;
+    optional string value = 3;
+}
+
+message Request_DailyReward {
+    optional int64 money = 1;
+    optional bool daily_reward = 2;
+}
+
+
+
+

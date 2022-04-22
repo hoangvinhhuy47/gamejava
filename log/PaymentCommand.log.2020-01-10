@@ -1,0 +1,13 @@
+10-01-2020 09:04:55 INFO  [main] - Payment command init
+10-01-2020 09:24:15 INFO  [nioEventLoopGroup-7-1] - Request transfer
+10-01-2020 11:44:35 INFO  [main] - Payment command init
+10-01-2020 11:53:18 INFO  [nioEventLoopGroup-7-1] - Request transfer
+10-01-2020 11:55:23 INFO  [main] - Payment command init
+10-01-2020 11:56:02 INFO  [nioEventLoopGroup-7-1] - Request transfer
+10-01-2020 11:57:03 INFO  [main] - Payment command init
+10-01-2020 11:57:36 INFO  [nioEventLoopGroup-7-1] - Request transfer
+10-01-2020 11:58:25 INFO  [main] - Payment command init
+10-01-2020 11:58:53 INFO  [nioEventLoopGroup-7-1] - Request transfer
+10-01-2020 14:24:17 INFO  [main] - Payment command init
+10-01-2020 14:24:58 INFO  [nioEventLoopGroup-7-1] - Request transfer
+10-01-2020 14:32:59 INFO  [main] - Payment command init

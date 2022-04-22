@@ -1,0 +1,42 @@
+11-01-2020 13:36:43 INFO  [main] - Payment command init
+11-01-2020 13:41:06 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 13:41:09 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 13:45:07 INFO  [main] - Payment command init
+11-01-2020 13:45:36 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 13:49:45 INFO  [main] - Payment command init
+11-01-2020 13:50:03 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 13:55:21 INFO  [main] - Payment command init
+11-01-2020 13:55:40 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 13:57:30 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 14:08:20 INFO  [main] - Payment command init
+11-01-2020 14:08:42 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 14:53:25 INFO  [main] - Payment command init
+11-01-2020 14:54:27 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 14:54:32 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:09:40 INFO  [main] - Payment command init
+11-01-2020 15:10:27 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:13:31 INFO  [main] - Payment command init
+11-01-2020 15:13:49 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:29:16 INFO  [main] - Payment command init
+11-01-2020 15:29:34 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:30:22 INFO  [main] - Payment command init
+11-01-2020 15:30:47 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:33:25 INFO  [main] - Payment command init
+11-01-2020 15:34:59 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:36:32 INFO  [main] - Payment command init
+11-01-2020 15:36:48 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:37:54 INFO  [main] - Payment command init
+11-01-2020 15:38:27 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:40:19 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:44:00 INFO  [main] - Payment command init
+11-01-2020 15:44:20 INFO  [main] - Payment command init
+11-01-2020 15:44:45 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:47:15 INFO  [main] - Payment command init
+11-01-2020 15:47:35 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:48:23 INFO  [main] - Payment command init
+11-01-2020 15:48:39 INFO  [nioEventLoopGroup-7-1] - Request transfer
+11-01-2020 15:51:20 INFO  [main] - Payment command init
+11-01-2020 15:51:52 INFO  [main] - Payment command init
+11-01-2020 15:54:14 INFO  [nioEventLoopGroup-7-2] - Request transfer
+11-01-2020 15:55:25 INFO  [main] - Payment command init
+11-01-2020 15:55:51 INFO  [nioEventLoopGroup-7-1] - Request transfer

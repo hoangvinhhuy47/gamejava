@@ -1,0 +1,172 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "MTXProto";
+
+
+enum MTXBetType {
+	NO_BET = 0;
+	TAI = 1;
+	XIU = 2;
+}
+
+//message MTXRequestInfo {
+//	 int32 currencyMoney = 1;
+//}
+
+//message MTXRequestCloseGame {		//dong lai thi khong nhan notify nhe
+//
+//}
+enum State {
+	NONE = 0;
+	BETTING = 1;
+	WAITING_SHOW_RESULT = 2;
+	SHOW_RESULT = 3;
+	WAITING_NEW_MATCH = 4;		// 5s cuoi khong cho dat cuoc nua
+}
+// Thong tin tong quat ve game Tai Xiu hien tai
+message MTXResponseInfo {
+	 optional int64 session_id = 1;
+	 optional State state = 2;
+	 optional int32 time_remains = 3; 							// Thoi gian count down
+//	 optional int32 currencyMoney = 4;
+	 optional int64 myBetTaiAmount = 5; 			// Muc cuoc hien tai cua toi
+	 optional int64 myBetXiu_amount = 6;
+	 optional int32 total_playerTai = 7;
+	 optional int64 total_betMoneyTai = 8;
+	 optional int32 total_playerXiu = 9;
+	 optional int64 total_betMoneyXiu = 10;
+	 optional MTXListHistoryDataSimple history_list = 11;
+}
+
+message MTXListHistoryDataSimple {
+	repeated MTXHistoryDataSimple listHistorySimple = 1;
+}
+
+message MTXHistoryDataSimple {
+	 optional int64 sessionID = 1;
+	 optional MTXBetType result = 2;
+	 optional int32 dice1 = 3;
+	 optional int32 dice2 = 4;
+	 optional int32 dice3 = 5;
+}
+
+message MTXHistoryData {
+	 optional int32 sessionID = 1;
+	 optional MTXBetType result = 2;
+	 optional int32 dice1 = 3;
+	 optional int32 dice2 = 4;
+	 optional int32 dice3 = 5;
+}
+
+//Dat cuoc
+message MTXRequestBet {
+	 //int32 amount = 1; //Tong tien dat cuoc
+	 optional int64 money_bet = 2;
+	 optional MTXBetType bet_type = 3;
+}
+
+message MTXResponseBet {
+	 optional int32 error_code = 1; //0: success, 1: khong du tien
+	 optional int64 money_bet = 2;
+	 optional MTXBetType bet_type = 3;
+}
+
+//Ket qua do Xi Ngau, server tu push ve
+//Khi user dong minigame client se goi request bao cho server biet de loai ra khoi danh sach notify
+message MTXResponseDiceResult {
+	 optional MTXBetType result = 1;
+	 optional int32 dice1 = 2;
+	 optional int32 dice2 = 3;
+	 optional int32 dice3 = 4;
+	 optional int64 session_id = 5;
+	 optional State state = 6;
+	 optional int32 time_remains = 7;
+}
+
+//Het thoi gian cooldown, start game moi
+//Goi lai package lay Info dau game
+
+
+// Update realtime thong tin dat cuoc
+message MTXResponseChangeState {
+	 optional int64 session_id = 1;
+	 optional State state = 2 ;
+	 optional int32 time_remains = 3;
+}
+
+
+
+message MTXResponseHistoryDetail {
+	repeated MTXHistoryDetailData list = 1;
+}
+
+message MTXHistoryDetailData {
+	 optional int64 time = 1;
+	 optional string name = 2;
+	 optional int32 return_amount = 3;
+	 optional int32 bet_amount = 4;
+	 optional MTXBetType betType = 5 ;
+}
+
+// Lay bang Top
+message MTXResponseGetTop {
+	repeated TopDataDetail list_old = 1; //Danh sach 10 nguoi dung dau
+}
+
+message TopDataDetail {
+	 optional string name = 1;
+	 optional int32 total_win_money = 2;
+}
+//
+//message MTXRequestMyHistory {
+//	 int32 currencyMoney = 1;
+//}
+
+// Lay thong tin History chi tiet
+message MTXRequestHistoryDetail {
+	 optional int64 session_id = 1;
+}
+
+// Lay lich su dat cuoc cua toi
+message MTXResponseMyHistory {
+	repeated MTXResponseUserHistoryData list_user_bet = 1;
+}
+
+message MTXResponseUserHistoryData {
+	 optional int64 session_id = 1;
+	 optional int64 time = 2;
+	 optional MTXBetType bet_type = 3;
+	 optional string result = 4;
+	 optional int64 bet_amount = 5;
+	 optional int64 return_amount = 6;
+	 optional int64 recieve_amount = 7;
+}
+
+message MTXResponseHistoryData {
+	 optional int64 session_id = 1;
+	 optional int64 time = 2;
+	 optional MTXResponseDiceResult result = 3;
+	repeated MTXResponseBetHistoryData bet_tais = 4;
+	repeated MTXResponseBetHistoryData bet_xius = 5;
+}
+
+message MTXResponseBetHistoryData {
+	 optional string user_name = 1;
+	 optional int64 bet_amount = 2;
+	 optional int64 return_amount = 3;
+	 optional int64 recieve_amount = 4;
+	 optional string date = 5;
+}
+
+//100 ván
+message MTXHistoryFullInfo {
+	repeated MTXHistoryInfo list_history = 1;
+}
+
+//điểm của một ván
+message MTXHistoryInfo {
+	optional int64 session_id = 1;
+	optional int32 total_dice = 2;//tổng số
+}

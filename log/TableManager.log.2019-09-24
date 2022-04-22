@@ -1,0 +1,67 @@
+24-09-2019 11:00:15 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 11:00:15 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 11:00:15 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 11:02:20 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 11:02:20 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 11:02:20 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 14:34:09 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 14:34:09 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 14:34:09 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 14:54:33 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 14:54:33 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 14:54:33 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 14:54:48 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 14:54:48 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 14:54:48 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 14:54:48 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 14:54:48 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 14:54:48 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 14:55:38 INFO  [pool-1-thread-3] - Start new table - 1000004 - Size current = 1
+24-09-2019 14:57:08 INFO  [pool-1-thread-2] - Start new table - 2000004 - Size current = 1
+24-09-2019 14:58:48 INFO  [pool-1-thread-4] - Start new table - 3000004 - Size current = 1
+24-09-2019 15:04:36 INFO  [pool-1-thread-4] - Start new table - 1000005 - Size current = 2
+24-09-2019 15:19:33 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:19:33 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:19:33 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:32:12 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:32:12 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:32:12 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:32:12 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:32:12 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:32:12 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:33:46 INFO  [pool-1-thread-4] - Start new table - 1000004 - Size current = 1
+24-09-2019 15:34:48 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:34:48 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:34:48 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:41:05 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:41:05 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:41:05 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:45:54 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:45:54 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:45:54 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:55:44 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:55:44 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:55:44 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 15:59:03 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 15:59:03 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 15:59:03 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 16:08:27 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 16:08:27 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 16:08:27 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 16:08:27 INFO  [pool-1-thread-1] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 16:08:27 INFO  [pool-1-thread-1] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 16:08:27 INFO  [pool-1-thread-1] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 16:10:02 INFO  [pool-1-thread-3] - Start new table - 2000004 - Size current = 1
+24-09-2019 16:10:29 INFO  [pool-1-thread-1] - Start new table - 3000004 - Size current = 1
+24-09-2019 16:11:01 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 16:11:01 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 16:11:01 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 16:18:24 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 16:18:24 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 16:18:24 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 16:21:17 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 16:21:17 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 16:21:17 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 
+24-09-2019 16:46:47 INFO  [main] - ---------Init table of Room[SUPER_VIP] DONE!--------- 
+24-09-2019 16:46:47 INFO  [main] - ---------Init table of Room[NORMAL] DONE!--------- 
+24-09-2019 16:46:47 INFO  [main] - ---------Init table of Room[VIP] DONE!--------- 

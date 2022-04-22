@@ -1,0 +1,68 @@
+{
+	"server":
+	{
+		"host": "0.0.0.0",
+		"port": "25022",
+		"type": "TCP"
+	},
+	"websocket":
+	{
+		"host": "0.0.0.0",
+		"port": "8081",
+		"secure": "false"
+	},
+	"api":
+	{
+		"address": "0.0.0.0",
+		"port": "54012",
+		"prefix": "/api"
+	},
+	"mongo": {
+		"host": "127.0.0.1",
+		"port": "27017",
+		"user": "",
+		"pass": "",
+		"db": "fish",
+		"db_tools": "fishTool"
+	},
+	"redis" : {
+		"host" : "127.0.0.1",
+		"port" : "6379"
+	},
+	"kafka" : {
+		"host" : "127.0.0.1",
+		"port" : "9092",
+		"group" : "tool"
+	}
+	,
+	"system": {
+		"enableSSGroupAPI" : "false",
+		"isInMaintain" : "false",
+		"debugMode" : "true",
+		"isEnableIAP" : "true",
+		"moneyRewardPromote" : "0",
+		"ticketWheelRewardPromote" : "1",
+		"moneyRewardVideoAds" : "3000",
+		"maxCountVideoOnceDay" : "3",
+		"maxFriendPromote" : "100",
+		"maxCardOnceIP" : "9",
+		"maxCardPerDayOnceIP" : "3",
+		"linkFanpage": " https://blockchaingame.mobi",
+		"moneyRewardRegister" : "1000000",
+		"moneyLimitCashoutPerDay" : "1000000"
+	},
+	"the247": {
+		"userName": "0909795609",
+		"password": "Gase17214!@%$"
+	},
+	"game_slot": {
+		"win_jackpot" : 10,
+		"win_rate": 40,
+		"lose_all_rate": 50
+	},
+	"fund" :{
+		"jackpot" : 5,
+		"fund" : 25,
+		"dealer" : 70
+	}
+}

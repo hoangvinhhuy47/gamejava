@@ -1,0 +1,12 @@
+21-08-2020 11:23:24 INFO  [main] - Start init server...
+21-08-2020 11:23:25 INFO  [main] - Init Redis done!
+21-08-2020 11:23:25 INFO  [main] - Init Mongo done!
+21-08-2020 11:23:25 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+21-08-2020 11:23:26 INFO  [main] - Migrate database done!
+21-08-2020 11:23:27 INFO  [main] - Init Fishing gameLobby done!
+21-08-2020 11:23:28 INFO  [main] - Init ChannelService done!
+21-08-2020 11:23:29 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+21-08-2020 11:23:29 INFO  [main] - Init HandlerChannelApi done!
+21-08-2020 11:23:29 ERROR [Thread-156] - java.net.BindException: Address already in use: bind
+21-08-2020 11:23:29 INFO  [Thread-156] - CLOSE SERVER GAME API
+21-08-2020 11:23:29 INFO  [Thread-155] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES

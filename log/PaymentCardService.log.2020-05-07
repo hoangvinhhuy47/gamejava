@@ -1,0 +1,187 @@
+07-05-2020 10:09:56 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 23218-1588820996
+07-05-2020 10:09:56 ERROR [nioEventLoopGroup-7-1] - Request to the247 error
+java.lang.NullPointerException
+	at libs.util.HttpUtil.buildClient(HttpUtil.java:165)
+	at libs.util.HttpUtil.callPOSTWithEntity(HttpUtil.java:115)
+	at libs.util.HttpUtil.callPOSTWithParametersWithAuthen(HttpUtil.java:77)
+	at games.payment.PaymentCardService.requestCard(PaymentCardService.java:81)
+	at games.payment.PaymentService.cardPayment(PaymentService.java:107)
+	at games.payment.PaymentCommand.process(PaymentCommand.java:77)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-05-2020 10:10:16 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 23218-1588821016
+07-05-2020 10:10:16 ERROR [nioEventLoopGroup-7-1] - Request to the247 error
+java.lang.NullPointerException
+	at libs.util.HttpUtil.buildClient(HttpUtil.java:165)
+	at libs.util.HttpUtil.callPOSTWithEntity(HttpUtil.java:115)
+	at libs.util.HttpUtil.callPOSTWithParametersWithAuthen(HttpUtil.java:77)
+	at games.payment.PaymentCardService.requestCard(PaymentCardService.java:81)
+	at games.payment.PaymentService.cardPayment(PaymentService.java:107)
+	at games.payment.PaymentCommand.process(PaymentCommand.java:77)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-05-2020 10:14:08 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 32037-1588821245
+07-05-2020 10:50:35 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 47824-1588823435
+07-05-2020 10:52:09 INFO  [nioEventLoopGroup-7-1] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"Giao dá»‹ch bá»‹ tá»« chá»‘i. Tháº» nÃ y Ä‘Ã£ tá»“n táº¡i trÃªn há»‡ thá»‘ng xem láº¡i cÃ¡c trÆ°á»�ng Ä‘Ã£ nháº­p!","Result":{"Id":0,"Serial":"087832000003142","Code":"013680433965","CreatedAt":"2020-05-07T10:51:28.259463+07:00","Status":0,"Type":"MB50000","CreatedBy":"0909795609","Price":50000.0,"TransId":"47824-1588823435"}}
+07-05-2020 10:52:48 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD: Code = 404 Status: 0
+07-05-2020 11:22:48 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 56043-1588825367
+07-05-2020 11:24:07 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"Giao dá»‹ch bá»‹ tá»« chá»‘i. Tháº» nÃ y Ä‘Ã£ tá»“n táº¡i trÃªn há»‡ thá»‘ng xem láº¡i cÃ¡c trÆ°á»�ng Ä‘Ã£ nháº­p!","Result":{"Id":0,"Serial":"087832000003142","Code":"013680433965","CreatedAt":"2020-05-07T11:23:52.5720589+07:00","Status":0,"Type":"MB50000","CreatedBy":"0909795609","Price":50000.0,"TransId":"56043-1588825367"}}
+07-05-2020 11:25:03 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD: Code = 404 Status: 0
+07-05-2020 11:26:54 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 56043-1588825614
+07-05-2020 15:20:04 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 71368-1588839604
+07-05-2020 15:20:10 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"MÃ£ pin pháº£i lÃ  13 vÃ  seri pháº£i lÃ  11 sá»‘ hoáº·c mÃ£ pin pháº£i lÃ  15 vÃ  seri pháº£i lÃ  14 sá»‘ Ä‘á»‘i vá»›i tháº» Viettel"}
+07-05-2020 15:20:57 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 71368-1588839657
+07-05-2020 15:22:37 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":404,"Message":"Giao dá»‹ch bá»‹ tá»« chá»‘i. Tháº» nÃ y Ä‘Ã£ tá»“n táº¡i trÃªn há»‡ thá»‘ng xem láº¡i cÃ¡c trÆ°á»�ng Ä‘Ã£ nháº­p!","Result":{"Id":0,"Serial":"087832000003142","Code":"013680433965","CreatedAt":"2020-05-07T15:20:59.0251143+07:00","Status":0,"Type":"MB50000","CreatedBy":"0909795609","Price":50000.0,"TransId":"71368-1588839657"}}
+07-05-2020 15:22:54 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD: Code = 404 Status: 0
+07-05-2020 15:25:38 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 71368-1588839938
+07-05-2020 15:26:33 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":200,"Message":"Successfully","Result":{"Id":0,"Serial":"087871000000525","Code":"731521404294","CreatedAt":"2020-05-07T15:26:03.3376159+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"71368-1588839938"}}
+07-05-2020 15:26:38 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD: Code = 200 Status: 0
+07-05-2020 15:26:45 INFO  [nioEventLoopGroup-7-2] - VERIFY CARD trans_id=71368-1588839938
+07-05-2020 15:26:53 INFO  [nioEventLoopGroup-7-2] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"71368-1588839938","status":1,"amount":10000.0}}
+07-05-2020 15:26:54 INFO  [nioEventLoopGroup-7-2] - VERIFY CARD trans_id=71368-1588839938 httpCode = 200
+07-05-2020 15:27:40 ERROR [nioEventLoopGroup-7-2] - VERIFY CARD trans_id = 71368-1588839938 FAIL
+java.lang.NullPointerException
+	at games.payment.PaymentCardService.verifyCard(PaymentCardService.java:133)
+	at games.payment.PaymentCardService.requestCard(PaymentCardService.java:100)
+	at games.payment.PaymentService.cardPayment(PaymentService.java:107)
+	at games.payment.PaymentCommand.process(PaymentCommand.java:77)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-05-2020 15:31:33 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 71368-1588840293
+07-05-2020 15:31:52 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":200,"Message":"Successfully","Result":{"Id":0,"Serial":"087871000000958","Code":"556606307135","CreatedAt":"2020-05-07T15:31:34.7907406+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"71368-1588840293"}}
+07-05-2020 15:31:56 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD: Code = 200 Status: 0
+07-05-2020 15:31:59 INFO  [nioEventLoopGroup-7-2] - VERIFY CARD trans_id=71368-1588840293
+07-05-2020 15:32:06 INFO  [nioEventLoopGroup-7-2] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"71368-1588840293","status":1,"amount":10000.0}}
+07-05-2020 15:32:19 INFO  [nioEventLoopGroup-7-2] - VERIFY CARD trans_id=71368-1588840293 httpCode = 200
+07-05-2020 15:32:56 ERROR [nioEventLoopGroup-7-2] - VERIFY CARD trans_id = 71368-1588840293 FAIL
+java.lang.NullPointerException
+	at games.payment.PaymentCardService.verifyCard(PaymentCardService.java:133)
+	at games.payment.PaymentCardService.requestCard(PaymentCardService.java:100)
+	at games.payment.PaymentService.cardPayment(PaymentService.java:107)
+	at games.payment.PaymentCommand.process(PaymentCommand.java:77)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:182)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:95)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:38)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+07-05-2020 15:38:04 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD TransId: 71368-1588840684
+07-05-2020 15:38:13 INFO  [nioEventLoopGroup-7-2] - The247 requestCard response:{"Version":"1.0","Code":200,"Message":"Successfully","Result":{"Id":0,"Serial":"087871000001389","Code":"582763087451","CreatedAt":"2020-05-07T15:38:05.8063638+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"71368-1588840684"}}
+07-05-2020 15:38:18 INFO  [nioEventLoopGroup-7-2] - REQUEST CARD: Code = 200 Status: 0
+07-05-2020 15:38:21 INFO  [nioEventLoopGroup-7-2] - VERIFY CARD trans_id=71368-1588840684
+07-05-2020 15:38:39 INFO  [nioEventLoopGroup-7-2] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"71368-1588840684","status":1,"amount":10000.0}}
+07-05-2020 15:38:46 INFO  [nioEventLoopGroup-7-2] - VERIFY CARD trans_id=71368-1588840684 httpCode = 200
+07-05-2020 15:43:06 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 82061-1588840986
+07-05-2020 15:43:26 INFO  [nioEventLoopGroup-7-1] - The247 requestCard response:{"Version":"1.0","Code":200,"Message":"Successfully","Result":{"Id":0,"Serial":"087871000001811","Code":"981953343772","CreatedAt":"2020-05-07T15:43:19.9469732+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"82061-1588840986"}}
+07-05-2020 15:43:31 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD: Code = 200 Status: 0
+07-05-2020 15:43:35 INFO  [nioEventLoopGroup-7-1] - VERIFY CARD trans_id=82061-1588840986
+07-05-2020 15:43:40 INFO  [nioEventLoopGroup-7-1] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"82061-1588840986","status":1,"amount":10000.0}}
+07-05-2020 15:43:46 INFO  [nioEventLoopGroup-7-1] - VERIFY CARD trans_id=82061-1588840986 httpCode = 200
+07-05-2020 15:44:13 INFO  [nioEventLoopGroup-7-1] - VERIFY CARD trans_id=82061-1588840986 => Verify time: 1, status:1
+07-05-2020 15:47:06 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD TransId: 92472-1588841226
+07-05-2020 15:48:16 INFO  [nioEventLoopGroup-7-1] - The247 requestCard response:{"Version":"1.0","Code":200,"Message":"Successfully","Result":{"Id":0,"Serial":"087871000001827","Code":"276312291794","CreatedAt":"2020-05-07T15:47:37.8688411+07:00","Status":0,"Type":"MB10000","CreatedBy":"0909795609","Price":10000.0,"TransId":"92472-1588841226"}}
+07-05-2020 15:48:20 INFO  [nioEventLoopGroup-7-1] - REQUEST CARD: Code = 200 Status: 0
+07-05-2020 15:48:23 INFO  [nioEventLoopGroup-7-1] - VERIFY CARD trans_id=92472-1588841226
+07-05-2020 15:48:42 INFO  [nioEventLoopGroup-7-1] - The247 verifyCard response: {"Version":"1.0","Code":200,"Message":"Successfully","Result":{"transid":"92472-1588841226","status":1,"amount":10000.0}}
+07-05-2020 15:48:44 INFO  [nioEventLoopGroup-7-1] - VERIFY CARD trans_id=92472-1588841226 httpCode = 200
+07-05-2020 15:48:47 INFO  [nioEventLoopGroup-7-1] - VERIFY CARD trans_id=92472-1588841226 => Verify time: 1, status:1

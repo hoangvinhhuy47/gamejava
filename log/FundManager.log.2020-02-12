@@ -1,0 +1,12 @@
+12-02-2020 14:16:05 INFO  [main] - Not found Basefund in redis. Init this SUPER_VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found fund in redis. Init this SUPER_VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found fund dealer in redis. Init this SUPER_VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found jackpot in redis. Init this SUPER_VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found Basefund in redis. Init this NORMAL Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found fund in redis. Init this NORMAL Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found fund dealer in redis. Init this NORMAL Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found jackpot in redis. Init this NORMAL Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found Basefund in redis. Init this VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found fund in redis. Init this VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found fund dealer in redis. Init this VIP Ok!
+12-02-2020 14:16:05 INFO  [main] - Not found jackpot in redis. Init this VIP Ok!

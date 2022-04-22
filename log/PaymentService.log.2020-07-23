@@ -1,0 +1,61 @@
+23-07-2020 09:28:32 INFO  [main] - Payment service init
+23-07-2020 10:40:02 INFO  [main] - Payment service init
+23-07-2020 13:45:24 INFO  [main] - Payment service init
+23-07-2020 15:05:24 INFO  [nioEventLoopGroup-7-8] - Request Package ID: 1
+23-07-2020 15:05:24 INFO  [nioEventLoopGroup-7-8] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:05:24 INFO  [nioEventLoopGroup-7-8] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:09:39 INFO  [nioEventLoopGroup-7-8] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:09:39 INFO  [nioEventLoopGroup-7-8] - Payment card error code = 404
+23-07-2020 15:11:03 INFO  [nioEventLoopGroup-7-2] - Request Package ID: 1
+23-07-2020 15:11:03 INFO  [nioEventLoopGroup-7-2] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:11:03 INFO  [nioEventLoopGroup-7-2] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:12:18 INFO  [nioEventLoopGroup-7-2] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:12:18 INFO  [nioEventLoopGroup-7-2] - Payment card error code = 404
+23-07-2020 15:12:24 INFO  [nioEventLoopGroup-7-2] - Request Package ID: 1
+23-07-2020 15:12:24 INFO  [nioEventLoopGroup-7-2] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:12:24 INFO  [nioEventLoopGroup-7-2] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:12:34 INFO  [nioEventLoopGroup-7-2] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:12:34 INFO  [nioEventLoopGroup-7-2] - Payment card error code = 404
+23-07-2020 15:12:50 INFO  [nioEventLoopGroup-7-2] - Request Package ID: 1
+23-07-2020 15:12:50 INFO  [nioEventLoopGroup-7-2] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:12:50 INFO  [nioEventLoopGroup-7-2] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:13:11 INFO  [nioEventLoopGroup-7-2] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:13:11 INFO  [nioEventLoopGroup-7-2] - Payment card error code = 404
+23-07-2020 15:13:17 INFO  [nioEventLoopGroup-7-2] - Request Package ID: 1
+23-07-2020 15:13:17 INFO  [nioEventLoopGroup-7-2] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:13:17 INFO  [nioEventLoopGroup-7-2] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:13:51 INFO  [nioEventLoopGroup-7-2] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:13:51 INFO  [nioEventLoopGroup-7-2] - Payment card error code = 404
+23-07-2020 15:13:56 INFO  [nioEventLoopGroup-7-2] - Request Package ID: 1
+23-07-2020 15:13:56 INFO  [nioEventLoopGroup-7-2] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:13:56 INFO  [nioEventLoopGroup-7-2] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:14:28 INFO  [main] - Payment service init
+23-07-2020 15:15:24 INFO  [nioEventLoopGroup-7-1] - Request Package ID: 1
+23-07-2020 15:15:24 INFO  [nioEventLoopGroup-7-1] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:15:24 INFO  [nioEventLoopGroup-7-1] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:16:12 INFO  [nioEventLoopGroup-7-1] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:16:12 INFO  [nioEventLoopGroup-7-1] - Payment card error code = 404
+23-07-2020 15:18:12 INFO  [nioEventLoopGroup-7-1] - Request Package ID: 1
+23-07-2020 15:18:12 INFO  [nioEventLoopGroup-7-1] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:18:12 INFO  [nioEventLoopGroup-7-1] - UserCardRequest:  User: 32037 CardCode: 123456789,  CardSerial: 123456789,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:20:20 INFO  [nioEventLoopGroup-7-1] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:20:20 INFO  [nioEventLoopGroup-7-1] - Payment card error code = 404
+23-07-2020 15:22:32 INFO  [nioEventLoopGroup-7-2] - Request Package ID: 1
+23-07-2020 15:22:32 INFO  [nioEventLoopGroup-7-2] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:22:32 INFO  [nioEventLoopGroup-7-2] - UserCardRequest:  User: 32037 CardCode: 414366260957,  CardSerial: 089361000011468,  CardType: mobi,  CardTypeId: 3,  CardValue: 10000
+23-07-2020 15:23:09 INFO  [nioEventLoopGroup-7-2] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: 0,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:23:09 INFO  [nioEventLoopGroup-7-2] - Payment card error code = 404
+23-07-2020 15:39:42 INFO  [nioEventLoopGroup-7-4] - Request Package ID: 1
+23-07-2020 15:39:42 INFO  [nioEventLoopGroup-7-4] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:39:42 INFO  [nioEventLoopGroup-7-4] - UserCardRequest:  User: 32037 CardCode: 453450228437,  CardSerial: 089381000002427,  CardType: viettel,  CardTypeId: 1,  CardValue: 10000
+23-07-2020 15:40:06 INFO  [nioEventLoopGroup-7-4] - NewUserCardResponse: NewUserCardResponse:  HttpCode 404,  RequestStatus: -99,  VerifyStatus: 404,  Price: 0.0
+23-07-2020 15:40:06 INFO  [nioEventLoopGroup-7-4] - Payment card error code = 404
+23-07-2020 15:40:13 INFO  [nioEventLoopGroup-7-4] - Request Package ID: 1
+23-07-2020 15:40:13 INFO  [nioEventLoopGroup-7-4] - Request PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:40:13 INFO  [nioEventLoopGroup-7-4] - UserCardRequest:  User: 32037 CardCode: 453450228437,  CardSerial: 089381000002427,  CardType: mobi,  CardTypeId: 3,  CardValue: 10000
+23-07-2020 15:42:21 INFO  [nioEventLoopGroup-7-4] - NewUserCardResponse: NewUserCardResponse:  HttpCode 200,  RequestStatus: 0,  VerifyStatus: 1,  Price: 10000.0
+23-07-2020 15:42:21 INFO  [nioEventLoopGroup-7-4] - Card payment success - 10000
+23-07-2020 15:42:21 INFO  [nioEventLoopGroup-7-4] - Response PaymentItem: 1, ActionType: RECHARGE, Value: 10000, RealValue: 10000000
+23-07-2020 15:42:21 INFO  [nioEventLoopGroup-7-4] - Payment sucess - user id = 32037 - payment type = CARD - Amount = 10000 - moneyReward = 10000000
+23-07-2020 15:48:03 INFO  [main] - Payment service init
+23-07-2020 16:08:48 INFO  [main] - Payment service init

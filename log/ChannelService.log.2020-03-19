@@ -1,0 +1,2 @@
+19-03-2020 16:20:36 INFO  [nioEventLoopGroup-7-2] - Duplicate login - 54320 - force quit
+19-03-2020 16:38:01 INFO  [pool-1-thread-5] - Close channel because over time HARD_TIME_OUT - time disactive = 190 - user id = 54320

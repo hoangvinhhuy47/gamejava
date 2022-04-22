@@ -1,0 +1,110 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "PokerProto";
+
+message Poker_Response_RoomIdFund { // Trả thông tin fund cho user 2s 1 lần dựa vào RoomID (50000)
+    optional int32 roomid = 1;
+    optional int64 fund = 2;
+}
+// -----------------------------------------------------------------------------------------------------
+message Poker_Response_GameInfo { // Trả thông tin Poker_Response_RoomInfo - các room hiện có - 1 lần lúc start - toàn bộ room
+                                  // 0.5 s 1 lần
+    repeated Poker_Response_RoomInfo room = 1;
+}
+message Poker_Response_AllCountDown_10Room { // Trả thông tin 10 room timecountdown
+    repeated Poker_Response_CountDown room = 1;
+}
+// -----------------------------------------------------------------------------------------------------
+message Poker_Response_UpdateMoney
+{
+    optional int64 money = 1;
+}
+message Poker_Request_JoinFakePlayer {
+    optional int32 RoomID = 1;
+    optional int32 id = 2;
+    optional string username = 3;
+}
+// -----------------------------------------------------------------------------------------------------
+message Poker_Request_JoinLobby {
+}
+message Poker_Request_LeaveLobby {
+}
+message Poker_Request_JoinRoom { // Nhận yêu cầu user khi join room - dựa vào roomid (5000)
+    optional int32 roomid = 1;
+}
+message Poker_Request_LeaveRoom {
+    optional int32 roomid = 1;
+    optional int32 errorCode = 2;
+}
+message Poker_Response_RoomInfo { // Trả thông tin về cho User khi join room - chỉ 1 room
+    optional int32 roomId = 1;
+
+    optional int32 roomCurrentPhase = 8;
+    optional int64 roomPot = 9;
+
+    optional int64 roomNewMinBet = 18;
+    optional int32 roomIDOfNextDealer = 22;
+    repeated int32 roomLastAction = 19;
+    repeated int32 roomJoinedGameID = 10;
+    repeated bool roomTurn = 11;
+    repeated int32 roomDealerTurn = 12;
+    repeated int64 roomBetAmount = 17;
+    repeated int64 roomBetAmountTotal = 23;
+    repeated Poker_Player roomPlayerCardsHolder = 13;
+    repeated Poker_Player roomPlayerAvailableAction = 14;
+    repeated Poker_Cards roomAll52Cards = 15;
+    repeated Poker_Cards roomCommunityCards = 16;
+    repeated int64 roomCardStrenght = 20;
+    repeated int32 roomJoinedGameIDFOLDER = 21;
+    repeated int32 roomJoinedGameIDOUTOFMONEY = 24;
+
+    repeated int32 userid = 3; // list các userid trong room
+    repeated string username = 4; // list các username trong room
+    repeated int64 usermoney = 5; // list các usermoney trong room
+
+    repeated bool userBeginTurn = 6;
+    repeated int32 userAction = 7;
+}
+message Poker_Response_CountDown {  // Gửi liên tục nhiều => để riêng
+    optional int32 roomId = 1;
+    optional int64 roomCountdown = 2;
+}
+// --------------------------------------------------------------------------
+message Poker_Player {
+    optional int32 playerID = 1;
+    repeated Poker_Cards playerCardHolder = 2;
+    repeated int32 playerAvailableAction = 3;
+}
+message Poker_Cards {
+    optional string cardnumber = 1;
+    optional string cardtype = 2;
+}
+//message Poker_ListInt32 {
+//    repeated int32 action = 1;
+//}
+
+// ---------------------------------------------------------------------------
+// NHẬN THÔNG TIN THÔNG BÁO TỪ CLIENT
+message Poker_TurnOver {
+    optional int32 roomid = 1;
+    optional int32 playerid = 2;
+    optional int32 action = 3;
+    optional int64 currentMoney_Phase = 4;
+}
+
+message Poker_NEWGAME {
+
+}
+
+message Poker_Request_Bet { // gửi ngược lại list trong room
+    optional int32 userid = 1;
+    optional int64 betAmount = 3;
+}
+
+
+
+
+
+

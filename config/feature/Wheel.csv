@@ -1,0 +1,9 @@
+id,index,wheel_id,item_name,item_product_id,item_reward,currency,rate,quantity
+1,0,1,Thẻ ĐT 10K,card_10k,0,5,0,0
+2,1,1,Trượt rồi,nope,0,-1,36,9999
+3,2,1,20k Vàng,gold_20k,20000,0,5,9999
+4,3,1,5K Vàng,gold_5k,5000,0,25,9999
+5,4,1,Thẻ ĐT 20K,card_20k,0,6,0,10
+6,5,1,2K Vàng,gold_2k,2000,0,5,9999
+7,6,1,Thêm lượt,more_turn,2,7,10,9999
+8,7,1,50K Vàng,gold_50k,50000,0,15,9999

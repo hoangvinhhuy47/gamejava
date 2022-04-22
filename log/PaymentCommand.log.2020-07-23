@@ -1,0 +1,17 @@
+23-07-2020 09:28:32 INFO  [main] - Payment command init
+23-07-2020 10:40:02 INFO  [main] - Payment command init
+23-07-2020 13:45:24 INFO  [main] - Payment command init
+23-07-2020 15:05:24 INFO  [nioEventLoopGroup-7-8] - Request payment card
+23-07-2020 15:11:03 INFO  [nioEventLoopGroup-7-2] - Request payment card
+23-07-2020 15:12:24 INFO  [nioEventLoopGroup-7-2] - Request payment card
+23-07-2020 15:12:50 INFO  [nioEventLoopGroup-7-2] - Request payment card
+23-07-2020 15:13:17 INFO  [nioEventLoopGroup-7-2] - Request payment card
+23-07-2020 15:13:56 INFO  [nioEventLoopGroup-7-2] - Request payment card
+23-07-2020 15:14:28 INFO  [main] - Payment command init
+23-07-2020 15:15:24 INFO  [nioEventLoopGroup-7-1] - Request payment card
+23-07-2020 15:18:12 INFO  [nioEventLoopGroup-7-1] - Request payment card
+23-07-2020 15:22:32 INFO  [nioEventLoopGroup-7-2] - Request payment card
+23-07-2020 15:39:42 INFO  [nioEventLoopGroup-7-4] - Request payment card
+23-07-2020 15:40:13 INFO  [nioEventLoopGroup-7-4] - Request payment card
+23-07-2020 15:48:03 INFO  [main] - Payment command init
+23-07-2020 16:08:48 INFO  [main] - Payment command init

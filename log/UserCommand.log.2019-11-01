@@ -1,0 +1,47 @@
+01-11-2019 13:37:56 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 13:41:46 INFO  [nioEventLoopGroup-7-1] - User offline - 13027
+01-11-2019 13:55:49 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 13:56:33 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 13027
+01-11-2019 13:56:35 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 13027
+01-11-2019 13:56:37 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 13027
+01-11-2019 13:56:39 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 13027
+01-11-2019 13:56:51 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 13027
+01-11-2019 14:00:01 INFO  [nioEventLoopGroup-7-2] - User offline - 13027
+01-11-2019 14:02:42 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:03:13 INFO  [nioEventLoopGroup-7-3] - Client ping check network - 13027
+01-11-2019 14:03:15 INFO  [nioEventLoopGroup-7-3] - Client ping check network - 13027
+01-11-2019 14:04:05 INFO  [nioEventLoopGroup-7-3] - User offline - 13027
+01-11-2019 14:04:12 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:05:21 INFO  [nioEventLoopGroup-7-4] - User offline - 13027
+01-11-2019 14:05:27 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:05:55 INFO  [nioEventLoopGroup-7-5] - User offline - 13027
+01-11-2019 14:06:01 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:08:29 INFO  [nioEventLoopGroup-7-6] - User offline - 13027
+01-11-2019 14:08:43 INFO  [nioEventLoopGroup-7-7] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:10:08 INFO  [nioEventLoopGroup-7-7] - User offline - 13027
+01-11-2019 14:10:14 INFO  [nioEventLoopGroup-7-8] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:12:14 INFO  [nioEventLoopGroup-7-8] - User offline - 13027
+01-11-2019 14:12:20 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:15:13 INFO  [nioEventLoopGroup-7-1] - User offline - 13027
+01-11-2019 14:15:19 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:18:31 INFO  [nioEventLoopGroup-7-2] - User offline - 13027
+01-11-2019 14:19:43 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:23:01 INFO  [nioEventLoopGroup-7-3] - User offline - 13027
+01-11-2019 14:45:31 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:46:53 INFO  [nioEventLoopGroup-7-4] - User offline - 13027
+01-11-2019 14:47:00 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:52:43 INFO  [nioEventLoopGroup-7-5] - User offline - 13027
+01-11-2019 14:52:53 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:53:52 INFO  [nioEventLoopGroup-7-6] - User offline - 13027
+01-11-2019 14:54:00 INFO  [nioEventLoopGroup-7-7] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 14:54:41 INFO  [nioEventLoopGroup-7-7] - Client ping check network - 13027
+01-11-2019 14:58:16 INFO  [nioEventLoopGroup-7-7] - User offline - 13027
+01-11-2019 15:31:57 INFO  [nioEventLoopGroup-7-8] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 15:32:50 INFO  [nioEventLoopGroup-7-8] - Client ping check network - 13027
+01-11-2019 15:34:04 INFO  [nioEventLoopGroup-7-8] - Client ping check network - 13027
+01-11-2019 15:34:06 INFO  [nioEventLoopGroup-7-8] - Client ping check network - 13027
+01-11-2019 15:40:01 INFO  [nioEventLoopGroup-7-8] - User offline - 13027
+01-11-2019 15:51:45 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 15:52:00 INFO  [nioEventLoopGroup-7-1] - User offline - 13027
+01-11-2019 15:52:03 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+01-11-2019 15:52:37 INFO  [nioEventLoopGroup-7-2] - User offline - 13027

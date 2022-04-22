@@ -1,0 +1,146 @@
+//syntax = "proto2";
+package com.nope.fishing;
+import "JackpotGame.proto";
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "SlotGameProto";
+
+
+// protoc -I=D:\Working\Appota\Project\Bingota\XServer\ --java_out=D:\Working\Appota\Project\Bingota\XServer\src\main\java //D:\Working\Appota\Project\Bingota\XServer\Base.proto
+
+//=====================XMESSAGE=====================
+
+message SlotJoinRequest{
+    optional int32 roomId = 1;
+}
+
+message PlayerUpdateLinesRequest{
+    repeated int32 line = 1;
+}
+
+message PlayerUpdateLinesResponse{
+    repeated int32 line = 1;
+}
+
+message ResultItemIndex{
+    optional int32 col = 1;
+    optional int32 row = 2;
+    optional int32 itemId = 3;
+}
+
+
+message SpinSlotRequest{
+    repeated int32 line = 1;
+    optional int32 stakeStep = 2;
+}
+
+message WinResultProto{
+    optional int64 money = 1;
+    repeated ResultItemIndex itemIndex = 2;
+    optional int32 line = 3;
+}
+
+message BonusWinResultProto{
+    repeated int64 moneyList = 1;
+    optional WinResultProto winResult = 2;
+}
+
+message SpinSlotResponse{
+    repeated int32 line = 1;
+    repeated ResultItemIndex resultItemIndex = 2;
+    repeated WinResultProto normal = 10;
+    repeated WinResultProto jackpot = 11;
+    optional WinResultProto freeSpin = 12;
+    repeated BonusWinResultProto bonus = 13;
+    optional int64 money = 4;
+    optional int32 errorCode = 5;
+}
+
+message MainSlotReward{
+    optional int32 itemId = 1;
+    optional int32 x2 = 2;
+    optional int32 x3 = 3;
+    optional int32 x4 = 4;
+    optional int32 x5 = 5;
+}
+
+message MiniSlotReward{
+    optional int32 itemId = 1;
+    optional int32 x2 = 2;
+    optional int32 x3 = 3;
+}
+
+//message RoomStakeInfo{
+//    int64 stepMoney = 2;
+//    int64 defaultStep = 3;
+//    int64 maxStep = 4;
+//    int64 minStep = 5;
+//}
+
+message SlotRoomInfo{
+    optional int32 roomId = 1;
+    optional RoomStakeInfo roomStakeInfo = 2;
+    optional int64 potAmount = 3;
+    optional int32 errorCode = 4;
+}
+
+message SlotGameInfo{
+    repeated SlotRoomInfo room = 1;
+}
+
+message MainSlotInfoResponse{
+    //oneof baseInfo{
+
+    //}
+    optional SlotGameInfo slotGameInfo = 1;
+    repeated MainSlotReward reward = 2;
+
+}
+
+message MiniSlotInfoResponse{
+    //oneof baseInfo{
+
+    //}
+    optional SlotGameInfo slotGameInfo = 1;
+    repeated MiniSlotReward reward = 2;
+
+    optional int32 roomIdDefault = 3;
+}
+
+message MiniSlotChangeRoomResponse {
+    optional int32 roomId = 1;
+}
+
+message SlotHistoryRecord{
+    optional int64 id = 1;
+    optional int64 moneyBet = 2;
+    optional int64 moneyWin = 3;
+    optional int64 timestamp = 4;
+    optional string description = 5;
+}
+
+message SlotHistoryInfoResponse{
+    repeated SlotHistoryRecord record = 1;
+}
+
+message LeaveGameResponse{
+    optional int32 errorCode = 1;
+}
+
+message OpenBonusItemRequest{
+    optional int32 row = 1;
+    optional int32 col = 2;
+    optional int32 openAll = 3;
+}
+
+message BonusResultItemResponse{
+    required int32 row = 1;
+    required int32 col = 2;
+    required int32 money = 3;
+}
+
+message BonusResultAllResponse {
+    repeated BonusResultItemResponse bonusItems = 1;
+    optional int64 totalMoney = 2;
+    optional int32 errorCode = 3;
+}

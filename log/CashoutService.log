@@ -1,0 +1,2 @@
+22-11-2019 10:25:21 INFO  [nioEventLoopGroup-7-1] - User Cashout - 7 - 100000000 - 100000
+22-11-2019 10:25:21 INFO  [nioEventLoopGroup-7-1] - Transaction money - SUCCESS - real = games.core.common.money.Money@7ff3cb03

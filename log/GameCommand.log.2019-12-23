@@ -1,0 +1,144 @@
+23-12-2019 09:39:10 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 10:32:18 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 10:44:21 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 15:20:00 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[228179] hit Fish[551] by Bullet[38]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:138)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:551)
+	at games.shootingfish.GameCommand.process(GameCommand.java:70)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:174)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:91)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:35)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+23-12-2019 15:20:00 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[228179] hit Fish[526] by Bullet[27]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:138)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:551)
+	at games.shootingfish.GameCommand.process(GameCommand.java:70)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:174)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:91)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:35)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+23-12-2019 17:47:55 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 17:50:35 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 17:52:42 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 17:55:57 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+23-12-2019 17:56:17 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+23-12-2019 17:56:40 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+23-12-2019 18:00:12 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+23-12-2019 18:02:12 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+23-12-2019 18:10:46 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 18:13:05 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 18:17:12 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 18:31:41 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[228179] hit Fish[87] by Bullet[37]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:549)
+	at games.shootingfish.GameCommand.process(GameCommand.java:70)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:174)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:91)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:35)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+23-12-2019 18:32:22 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[228179]
+23-12-2019 18:51:03 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 18:51:18 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 18:51:30 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 18:51:46 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+23-12-2019 18:51:57 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+23-12-2019 19:09:28 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 19:18:30 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 19:26:29 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 19:27:44 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 19:31:31 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 19:31:41 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 19:31:53 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+23-12-2019 19:32:06 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+23-12-2019 19:32:26 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+23-12-2019 19:32:38 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+23-12-2019 19:32:45 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+23-12-2019 19:32:51 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 19:32:58 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 19:33:18 ERROR [nioEventLoopGroup-7-3] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+23-12-2019 19:33:21 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 19:33:47 INFO  [nioEventLoopGroup-7-4] - Leave table error, get player null
+23-12-2019 19:34:23 INFO  [nioEventLoopGroup-7-5] - Leave table error, get player null
+23-12-2019 19:34:43 INFO  [nioEventLoopGroup-7-6] - Leave table error, get player null
+23-12-2019 19:35:08 INFO  [nioEventLoopGroup-7-7] - Leave table error, get player null
+23-12-2019 19:35:31 INFO  [nioEventLoopGroup-7-8] - Leave table error, get player null
+23-12-2019 19:35:55 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[353027]
+23-12-2019 19:35:58 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+23-12-2019 19:36:34 INFO  [nioEventLoopGroup-7-2] - Leave table error, get player null
+23-12-2019 19:36:44 INFO  [nioEventLoopGroup-7-3] - Leave table error, get player null
+23-12-2019 19:41:17 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null

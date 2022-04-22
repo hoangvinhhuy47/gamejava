@@ -1,0 +1,33 @@
+21-11-2019 09:12:01 INFO  [main] - Start init server...
+21-11-2019 09:12:01 INFO  [main] - Init Redis done!
+21-11-2019 09:12:02 INFO  [main] - Init Mongo done!
+21-11-2019 09:12:02 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+21-11-2019 09:12:02 INFO  [main] - Migrate database done!
+21-11-2019 09:12:02 INFO  [main] - Init Fishing gameLobby done!
+21-11-2019 09:12:03 INFO  [main] - Init ChannelService done!
+21-11-2019 09:12:03 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+21-11-2019 09:12:03 INFO  [main] - Init HandlerChannelApi done!
+21-11-2019 09:12:03 INFO  [Thread-5] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+21-11-2019 09:12:03 INFO  [Thread-4] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+21-11-2019 18:11:59 INFO  [main] - Start init server...
+21-11-2019 18:11:59 INFO  [main] - Init Redis done!
+21-11-2019 18:12:01 INFO  [main] - Init Mongo done!
+21-11-2019 18:12:01 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+21-11-2019 18:12:01 INFO  [main] - Migrate database done!
+21-11-2019 18:12:29 INFO  [main] - Init Fishing gameLobby done!
+21-11-2019 18:12:29 INFO  [main] - Init ChannelService done!
+21-11-2019 18:12:30 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+21-11-2019 18:12:30 INFO  [main] - Init HandlerChannelApi done!
+21-11-2019 18:12:30 ERROR [Thread-5] - java.net.BindException: Address already in use: bind
+21-11-2019 18:12:30 INFO  [Thread-5] - CLOSE SERVER GAME API
+21-11-2019 18:12:30 INFO  [Thread-4] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+21-11-2019 18:12:46 INFO  [main] - Start init server...
+21-11-2019 18:12:46 INFO  [main] - Init Redis done!
+21-11-2019 18:12:47 INFO  [main] - Init Mongo done!
+21-11-2019 18:12:47 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+21-11-2019 18:12:47 INFO  [main] - Migrate database done!
+21-11-2019 18:22:31 INFO  [main] - Start init server...
+21-11-2019 18:22:32 INFO  [main] - Init Redis done!
+21-11-2019 18:22:32 INFO  [main] - Init Mongo done!
+21-11-2019 18:22:32 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+21-11-2019 18:22:33 INFO  [main] - Migrate database done!

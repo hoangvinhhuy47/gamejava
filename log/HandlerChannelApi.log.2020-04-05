@@ -1,0 +1,11 @@
+05-04-2020 10:25:28 ERROR [nioEventLoopGroup-5-2] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:44:25 ERROR [nioEventLoopGroup-5-2] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:44:45 ERROR [nioEventLoopGroup-5-4] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:46:24 ERROR [nioEventLoopGroup-5-8] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:46:26 ERROR [nioEventLoopGroup-5-2] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:47:25 ERROR [nioEventLoopGroup-5-2] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:48:13 ERROR [nioEventLoopGroup-5-6] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:48:15 ERROR [nioEventLoopGroup-5-8] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:50:22 ERROR [nioEventLoopGroup-5-4] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:50:24 ERROR [nioEventLoopGroup-5-6] - java.lang.Exception: NOT START WITH /api
+05-04-2020 11:53:45 ERROR [nioEventLoopGroup-5-1] - java.lang.RuntimeException: java.lang.ClassNotFoundException: org.glassfish.jersey.internal.RuntimeDelegateImpl

@@ -1,0 +1,15 @@
+22-05-2020 10:19:27 INFO  [pool-1-thread-2] - next state 3000003 BOSS18_2 3000003
+22-05-2020 10:19:39 INFO  [pool-1-thread-4] - next state 1000003 BOSS1 1000003
+22-05-2020 10:20:00 INFO  [pool-1-thread-4] - next state 2000003 BOSS3_2 2000003
+22-05-2020 10:20:06 INFO  [pool-1-thread-5] - next state 3000003 NORMAL 3000003
+22-05-2020 10:20:47 INFO  [pool-1-thread-3] - next state 1000003 NORMAL 1000003
+22-05-2020 10:21:01 INFO  [pool-1-thread-2] - next state 3000001 BOSS18 3000001
+22-05-2020 10:21:11 INFO  [pool-1-thread-1] - next state 2000003 NORMAL 2000003
+22-05-2020 10:21:36 INFO  [pool-1-thread-2] - next state 2000002 BOSS5_2 2000002
+22-05-2020 10:21:39 INFO  [pool-1-thread-2] - next state 3000001 NORMAL 3000001
+22-05-2020 10:21:50 INFO  [pool-1-thread-2] - next state 2000001 BOSS11 2000001
+22-05-2020 10:21:54 INFO  [pool-1-thread-4] - next state 1000002 BOSS5 1000002
+22-05-2020 10:22:26 INFO  [pool-1-thread-3] - next state 3000002 BOSS14 3000002
+22-05-2020 10:22:30 INFO  [pool-1-thread-4] - next state 1000001 BOSS1 1000001
+22-05-2020 10:22:53 INFO  [pool-1-thread-2] - next state 2000002 NORMAL 2000002
+22-05-2020 10:23:00 INFO  [pool-1-thread-2] - next state 2000001 NORMAL 2000001

@@ -1,0 +1,78 @@
+08-01-2020 15:45:32 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+08-01-2020 17:11:34 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:13:03 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:21:24 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[255701] hit Fish[332] by Bullet[45]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:569)
+	at games.shootingfish.GameCommand.process(GameCommand.java:70)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:174)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:91)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:35)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+08-01-2020 17:21:24 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:27:17 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:27:17 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:27:17 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:27:17 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 17:32:09 ERROR [nioEventLoopGroup-7-1] - [processHitFish in GameCommand] - error when Player[255701] hit Fish[172] by Bullet[7]: 
+games.shootingfish.exception.TableException: FishingPlayer này đang không chơi ở bàn nào cả!
+	at games.shootingfish.GameLobby.getTableByPlayerId(GameLobby.java:139)
+	at games.shootingfish.GameCommand.processHitFish(GameCommand.java:569)
+	at games.shootingfish.GameCommand.process(GameCommand.java:70)
+	at games.core.application.handler.HandlerChannelContext.processMessage(HandlerChannelContext.java:174)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:91)
+	at games.core.application.handler.HandlerChannelContext.channelRead0(HandlerChannelContext.java:35)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:288)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:262)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:327)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1336)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:335)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:544)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:485)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:399)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:371)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:742)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:145)
+	at java.lang.Thread.run(Thread.java:748)
+08-01-2020 17:33:02 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null
+08-01-2020 22:14:36 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 22:14:36 ERROR [nioEventLoopGroup-7-1] - [processGenerateBullet] - Can't generate Bullet, Player[255701]
+08-01-2020 22:23:24 INFO  [nioEventLoopGroup-7-1] - Leave table error, get player null

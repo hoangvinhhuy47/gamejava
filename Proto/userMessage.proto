@@ -1,0 +1,137 @@
+//syntax = "proto2";
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "UserProtos";
+
+//login by token
+message LoginRequestBean{
+	required string token = 1;
+}
+
+message LoginResponseBean{
+  	required int32 error_code = 1;	//0: success, 1: update first time, other: show description
+	optional int32 user_id = 2;
+  	optional string user_name = 3;
+  	optional string nick_name = 4;
+	optional string avatar_url = 5;
+	optional int64 gold = 6;
+	optional int64 silver = 8;
+	optional int64 time_stamp_at_login = 9;
+	optional int32 daily_reward_day = 10;// từ 1 -> 7. = -1, ko nhận được hoặc đã nhận rồi.
+	optional bool recievedDailyReward = 11;//
+	optional int32 gender = 12;
+	optional string mail = 13;
+	optional string phone = 14;
+	optional bool is_verify_phone = 15;
+	optional bool is_banned = 16;
+	optional int64 goldFrWallet = 17;
+}
+
+//daily rewards
+message ListDailyRewardResponseBean {
+	required int32 daily_reward_day = 1;
+	optional bool revicedRewardToday = 2;
+	repeated InfoDailyRewardResponseBean listDailyReward = 3;
+}
+
+message InfoDailyRewardResponseBean {
+	required int32 day = 1;
+	optional int64 gold_reward = 2;
+}
+
+message DailyRewardRequestBean {
+	required int32 day = 1;
+}
+
+message DailyRewardResponseBean {
+	required int32 error_code = 1;
+	optional int32 day = 2;
+	optional int64 gold_reward = 3;
+	optional int64 silver_reward = 4;
+}
+
+//logout
+message LogoutRequestBean{
+
+}
+
+//disconnect
+message DisconnectResponseBean{
+	required int32 error_code = 1;	//0: success
+	optional string error_description = 2;
+}
+
+// Avatar
+message AvatarRequestBean {
+	required int32 user_id = 1;
+}
+
+message AvatarResponseBean {
+	required int32 error_code = 1;
+	required string url = 2;
+}
+
+//update info
+message UpdateUserInfoRequestBean {
+	optional string nick_name = 1;
+	optional int32 gender = 2;
+	optional string mail = 3;
+	optional string phone = 4;
+	optional string avatar = 5;
+}
+
+message UpdateUserInfoResponseBean {
+	required int32 error_code = 1;	//0: success
+	optional string error_description = 2;
+}
+
+// Money update
+message UpdateGoldAndSilverRequestBean{
+}
+
+message UpdateGoldAndSilverResponseBean{ 
+	required int64 gold = 1;
+	required int64 silver = 3;
+	optional int32 ticketWheel = 4;
+	optional int32 countMailNotRead = 5;
+	optional int32 countNewsNotRead = 6;
+}
+
+message GetInfoOtherUserRequestBean {
+	required int32 user_id = 1;
+}
+
+message GetInfoOtherUserResponseBean {
+	required int32 error_code = 1;	//0: success
+	optional int32 user_id = 2;
+	optional string user_name = 3;
+	optional string nick_name = 4;
+	optional string avatar_url = 5;
+	optional int64 gold = 6;
+	optional int64 silver = 7;
+	optional int32 gender = 8;
+	optional string mail = 9;
+	optional string phone = 10;
+	optional bool is_friend = 11;
+}
+
+message GetOTPRequestBean {
+    required int32 action = 1;//1: verify sdt lan dau. 2: verify khi rut tien. 3: verify khi
+    optional string phone = 2;//neu verify sdt lan dau thi can nhap sdt nua
+}
+
+message GetOTPResponseBean {
+    required int32 error_code = 1;	//0: success
+}
+
+//Khi update sdt
+message VerifyPhoneRequestBean {
+    required string code = 1;
+    required string phone = 2;
+}
+
+message VerifyPhoneResponseBean {
+    required int32 error_code = 1;	//0: success
+}

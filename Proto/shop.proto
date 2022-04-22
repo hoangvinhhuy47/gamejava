@@ -1,0 +1,89 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "ShopProtos";
+
+
+////////////////// payment apple
+message ProcessPaymentAppleRequestBean {
+    required string product = 1;
+    required string transaction = 2;
+    required string price = 3;
+    required bytes contentData = 4;
+}
+
+////////////////// payment gg
+message ProcessPaymentGoogleRequestBean {
+    required string itemtype = 1;
+    required string signature = 2;
+    required string jsondata = 3;
+}
+
+message ProcessVideoAdsRequestBean {
+
+}
+
+message ProcessPaymentIAPResponseBean {
+    required int32 error_code = 1; // 0:success, !=0: fail
+    optional string message = 2;
+}
+
+message ProcessPaymentErrorBean {
+    required int32 error_code = 1;
+    required int32 payment_type = 2;
+}
+
+//////////////// payment card
+message ProcessPaymentCardRequestBean {
+    required string card_code = 1;
+    required string card_serial = 2;
+    required int32 card_type = 3;
+    required int32 package = 4;
+}
+
+message ProcessCashoutCardRequestBean {
+    required int32 package = 1;//chi co config 10k, 20k, 50k, 100k, 200k, 500k
+    required int32 card_type = 2;
+    required string otp = 3;
+    optional string note = 4;
+}
+
+message ProcessCashoutResponseBean {
+    required int32 error_code = 1;
+    optional string card_serial = 2;
+    optional string card_code = 3;
+}
+
+message ProcessTransferGoldRequestBean {
+    required string user_name = 1;
+    required int32 value = 2;//chuyen bao nhieu tien
+    required string otp = 3;
+    optional string note = 4;
+}
+
+message ProcessTransferResponseBean {
+    required int32 error_code = 1;
+}
+
+//nhan gold tu 1 thang khac
+message RecieveGoldBean {
+    required string user_name = 1;
+    required int32 value = 2;//chuyen bao nhieu tien
+}
+
+message HistoryPaymentResponseBean {
+    repeated HistoryPaymentInfoBean listPayment = 1;
+}
+
+message HistoryPaymentInfoBean {
+    required int32 type = 1; //1: nap card, 2: cashout, 3: transfer, 4: duoc nhan tu transfer 
+    required int32 value = 2;// so luong tang giam the nao
+    required string note = 3;//noi dung cua hoat dong nay
+    optional int64 timeProcess = 4;//thoi diem thuc hien
+    optional int32 status = 5;
+    optional int32 beforeValue = 6;
+    optional int32 afterValue = 7;
+    optional string cardType = 8; // loai the: vt,mb,vn
+    optional int32 cardValue = 9; // tien cua the: 10k, 20k, ..., 500k
+}

@@ -1,0 +1,59 @@
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\bin\Debug\FishShooting.dll
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\bin\Debug\FishShooting.pdb
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\bin\Debug\protobuf-net.dll
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\bin\Debug\protobuf-net.pdb
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\bin\Debug\protobuf-net.xml
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\obj\Debug\FishShooting.dll
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\obj\Debug\FishShooting.pdb
+E:\ThanhCao\Project\OutSources\Fishing 2019\proto\FishShooting\FishShooting\obj\Debug\FishShooting.csprojAssemblyReference.cache
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\bin\Debug\FishShooting.dll
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\bin\Debug\FishShooting.pdb
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\bin\Debug\protobuf-net.pdb
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\bin\Debug\protobuf-net.xml
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\obj\Debug\FishShooting.csprojAssemblyReference.cache
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\obj\Debug\FishShooting.dll
+D:\DOWNLOAD\FishShooting\FishShooting\FishShooting\obj\Debug\FishShooting.pdb
+C:\Users\EGVNGAME3\Desktop\FishShooting\bin\Debug\FishShooting.dll
+C:\Users\EGVNGAME3\Desktop\FishShooting\bin\Debug\FishShooting.pdb
+C:\Users\EGVNGAME3\Desktop\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+C:\Users\EGVNGAME3\Desktop\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+C:\Users\EGVNGAME3\Desktop\FishShooting\obj\Debug\FishShooting.dll
+C:\Users\EGVNGAME3\Desktop\FishShooting\obj\Debug\FishShooting.pdb
+C:\Users\EGVNGAME3\Desktop\FishShooting\obj\Debug\FishShooting.csprojAssemblyReference.cache
+C:\THANH\SourceCode-08-08\BuildDLL\FishShooting\bin\Debug\FishShooting.dll
+C:\THANH\SourceCode-08-08\BuildDLL\FishShooting\bin\Debug\FishShooting.pdb
+C:\THANH\SourceCode-08-08\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+C:\THANH\SourceCode-08-08\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+C:\THANH\SourceCode-08-08\BuildDLL\FishShooting\obj\Debug\FishShooting.dll
+C:\THANH\SourceCode-08-08\BuildDLL\FishShooting\obj\Debug\FishShooting.pdb
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.dll
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.pdb
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csprojAssemblyReference.cache
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.dll
+C:\THANH\SourceCode-08-08\Client\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.pdb
+C:\THANH\Fishing Blockchain\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.dll
+C:\THANH\Fishing Blockchain\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.pdb
+C:\THANH\Fishing Blockchain\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+C:\THANH\Fishing Blockchain\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+C:\THANH\Fishing Blockchain\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.dll
+C:\THANH\Fishing Blockchain\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.pdb
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.dll
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.pdb
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csprojAssemblyReference.cache
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.dll
+C:\THANH\Fishing Blockchain\Server\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.pdb
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.dll
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\bin\Debug\FishShooting.pdb
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csprojAssemblyReference.cache
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CoreCompileInputs.cache
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.csproj.CopyComplete
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.dll
+C:\THANH\CMMO\ServerCMMO\Server\BuildDLL\FishShooting\obj\Debug\FishShooting.pdb

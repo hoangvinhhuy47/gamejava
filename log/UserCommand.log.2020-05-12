@@ -1,0 +1,47 @@
+12-05-2020 10:31:01 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 11:07:44 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 11:10:53 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 14:55:33 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 14:56:54 INFO  [nioEventLoopGroup-7-1] - User offline - 123951
+12-05-2020 14:57:01 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:06:56 INFO  [nioEventLoopGroup-7-2] - User offline - 123951
+12-05-2020 15:07:05 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:20:32 INFO  [nioEventLoopGroup-7-3] - User offline - 123951
+12-05-2020 15:21:54 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:23:40 INFO  [nioEventLoopGroup-7-4] - Client ping check network - 123951
+12-05-2020 15:31:22 INFO  [nioEventLoopGroup-7-4] - Client ping check network - 123951
+12-05-2020 15:31:29 INFO  [nioEventLoopGroup-7-4] - User offline - 123951
+12-05-2020 15:39:25 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:40:43 INFO  [nioEventLoopGroup-7-5] - User offline - 123951
+12-05-2020 15:40:58 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:42:09 INFO  [nioEventLoopGroup-7-6] - User offline - 123951
+12-05-2020 15:43:29 INFO  [nioEventLoopGroup-7-7] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:47:15 INFO  [nioEventLoopGroup-7-7] - User offline - 123951
+12-05-2020 15:50:44 INFO  [nioEventLoopGroup-7-8] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 15:51:30 INFO  [nioEventLoopGroup-7-8] - User offline - 123951
+12-05-2020 15:52:08 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 16:07:45 INFO  [nioEventLoopGroup-7-1] - User offline - 123951
+12-05-2020 16:46:19 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 16:46:34 INFO  [nioEventLoopGroup-7-2] - User offline - 116071
+12-05-2020 16:46:41 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 16:47:06 INFO  [nioEventLoopGroup-7-3] - User offline - 123951
+12-05-2020 16:47:08 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 16:48:48 INFO  [nioEventLoopGroup-7-4] - Client ping check network - 123951
+12-05-2020 16:50:12 INFO  [nioEventLoopGroup-7-4] - Client ping check network - 123951
+12-05-2020 16:53:25 INFO  [nioEventLoopGroup-7-4] - Client ping check network - 123951
+12-05-2020 16:53:57 INFO  [nioEventLoopGroup-7-4] - User offline - 123951
+12-05-2020 16:54:13 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 17:01:03 INFO  [nioEventLoopGroup-7-5] - Client ping check network - 123951
+12-05-2020 17:01:42 INFO  [nioEventLoopGroup-7-5] - Client ping check network - 123951
+12-05-2020 17:02:15 INFO  [nioEventLoopGroup-7-5] - Client ping check network - 123951
+12-05-2020 17:04:17 INFO  [nioEventLoopGroup-7-5] - Client ping check network - 123951
+12-05-2020 17:05:40 INFO  [nioEventLoopGroup-7-5] - Client ping check network - 123951
+12-05-2020 17:05:52 INFO  [nioEventLoopGroup-7-5] - User offline - 123951
+12-05-2020 17:05:55 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"351c77c69ac61c646370ae4b8d8055cccfd2af0c","platform":"UNKNOWN"}
+12-05-2020 17:07:41 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951
+12-05-2020 17:08:23 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951
+12-05-2020 17:08:45 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951
+12-05-2020 17:08:58 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951
+12-05-2020 17:11:10 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951
+12-05-2020 17:12:13 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951
+12-05-2020 17:12:25 INFO  [nioEventLoopGroup-7-6] - Client ping check network - 123951

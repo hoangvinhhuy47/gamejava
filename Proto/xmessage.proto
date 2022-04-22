@@ -1,0 +1,52 @@
+package com.nope.fishing;
+
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "XProtos";
+
+// protoc -I=D:\Working\Appota\Project\Bingota\XServer\ --java_out=D:\Working\Appota\Project\Bingota\XServer\src\main\java //D:\Working\Appota\Project\Bingota\XServer\xmessage.proto
+
+//=====================XMESSAGE=====================
+
+message XMessage {
+  required int32 command = 1;
+  required int32 beanType = 2;        // Unique ID number for this person.
+  optional bytes data = 3;
+}
+
+message PaymentItemResponseBean {
+  required int32 id = 1;
+  required int32 type = 2;
+  required int32 value = 3;
+  required int32 realValue = 4;
+}
+
+message RequestInitClientBean {
+  required string product_name = 1;
+  required string os_version = 2;
+  required int32 client_version = 3;
+  optional string mac_address = 4;
+  optional string mobile_country_code = 5;	//MCC
+  optional string mobile_network_code = 6;	//MNC
+  optional int32 width = 7;
+  optional int32 height = 8;
+  required int32 platform = 9;
+  optional string device_id = 10;
+  optional string imie = 11;
+}
+
+message InitClientResponseBean{
+  required int32 error_code = 1;
+  optional string description = 2;
+  optional string url_download = 3;
+  optional string link_fanpage = 4;
+  optional int64 serverTime = 5;
+  optional bool is_enable_iap = 6;
+  optional int32 new_version = 7;
+  optional string link_store = 8;
+  repeated PaymentItemResponseBean paymentItem = 9;
+}
+//Disconect
+message DisconectBean{
+  required int32 error_code = 1;
+}

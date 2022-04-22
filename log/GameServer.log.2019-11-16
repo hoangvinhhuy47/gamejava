@@ -1,0 +1,30 @@
+16-11-2019 09:40:41 INFO  [main] - Start init server...
+16-11-2019 09:40:41 INFO  [main] - Init Redis done!
+16-11-2019 09:40:43 INFO  [main] - Init Mongo done!
+16-11-2019 09:40:43 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+16-11-2019 09:42:11 INFO  [main] - Start init server...
+16-11-2019 09:42:11 INFO  [main] - Init Redis done!
+16-11-2019 09:42:12 INFO  [main] - Init Mongo done!
+16-11-2019 09:42:12 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+16-11-2019 09:48:03 INFO  [main] - Start init server...
+16-11-2019 09:48:03 INFO  [main] - Init Redis done!
+16-11-2019 09:48:04 INFO  [main] - Init Mongo done!
+16-11-2019 09:48:04 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+16-11-2019 09:48:05 INFO  [main] - Migrate database done!
+16-11-2019 09:48:06 INFO  [main] - Init Fishing gameLobby done!
+16-11-2019 09:48:06 INFO  [main] - Init ChannelService done!
+16-11-2019 09:48:07 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+16-11-2019 09:48:07 INFO  [main] - Init HandlerChannelApi done!
+16-11-2019 09:48:08 INFO  [Thread-5] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+16-11-2019 09:48:08 INFO  [Thread-4] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES
+16-11-2019 10:12:28 INFO  [main] - Start init server...
+16-11-2019 10:12:29 INFO  [main] - Init Redis done!
+16-11-2019 10:12:30 INFO  [main] - Init Mongo done!
+16-11-2019 10:12:30 INFO  [main] - Init ServerConfig(load from server_config.json) done!
+16-11-2019 10:12:30 INFO  [main] - Migrate database done!
+16-11-2019 10:12:31 INFO  [main] - Init Fishing gameLobby done!
+16-11-2019 10:12:31 INFO  [main] - Init ChannelService done!
+16-11-2019 10:12:32 INFO  [main] - Init HandlerChannelContext done (Also init all game instance)!
+16-11-2019 10:12:32 INFO  [main] - Init HandlerChannelApi done!
+16-11-2019 10:12:33 INFO  [Thread-5] - API SERVER STARTED AT HOST[0.0.0.0] PORT [54012]
+16-11-2019 10:12:33 INFO  [Thread-4] - GAME SERVER STARTED AT HOST[0.0.0.0] PORT [25022] HAS [4] CORES

@@ -1,0 +1,17 @@
+07-09-2019 08:39:10 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 08:42:15 INFO  [nioEventLoopGroup-7-1] - User offline - 88156
+07-09-2019 08:54:12 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 09:12:30 INFO  [nioEventLoopGroup-7-2] - User offline - 88156
+07-09-2019 09:17:10 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 09:18:32 INFO  [nioEventLoopGroup-7-3] - User offline - 88156
+07-09-2019 09:18:43 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 09:50:30 INFO  [nioEventLoopGroup-7-4] - User offline - 79660
+07-09-2019 09:51:07 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 10:18:15 INFO  [nioEventLoopGroup-7-5] - User offline - 79660
+07-09-2019 10:36:05 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 10:54:51 INFO  [nioEventLoopGroup-7-6] - User offline - 79660
+07-09-2019 10:55:34 INFO  [nioEventLoopGroup-7-7] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 10:55:58 INFO  [nioEventLoopGroup-7-7] - Client ping check network - 79660
+07-09-2019 11:00:15 INFO  [nioEventLoopGroup-7-7] - User offline - 79660
+07-09-2019 11:28:00 INFO  [nioEventLoopGroup-7-8] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":140,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+07-09-2019 11:32:30 INFO  [nioEventLoopGroup-7-8] - User offline - 79660

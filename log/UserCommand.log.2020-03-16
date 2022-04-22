@@ -1,0 +1,18 @@
+16-03-2020 15:53:26 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 15:53:27 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 15:53:30 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 15:53:30 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 15:53:49 INFO  [nioEventLoopGroup-7-1] - User offline - 54320
+16-03-2020 15:54:07 INFO  [nioEventLoopGroup-7-5] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 15:54:28 INFO  [nioEventLoopGroup-7-2] - User offline - 45816
+16-03-2020 15:54:32 INFO  [nioEventLoopGroup-7-6] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 15:54:54 INFO  [nioEventLoopGroup-7-3] - Client ping check network - 155445
+16-03-2020 15:56:21 INFO  [nioEventLoopGroup-7-4] - User offline - 28436
+16-03-2020 15:56:23 INFO  [nioEventLoopGroup-7-6] - User offline - 67375
+16-03-2020 15:56:24 INFO  [nioEventLoopGroup-7-5] - User offline - 54320
+16-03-2020 17:01:51 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 17:01:53 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 17:01:56 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 17:02:01 INFO  [nioEventLoopGroup-7-4] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":260,"deviceId":"82702cb4c263bba1cbb8074935c9ece33cd8c827","platform":"WINDOW_PHONE"}
+16-03-2020 17:02:41 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 45816
+16-03-2020 17:02:58 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 54320

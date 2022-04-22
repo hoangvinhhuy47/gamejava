@@ -1,0 +1,95 @@
+package com.nope.fishing;
+option optimize_for = SPEED;
+option java_package = "message";
+option java_outer_classname = "ThirteenKillerProto";
+
+message TKGameInfo
+{
+    repeated TCRoomInfo rooms = 1;
+    repeated int32 iDOfDeletedRooms = 2;
+    optional int64 money = 3;
+    optional int32 avatar = 4;
+}
+
+message TKRoomInfo
+{
+    optional int32 roomId = 1;
+    optional int32 errorCode = 2;
+    repeated TCUserInfo users = 3;
+    optional int64 betLevel = 4;
+
+    optional string tableOwner = 5;
+    optional int32 maxPlayersOfRoom = 6;
+    optional int32 playersJoinedRoom = 7;
+}
+
+message TKUserInfo
+{
+    optional string nickName = 1;
+    optional int64 money = 2;
+    optional int32 posUser = 3;
+    optional int32 userId = 4;
+    optional bool isMasterClient = 5;
+    optional int64 winGold = 6;
+    optional bool isLostFour = 7;
+    optional int32 idAvatar = 8;
+}
+
+message TKNewRoom
+{
+    optional string tableOwner = 1;
+    optional int64 betLevel = 2;
+    optional int32 numberPlayers = 3;
+}
+
+message TKCountdown
+{
+    optional bool isStartCountdown = 1;
+    optional float time = 2;
+    optional int32 roomId = 3;
+    optional int32 userId = 4;
+}
+
+message TKCards
+{
+    optional int32 roomId = 1;
+    repeated TCCardInfo listCard = 2;
+    optional int32 userId = 3;
+    optional int32 errorCode = 4;
+    repeated int32 cardListOfFines = 5;
+}
+
+message TKCardInfo
+{
+    optional int32 cardId = 1;
+    optional TCVector2 anchoredPosition = 2;
+    optional TCVector2 anchorMin = 3;
+    optional TCVector2 anchorMax = 4;
+}
+
+message TKVector2
+{
+    optional float x = 1;
+    optional float y = 2;
+}
+
+message TKUserGoFirst
+{
+    optional int32 userId = 1;
+    optional int32 cardId = 2;
+    optional bool isNewGame = 3;
+}
+
+message TKUserPass
+{
+    optional int32 roomId = 1;
+    optional int32 userId = 2;
+    optional bool isPass = 3;
+}
+
+message TKUserPenalty
+{
+    optional int32 roomId = 1;
+    optional bool isLoser = 3;
+}
+

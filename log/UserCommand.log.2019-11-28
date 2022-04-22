@@ -1,0 +1,42 @@
+28-11-2019 12:38:37 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 12:39:10 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 13027
+28-11-2019 12:42:20 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 12:42:26 INFO  [nioEventLoopGroup-7-1] - User offline - 174173
+28-11-2019 12:42:35 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 12:43:47 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 12:45:10 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 12:47:12 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 12:48:16 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 12:48:45 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 12:50:27 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 12:52:30 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 12:53:32 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 12:53:34 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 12:55:45 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 12:59:30 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 13:04:00 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 13:07:11 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 13:08:00 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 13:12:00 INFO  [nioEventLoopGroup-7-1] - User offline - 174173
+28-11-2019 14:13:54 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 14:14:28 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:15:41 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:17:13 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:18:15 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:19:07 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:22:40 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:22:42 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:27:37 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:28:20 INFO  [nioEventLoopGroup-7-2] - User offline - 174173
+28-11-2019 14:28:32 INFO  [nioEventLoopGroup-7-3] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 14:33:58 INFO  [nioEventLoopGroup-7-1] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 14:34:36 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 14:38:49 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 14:39:01 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 14:39:03 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 14:39:25 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 14:41:56 INFO  [nioEventLoopGroup-7-1] - Client ping check network - 174173
+28-11-2019 14:42:20 INFO  [nioEventLoopGroup-7-1] - User offline - 174173
+28-11-2019 14:42:23 INFO  [nioEventLoopGroup-7-2] - >>>>>>>>>>>>>>>>> INIT_CLIENT_REQUEST_BEAN {}{"mac address":"NETWORK","clientVersion":250,"deviceId":"74f8ee50f581abb9b09995fae571047ab56e1602","platform":"UNKNOWN"}
+28-11-2019 14:45:01 INFO  [nioEventLoopGroup-7-2] - Client ping check network - 174173
+28-11-2019 14:50:00 INFO  [nioEventLoopGroup-7-2] - User offline - 174173
